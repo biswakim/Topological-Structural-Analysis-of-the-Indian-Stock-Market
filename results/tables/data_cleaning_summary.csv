@@ -1,0 +1,11 @@
+item,value
+Tickers in the Nifty 500 list,501
+Removed: Yahoo returned no data,2
+Removed: price history < 97% of days (recent listings),61
+Removed: gap at the start of the window,2
+Stocks retained (network nodes),436
+Trading days,740
+Daily log returns per stock,739
+Price cells forward-filled,44
+|log return| > 0.20 flagged for audit,69
+Flagged returns classified as mechanical and masked,9

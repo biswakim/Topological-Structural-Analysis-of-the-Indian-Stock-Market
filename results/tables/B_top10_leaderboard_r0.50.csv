@@ -1,0 +1,11 @@
+rank,degree_stock,degree_sector,degree_psu,degree_value,betweenness_stock,betweenness_sector,betweenness_psu,betweenness_value,eigenvector_stock,eigenvector_sector,eigenvector_psu,eigenvector_value
+1,RECLTD,Financials,True,0.1149,DLF,Realty,False,0.0153,RECLTD,Financials,True,0.2306
+2,CANBK,Financials,True,0.1126,CANBK,Financials,True,0.0115,CANBK,Financials,True,0.2129
+3,BEL,Capital Goods,True,0.1034,BEL,Capital Goods,True,0.0087,CONCOR,Services,True,0.2070
+4,TATAPOWER,Power,False,0.0989,SHRIRAMFIN,Financials,False,0.0080,PFC,Financials,True,0.2068
+5,PFC,Financials,True,0.0966,AMBUJACEM,Cement,False,0.0072,TATAPOWER,Power,False,0.1944
+6,CONCOR,Services,True,0.0920,RECLTD,Financials,True,0.0056,BEL,Capital Goods,True,0.1924
+7,DLF,Realty,False,0.0897,TATAPOWER,Power,False,0.0053,PNB,Financials,True,0.1894
+8,PNB,Financials,True,0.0897,HDFCAMC,Financials,False,0.0045,HUDCO,Financials,True,0.1852
+9,BHEL,Capital Goods,True,0.0851,CDSL,Financials,False,0.0042,GAIL,Oil & Gas,True,0.1841
+10,GAIL,Oil & Gas,True,0.0851,IRCON,Construction,True,0.0040,CENTRALBK,Financials,True,0.1808

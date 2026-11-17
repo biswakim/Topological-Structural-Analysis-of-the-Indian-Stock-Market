@@ -1,0 +1,437 @@
+Ticker,degree,Company Name,sector,psu
+RECLTD.NS,50,REC Ltd.,Financials,True
+CANBK.NS,49,Canara Bank,Financials,True
+BEL.NS,45,Bharat Electronics Ltd.,Capital Goods,True
+TATAPOWER.NS,43,Tata Power Co. Ltd.,Power,False
+PFC.NS,42,Power Finance Corporation Ltd.,Financials,True
+CONCOR.NS,40,Container Corporation of India Ltd.,Services,True
+DLF.NS,39,DLF Ltd.,Realty,False
+PNB.NS,39,Punjab National Bank,Financials,True
+BHEL.NS,37,Bharat Heavy Electricals Ltd.,Capital Goods,True
+GAIL.NS,37,GAIL (India) Ltd.,Oil & Gas,True
+CENTRALBK.NS,36,Central Bank of India,Financials,True
+AMBUJACEM.NS,35,Ambuja Cements Ltd.,Cement,False
+HUDCO.NS,35,Housing & Urban Development Corporation Ltd.,Financials,True
+IRCTC.NS,33,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Serv.,True
+BANKBARODA.NS,33,Bank of Baroda,Financials,True
+SJVN.NS,32,SJVN Ltd.,Power,True
+IOC.NS,32,Indian Oil Corporation Ltd.,Oil & Gas,True
+IRCON.NS,32,IRCON International Ltd.,Construction,True
+LICHSGFIN.NS,31,LIC Housing Finance Ltd.,Financials,False
+NHPC.NS,31,NHPC Ltd.,Power,True
+NBCC.NS,29,NBCC (India) Ltd.,Construction,True
+NCC.NS,29,NCC Ltd.,Construction,False
+SAIL.NS,29,Steel Authority of India Ltd.,Metals & Mining,True
+NMDC.NS,25,NMDC Ltd.,Metals & Mining,True
+MAHABANK.NS,24,Bank of Maharashtra,Financials,True
+ACC.NS,24,ACC Ltd.,Cement,False
+UCOBANK.NS,24,UCO Bank,Financials,True
+IOB.NS,23,Indian Overseas Bank,Financials,True
+NTPC.NS,23,NTPC Ltd.,Power,True
+SBIN.NS,22,State Bank of India,Financials,True
+RAILTEL.NS,22,Railtel Corporation Of India Ltd.,Telecom,True
+HAL.NS,22,Hindustan Aeronautics Ltd.,Capital Goods,True
+ADANIPORTS.NS,21,Adani Ports and Special Economic Zone Ltd.,Services,False
+LICI.NS,19,Life Insurance Corporation of India,Financials,True
+ENGINERSIN.NS,19,Engineers India Ltd.,Construction,True
+SHRIRAMFIN.NS,18,Shriram Finance Ltd.,Financials,False
+UNIONBANK.NS,18,Union Bank of India,Financials,True
+RVNL.NS,18,Rail Vikas Nigam Ltd.,Construction,True
+HDFCAMC.NS,17,HDFC Asset Management Company Ltd.,Financials,False
+IRFC.NS,17,Indian Railway Finance Corporation Ltd.,Financials,True
+GMRAIRPORT.NS,16,GMR Airports Ltd.,Services,False
+ABCAPITAL.NS,16,Aditya Birla Capital Ltd.,Financials,False
+TATASTEEL.NS,15,Tata Steel Ltd.,Metals & Mining,False
+BANKINDIA.NS,15,Bank of India,Financials,True
+BPCL.NS,15,Bharat Petroleum Corporation Ltd.,Oil & Gas,True
+RITES.NS,14,RITES Ltd.,Construction,True
+HINDCOPPER.NS,14,Hindustan Copper Ltd.,Metals & Mining,True
+JINDALSTEL.NS,13,Jindal Steel Ltd.,Metals & Mining,False
+BEML.NS,13,BEML Ltd.,Capital Goods,True
+NATIONALUM.NS,13,National Aluminium Co. Ltd.,Metals & Mining,True
+ADANIENT.NS,12,Adani Enterprises Ltd.,Metals & Mining,False
+LTF.NS,12,L&T Finance Ltd.,Financials,False
+COCHINSHIP.NS,12,Cochin Shipyard Ltd.,Capital Goods,True
+INDIANB.NS,12,Indian Bank,Financials,True
+NSLNISP.NS,11,NMDC Steel Ltd.,Metals & Mining,True
+GODREJPROP.NS,11,Godrej Properties Ltd.,Realty,False
+LT.NS,11,Larsen & Toubro Ltd.,Construction,False
+VEDL.NS,10,Vedanta Ltd.,Metals & Mining,False
+J&KBANK.NS,10,Jammu & Kashmir Bank Ltd.,Financials,True
+COALINDIA.NS,10,Coal India Ltd.,Oil & Gas,True
+GRSE.NS,10,Garden Reach Shipbuilders & Engineers Ltd.,Capital Goods,True
+ASHOKLEY.NS,9,Ashok Leyland Ltd.,Capital Goods,False
+MPHASIS.NS,9,MphasiS Ltd.,IT,False
+ULTRACEMCO.NS,9,UltraTech Cement Ltd.,Cement,False
+LTM.NS,9,LTM Ltd.,IT,False
+TECHM.NS,9,Tech Mahindra Ltd.,IT,False
+TITAGARH.NS,9,Titagarh Rail Systems Ltd.,Capital Goods,False
+INFY.NS,9,Infosys Ltd.,IT,False
+TCS.NS,8,Tata Consultancy Services Ltd.,IT,False
+HCLTECH.NS,8,HCL Technologies Ltd.,IT,False
+GMDCLTD.NS,8,Gujarat Mineral Development Corporation Ltd.,Metals & Mining,True
+HINDALCO.NS,8,Hindalco Industries Ltd.,Metals & Mining,False
+JSWSTEEL.NS,8,JSW Steel Ltd.,Metals & Mining,False
+BDL.NS,8,Bharat Dynamics Ltd.,Capital Goods,True
+ADANIGREEN.NS,7,Adani Green Energy Ltd.,Power,False
+COFORGE.NS,7,Coforge Ltd.,IT,False
+WIPRO.NS,7,Wipro Ltd.,IT,False
+BSOFT.NS,7,Birlasoft Ltd.,IT,False
+SIEMENS.NS,7,Siemens Ltd.,Capital Goods,False
+JWL.NS,7,Jupiter Wagons Ltd.,Capital Goods,False
+IDBI.NS,7,IDBI Bank Ltd.,Financials,True
+HINDPETRO.NS,7,Hindustan Petroleum Corporation Ltd.,Oil & Gas,True
+ADANIENSOL.NS,7,Adani Energy Solutions Ltd.,Power,False
+PERSISTENT.NS,6,Persistent Systems Ltd.,IT,False
+CHOLAFIN.NS,6,Cholamandalam Investment and Finance Company Ltd.,Financials,False
+RBLBANK.NS,6,RBL Bank Ltd.,Financials,False
+CESC.NS,6,CESC Ltd.,Power,False
+ATGL.NS,6,Adani Total Gas Ltd.,Oil & Gas,False
+MAZDOCK.NS,6,Mazagoan Dock Shipbuilders Ltd.,Capital Goods,True
+PETRONET.NS,5,Petronet LNG Ltd.,Oil & Gas,False
+DALBHARAT.NS,5,Dalmia Bharat Ltd.,Cement,False
+IRB.NS,5,IRB Infrastructure Developers Ltd.,Construction,False
+ADANIPOWER.NS,5,Adani Power Ltd.,Power,False
+YESBANK.NS,5,Yes Bank Ltd.,Financials,False
+TVSMOTOR.NS,5,TVS Motor Company Ltd.,Auto,False
+CDSL.NS,5,Central Depository Services (India) Ltd.,Financials,False
+BAJFINANCE.NS,4,Bajaj Finance Ltd.,Financials,False
+INDHOTEL.NS,4,Indian Hotels Co. Ltd.,Consumer Serv.,False
+BAJAJFINSV.NS,4,Bajaj Finserv Ltd.,Financials,False
+POWERGRID.NS,4,Power Grid Corporation of India Ltd.,Power,True
+IDFCFIRSTB.NS,4,IDFC First Bank Ltd.,Financials,False
+MOTHERSON.NS,4,Samvardhana Motherson International Ltd.,Auto,False
+NLCINDIA.NS,4,NLC India Ltd.,Power,True
+ONGC.NS,4,Oil & Natural Gas Corporation Ltd.,Oil & Gas,True
+OBEROIRLTY.NS,4,Oberoi Realty Ltd.,Realty,False
+ABB.NS,3,ABB India Ltd.,Capital Goods,False
+CAMS.NS,3,Computer Age Management Services Ltd.,Financials,False
+HDFCLIFE.NS,3,HDFC Life Insurance Company Ltd.,Financials,False
+HFCL.NS,3,HFCL Ltd.,Telecom,False
+SCI.NS,3,Shipping Corporation of India Ltd.,Services,True
+PRESTIGE.NS,3,Prestige Estates Projects Ltd.,Realty,False
+JIOFIN.NS,3,Jio Financial Services Ltd.,Financials,False
+LODHA.NS,3,Lodha Developers Ltd.,Realty,False
+AXISBANK.NS,3,Axis Bank Ltd.,Financials,False
+ICICILIFE.NS,3,ICICI Life Insurance Ltd.,Financials,False
+DATAPATTNS.NS,3,Data Patterns (India) Ltd.,Capital Goods,False
+MOTILALOFS.NS,3,Motilal Oswal Financial Services Ltd.,Financials,False
+MFSL.NS,3,Max Financial Services Ltd.,Financials,False
+MARUTI.NS,3,Maruti Suzuki India Ltd.,Auto,False
+JSWENERGY.NS,3,JSW Energy Ltd.,Power,False
+SBILIFE.NS,3,SBI Life Insurance Company Ltd.,Financials,False
+APOLLOTYRE.NS,2,Apollo Tyres Ltd.,Auto,False
+RAMCOCEM.NS,2,The Ramco Cements Ltd.,Cement,False
+NIACL.NS,2,The New India Assurance Company Ltd.,Financials,True
+ANGELONE.NS,2,Angel One Ltd.,Financials,False
+EICHERMOT.NS,2,Eicher Motors Ltd.,Auto,False
+M&M.NS,2,Mahindra & Mahindra Ltd.,Auto,False
+SHREECEM.NS,2,Shree Cement Ltd.,Cement,False
+CUMMINSIND.NS,2,Cummins India Ltd.,Capital Goods,False
+JKTYRE.NS,2,JK Tyre & Industries Ltd.,Auto,False
+ICICIBANK.NS,2,ICICI Bank Ltd.,Financials,False
+DABUR.NS,2,Dabur India Ltd.,FMCG,False
+HEROMOTOCO.NS,2,Hero MotoCorp Ltd.,Auto,False
+IFCI.NS,2,IFCI Ltd.,Financials,True
+HDFCBANK.NS,2,HDFC Bank Ltd.,Financials,False
+GRASIM.NS,2,Grasim Industries Ltd.,Cement,False
+TMPV.NS,2,Tata Motors Passenger Vehicles Ltd.,Auto,False
+EXIDEIND.NS,2,Exide Industries Ltd.,Auto,False
+BSE.NS,2,BSE Ltd.,Financials,False
+BAJAJ-AUTO.NS,2,Bajaj Auto Ltd.,Auto,False
+MGL.NS,1,Mahanagar Gas Ltd.,Oil & Gas,False
+INOXWIND.NS,1,Inox Wind Ltd.,Capital Goods,False
+HINDZINC.NS,1,Hindustan Zinc Ltd.,Metals & Mining,False
+ZENSARTECH.NS,1,Zensar Technolgies Ltd.,IT,False
+INDUSTOWER.NS,1,Indus Towers Ltd.,Telecom,False
+OLECTRA.NS,1,Olectra Greentech Ltd.,Auto,False
+MUTHOOTFIN.NS,1,Muthoot Finance Ltd.,Financials,False
+MCX.NS,1,Multi Commodity Exchange of India Ltd.,Financials,False
+SUZLON.NS,1,Suzlon Energy Ltd.,Capital Goods,False
+KEI.NS,1,KEI Industries Ltd.,Capital Goods,False
+GODREJCP.NS,1,Godrej Consumer Products Ltd.,FMCG,False
+M&MFIN.NS,1,Mahindra & Mahindra Financial Services Ltd.,Financials,False
+GRAPHITE.NS,1,Graphite India Ltd.,Capital Goods,False
+SUNPHARMA.NS,1,Sun Pharmaceutical Industries Ltd.,Healthcare,False
+CEATLTD.NS,1,Ceat Ltd.,Auto,False
+HBLENGINE.NS,1,HBL Engineering Ltd.,Capital Goods,False
+GICRE.NS,1,General Insurance Corporation of India,Financials,True
+FEDERALBNK.NS,1,Federal Bank Ltd.,Financials,False
+DIXON.NS,1,Dixon Technologies (India) Ltd.,Consumer Dur.,False
+ARE&M.NS,1,Amara Raja Energy & Mobility Ltd.,Auto,False
+FACT.NS,1,Fertilisers and Chemicals Travancore Ltd.,Chemicals,True
+NAM-INDIA.NS,1,Nippon Life India Asset Management Ltd.,Financials,False
+DEEPAKNTR.NS,1,Deepak Nitrite Ltd.,Chemicals,False
+OIL.NS,1,Oil India Ltd.,Oil & Gas,True
+JBMA.NS,1,JBM Auto Ltd.,Auto,False
+MRF.NS,1,MRF Ltd.,Auto,False
+MMTC.NS,1,MMTC Ltd.,Services,True
+LUPIN.NS,1,Lupin Ltd.,Healthcare,False
+CHENNPETRO.NS,1,Chennai Petroleum Corporation Ltd.,Oil & Gas,True
+POLYCAB.NS,1,Polycab India Ltd.,Capital Goods,False
+KAYNES.NS,1,Kaynes Technology India Ltd.,Capital Goods,False
+IDEA.NS,1,Vodafone Idea Ltd.,Telecom,False
+SOBHA.NS,1,Sobha Ltd.,Realty,False
+SOLARINDS.NS,1,Solar Industries India Ltd.,Chemicals,False
+CHAMBLFERT.NS,1,Chambal Fertilizers & Chemicals Ltd.,Chemicals,False
+KFINTECH.NS,1,Kfin Technologies Ltd.,Financials,False
+HEGAM.NS,1,HEG Advanced Materials Ltd.,Capital Goods,False
+AARTIIND.NS,1,Aarti Industries Ltd.,Chemicals,False
+AWL.NS,1,AWL Agri Business Ltd.,FMCG,False
+BRIGADE.NS,1,Brigade Enterprises Ltd.,Realty,False
+HINDUNILVR.NS,1,Hindustan Unilever Ltd.,FMCG,False
+BANDHANBNK.NS,1,Bandhan Bank Ltd.,Financials,False
+IGL.NS,1,Indraprastha Gas Ltd.,Oil & Gas,False
+MRPL.NS,1,Mangalore Refinery & Petrochemicals Ltd.,Oil & Gas,True
+MANAPPURAM.NS,1,Manappuram Finance Ltd.,Financials,False
+BHARATFORG.NS,1,Bharat Forge Ltd.,Auto,False
+REDINGTON.NS,0,Redington Ltd.,Services,False
+RKFORGE.NS,0,Ramkrishna Forgings Ltd.,Auto,False
+RELIANCE.NS,0,Reliance Industries Ltd.,Oil & Gas,False
+RAINBOW.NS,0,Rainbow Childrens Medicare Ltd.,Healthcare,False
+SBICARD.NS,0,SBI Cards and Payment Services Ltd.,Financials,False
+RPOWER.NS,0,Reliance Power Ltd.,Power,False
+SHRIPISTON.NS,0,SPR Auto Technologies Ltd.,Auto,False
+SRF.NS,0,SRF Ltd.,Chemicals,False
+CIPLA.NS,0,Cipla Ltd.,Healthcare,False
+CUB.NS,0,City Union Bank Ltd.,Financials,False
+CARTRADE.NS,0,Cartrade Tech Ltd.,Consumer Serv.,False
+CLEAN.NS,0,Clean Science and Technology Ltd.,Chemicals,False
+PFOCUS.NS,0,Prime Focus Ltd.,Media,False
+PRIVISCL.NS,0,Privi Speciality Chemicals Ltd.,Chemicals,False
+RADICO.NS,0,Radico Khaitan Ltd,FMCG,False
+RHIM.NS,0,RHI MAGNESITA INDIA LTD.,Capital Goods,False
+RRKABEL.NS,0,R R Kabel Ltd.,Capital Goods,False
+CASTROLIND.NS,0,Castrol India Ltd.,Oil & Gas,False
+KOTAKBANK.NS,0,Kotak Mahindra Bank Ltd.,Financials,False
+KIMS.NS,0,Krishna Institute of Medical Sciences Ltd.,Healthcare,False
+LTTS.NS,0,L&T Technology Services Ltd.,IT,False
+POONAWALLA.NS,0,Poonawalla Fincorp Ltd.,Financials,False
+BBOX.NS,0,Black Box Ltd.,IT,False
+BLUESTARCO.NS,0,Blue Star Ltd.,Consumer Dur.,False
+BOSCHLTD.NS,0,Bosch Ltd.,Auto,False
+BRITANNIA.NS,0,Britannia Industries Ltd.,FMCG,False
+BIRET.NS,0,Brookfield India Real Estate Trust,Realty,False
+PVRINOX.NS,0,PVR INOX Ltd.,Media,False
+PAGEIND.NS,0,Page Industries Ltd.,Textiles,False
+PARADEEP.NS,0,Paradeep Phosphates Ltd.,Chemicals,False
+PATANJALI.NS,0,Patanjali Foods Ltd.,FMCG,False
+PHOENIXLTD.NS,0,Phoenix Mills Ltd.,Realty,False
+PGEL.NS,0,PG Electroplast Ltd.,Consumer Dur.,False
+PPLPHARMA.NS,0,Piramal Pharma Ltd.,Healthcare,False
+POLYMED.NS,0,Poly Medicure Ltd.,Healthcare,False
+PAYTM.NS,0,One 97 Communications Ltd.,Financials,False
+OFSS.NS,0,Oracle Financial Services Software Ltd.,IT,False
+POLICYBZR.NS,0,PB Fintech Ltd.,Financials,False
+PCBL.NS,0,PCBL Chemical Ltd.,Chemicals,False
+PIIND.NS,0,PI Industries Ltd.,Chemicals,False
+PNBHOUSING.NS,0,PNB Housing Finance Ltd.,Financials,False
+PTCIL.NS,0,PTC Industries Ltd.,Capital Goods,False
+NESTLEIND.NS,0,Nestle India Ltd.,FMCG,False
+NETWEB.NS,0,Netweb Technologies India Ltd.,IT,False
+NEULANDLAB.NS,0,Neuland Laboratories Ltd.,Healthcare,False
+NUVAMA.NS,0,Nuvama Wealth Management Ltd.,Financials,False
+NUVOCO.NS,0,Nuvoco Vistas Corporation Ltd.,Cement,False
+PIDILITIND.NS,0,Pidilite Industries Ltd.,Chemicals,False
+AVANTIFEED.NS,0,Avanti Feeds Ltd.,FMCG,False
+AUROPHARMA.NS,0,Aurobindo Pharma Ltd.,Healthcare,False
+ATUL.NS,0,Atul Ltd.,Chemicals,False
+ASTRAL.NS,0,Astral Ltd.,Capital Goods,False
+STARHEALTH.NS,0,Star Health and Allied Insurance Company Ltd.,Financials,False
+TATACOMM.NS,0,Tata Communications Ltd.,Telecom,False
+TATACHEM.NS,0,Tata Chemicals Ltd.,Chemicals,False
+CANFINHOME.NS,0,Can Fin Homes Ltd.,Financials,False
+SYRMA.NS,0,Syrma SGS Technology Ltd.,Capital Goods,False
+SYNGENE.NS,0,Syngene International Ltd.,Healthcare,False
+SWANCORP.NS,0,Swan Corp Ltd.,Chemicals,False
+UBL.NS,0,United Breweries Ltd.,FMCG,False
+AETHER.NS,0,Aether Industries Ltd.,Chemicals,False
+AEGISLOG.NS,0,Aegis Logistics Ltd.,Oil & Gas,False
+ABSLAMC.NS,0,Aditya Birla Sun Life AMC Ltd.,Financials,False
+SUNTV.NS,0,Sun TV Network Ltd.,Media,False
+TDPOWERSYS.NS,0,TD Power Systems Ltd.,Capital Goods,False
+APLAPOLLO.NS,0,APL Apollo Tubes Ltd.,Capital Goods,False
+UPL.NS,0,UPL Ltd.,Chemicals,False
+UNOMINDA.NS,0,UNO Minda Ltd.,Auto,False
+TIINDIA.NS,0,Tube Investments of India Ltd.,Auto,False
+TRITURBINE.NS,0,Triveni Turbine Ltd.,Capital Goods,False
+TRIDENT.NS,0,Trident Ltd.,Textiles,False
+TRENT.NS,0,Trent Ltd.,Consumer Serv.,False
+ASTERDM.NS,0,Aster DM Quality Care Ltd.,Healthcare,False
+DMART.NS,0,Avenue Supermarts Ltd.,Consumer Serv.,False
+VIJAYA.NS,0,Vijaya Diagnostic Centre Ltd.,Healthcare,False
+VBL.NS,0,Varun Beverages Ltd.,FMCG,False
+VTL.NS,0,Vardhman Textiles Ltd.,Textiles,False
+USHAMART.NS,0,Usha Martin Ltd.,Capital Goods,False
+UNITDSPR.NS,0,United Spirits Ltd.,FMCG,False
+SUPREMEIND.NS,0,Supreme Industries Ltd.,Capital Goods,False
+SUNDARMFIN.NS,0,Sundaram Finance Ltd.,Financials,False
+BLS.NS,0,BLS International Services Ltd.,Consumer Serv.,False
+ASIANPAINT.NS,0,Asian Paints Ltd.,Consumer Dur.,False
+TORNTPHARM.NS,0,Torrent Pharmaceuticals Ltd.,Healthcare,False
+TITAN.NS,0,Titan Company Ltd.,Consumer Dur.,False
+AMBER.NS,0,Amber Enterprises India Ltd.,Consumer Dur.,False
+TIMKEN.NS,0,Timken India Ltd.,Capital Goods,False
+THERMAX.NS,0,Thermax Ltd.,Capital Goods,False
+ECLERX.NS,0,eClerx Services Ltd.,Services,False
+CARBORUNIV.NS,0,Carborundum Universal Ltd.,Capital Goods,False
+CGCL.NS,0,Capri Global Capital Ltd.,Financials,False
+SUMICHEM.NS,0,Sumitomo Chemical India Ltd.,Chemicals,False
+KIRLOSENG.NS,0,Kirloskar Oil Eng Ltd.,Capital Goods,False
+CRISIL.NS,0,CRISIL Ltd.,Financials,False
+CIEINDIA.NS,0,CIE Automotive India Ltd.,Auto,False
+CGPOWER.NS,0,CG Power and Industrial Solutions Ltd.,Capital Goods,False
+CCL.NS,0,CCL Products (I) Ltd.,FMCG,False
+CHOLAHLDNG.NS,0,Cholamandalam Financial Holdings Ltd.,Financials,False
+CHOICEIN.NS,0,Choice International Ltd.,Financials,False
+CEMPRO.NS,0,Cemindia Projects Ltd.,Construction,False
+CAPLIPOINT.NS,0,Caplin Point Laboratories Ltd.,Healthcare,False
+STLTECH.NS,0,Sterlite Technologies Ltd.,Telecom,False
+APOLLOHOSP.NS,0,Apollo Hospitals Enterprise Ltd.,Healthcare,False
+APARINDS.NS,0,Apar Industries Ltd.,Capital Goods,False
+ANURAS.NS,0,Anupam Rasayan India Ltd.,Chemicals,False
+ANANTRAJ.NS,0,Anant Raj Ltd.,Realty,False
+ANANDRATHI.NS,0,Anand Rathi Wealth Ltd.,Financials,False
+ALKEM.NS,0,Alkem Laboratories Ltd.,Healthcare,False
+AJANTPHARM.NS,0,Ajanta Pharmaceuticals Ltd.,Healthcare,False
+TORNTPOWER.NS,0,Torrent Power Ltd.,Power,False
+THANGAMAYL.NS,0,Thangamayil Jewellery Ltd.,Consumer Dur.,False
+TEJASNET.NS,0,Tejas Networks Ltd.,Telecom,False
+TEGA.NS,0,Tega Industries Ltd.,Capital Goods,False
+TECHNOE.NS,0,Techno Electric & Engineering Company Ltd.,Construction,False
+AIAENG.NS,0,AIA Engineering Ltd.,Capital Goods,False
+ASAHIINDIA.NS,0,Asahi India Glass Ltd.,Auto,False
+APTUS.NS,0,Aptus Value Housing Finance India Ltd.,Financials,False
+TATACONSUM.NS,0,Tata Consumer Products Ltd.,FMCG,False
+360ONE.NS,0,360 ONE WAM Ltd.,Financials,False
+GODREJIND.NS,0,Godrej Industries Ltd.,Diversified,False
+GRANULES.NS,0,Granules India Ltd.,Healthcare,False
+GRAVITA.NS,0,Gravita India Ltd.,Metals & Mining,False
+GESHIP.NS,0,Great Eastern Shipping Co. Ltd.,Services,False
+FLUOROCHEM.NS,0,Gujarat Fluorochemicals Ltd.,Chemicals,False
+GILLETTE.NS,0,Gillette India Ltd.,FMCG,False
+GLAND.NS,0,Gland Pharma Ltd.,Healthcare,False
+GLAXO.NS,0,Glaxosmithkline Pharmaceuticals Ltd.,Healthcare,False
+GLENMARK.NS,0,Glenmark Pharmaceuticals Ltd.,Healthcare,False
+MEDANTA.NS,0,Global Health Ltd.,Healthcare,False
+GPIL.NS,0,Godawari Power & Ispat Ltd.,Capital Goods,False
+GODFRYPHLP.NS,0,Godfrey Phillips India Ltd.,FMCG,False
+FINCABLES.NS,0,Finolex Cables Ltd.,Capital Goods,False
+FSL.NS,0,Firstsource Solutions Ltd.,Services,False
+FIVESTAR.NS,0,Five-Star Business Finance Ltd.,Financials,False
+UTIAMC.NS,0,UTI Asset Management Company Ltd.,Financials,False
+GVT&D.NS,0,GE Vernova T&D India Ltd.,Capital Goods,False
+GABRIEL.NS,0,Gabriel India Ltd.,Auto,False
+GALLANTT.NS,0,Gallantt Ispat Ltd.,Capital Goods,False
+TATAELXSI.NS,0,Tata Elxsi Ltd.,IT,False
+TATAINVEST.NS,0,Tata Investment Corporation Ltd.,Financials,False
+TTML.NS,0,Tata Teleservices (Maharashtra) Ltd.,Telecom,False
+ENDURANCE.NS,0,Endurance Technologies Ltd.,Auto,False
+ESCORTS.NS,0,Escorts Kubota Ltd.,Capital Goods,False
+ETERNAL.NS,0,Eternal Ltd.,Consumer Serv.,False
+NYKAA.NS,0,FSN E-Commerce Ventures Ltd.,Consumer Serv.,False
+JKCEMENT.NS,0,J.K. Cement Ltd.,Cement,False
+JMFINANCIL.NS,0,JM Financial Ltd.,Financials,False
+JSWINFRA.NS,0,JSW Infrastructure Ltd.,Services,False
+JPPOWER.NS,0,Jaiprakash Power Ventures Ltd.,Power,False
+JINDALSAW.NS,0,Jindal Saw Ltd.,Capital Goods,False
+FORTIS.NS,0,Fortis Healthcare Ltd.,Healthcare,False
+AUBANK.NS,0,AU Small Finance Bank Ltd.,Financials,False
+AAVAS.NS,0,Aavas Financiers Ltd.,Financials,False
+ABBOTINDIA.NS,0,Abbott India Ltd.,Healthcare,False
+ACE.NS,0,Action Construction Equipment Ltd.,Capital Goods,False
+ACUTAAS.NS,0,Acutaas Chemicals Ltd.,Healthcare,False
+WELSPUNLIV.NS,0,Welspun Living Ltd.,Textiles,False
+BHARTIARTL.NS,0,Bharti Airtel Ltd.,Telecom,False
+BIOCON.NS,0,Biocon Ltd.,Healthcare,False
+SHYAMMETL.NS,0,Shyam Metalics and Energy Ltd.,Capital Goods,False
+SIGNATURE.NS,0,Signatureglobal (India) Ltd.,Realty,False
+SONACOMS.NS,0,Sona BLW Precision Forgings Ltd.,Auto,False
+TARIL.NS,0,Transformers And Rectifiers (India) Ltd.,Capital Goods,False
+ABREL.NS,0,Aditya Birla Real Estate Ltd.,Realty,False
+BAJAJHLDNG.NS,0,Bajaj Holdings & Investment Ltd.,Financials,False
+BALKRISIND.NS,0,Balkrishna Industries Ltd.,Auto,False
+AFFLE.NS,0,Affle 3i Ltd.,IT,False
+WELCORP.NS,0,Welspun Corp Ltd.,Capital Goods,False
+VOLTAS.NS,0,Voltas Ltd.,Consumer Dur.,False
+SCHNEIDER.NS,0,Schneider Electric Infrastructure Ltd.,Capital Goods,False
+SCHAEFFLER.NS,0,Schaeffler India Ltd.,Auto,False
+SARDAEN.NS,0,Sarda Energy and Minerals Ltd.,Metals & Mining,False
+SANSERA.NS,0,Sansera Engineering Ltd.,Auto,False
+SAMMAANCAP.NS,0,Sammaan Capital Ltd.,Financials,False
+BALRAMCHIN.NS,0,Balrampur Chini Mills Ltd.,FMCG,False
+ZYDUSLIFE.NS,0,Zydus Lifesciences Ltd.,Healthcare,False
+ZENTEC.NS,0,Zen Technologies Ltd.,Capital Goods,False
+ZEEL.NS,0,Zee Entertainment Enterprises Ltd.,Media,False
+ZFCVINDIA.NS,0,ZF Commercial Vehicle Control Systems India Ltd.,Auto,False
+WOCKPHARMA.NS,0,Wockhardt Ltd.,Healthcare,False
+WHIRLPOOL.NS,0,Whirlpool of India Ltd.,Consumer Dur.,False
+BERGEPAINT.NS,0,Berger Paints India Ltd.,Consumer Dur.,False
+BATAINDIA.NS,0,Bata India Ltd.,Consumer Dur.,False
+ZYDUSWELL.NS,0,Zydus Wellness Ltd.,FMCG,False
+JUBLINGREA.NS,0,Jubilant Ingrevia Ltd.,Chemicals,False
+DELHIVERY.NS,0,Delhivery Ltd.,Services,False
+DEVYANI.NS,0,Devyani International Ltd.,Consumer Serv.,False
+DIVISLAB.NS,0,Divi's Laboratories Ltd.,Healthcare,False
+LALPATHLAB.NS,0,Dr. Lal Path Labs Ltd.,Healthcare,False
+DRREDDY.NS,0,Dr. Reddy's Laboratories Ltd.,Healthcare,False
+EIDPARRY.NS,0,E.I.D. Parry (India) Ltd.,FMCG,False
+CONCORDBIO.NS,0,Concord Biotech Ltd.,Healthcare,False
+COROMANDEL.NS,0,Coromandel International Ltd.,Chemicals,False
+CRAFTSMAN.NS,0,Craftsman Automation Ltd.,Auto,False
+CREDITACC.NS,0,CreditAccess Grameen Ltd.,Financials,False
+CROMPTON.NS,0,Crompton Greaves Consumer Electricals Ltd.,Consumer Dur.,False
+CUPID.NS,0,Cupid Ltd.,FMCG,False
+CYIENT.NS,0,Cyient Ltd.,IT,False
+DEEPAKFERT.NS,0,Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals,False
+COHANCE.NS,0,Cohance Lifesciences Ltd.,Healthcare,False
+KIRLOSBROS.NS,0,Kirloskar Brothers Ltd.,Capital Goods,False
+KEC.NS,0,Kec International Ltd.,Construction,False
+LLOYDSME.NS,0,Lloyds Metals And Energy Ltd.,Metals & Mining,False
+LINDEINDIA.NS,0,Linde India Ltd.,Chemicals,False
+LEMONTREE.NS,0,Lemon Tree Hotels Ltd.,Consumer Serv.,False
+LAURUSLABS.NS,0,Laurus Labs Ltd.,Healthcare,False
+LTFOODS.NS,0,LT Foods Ltd.,FMCG,False
+MINDACORP.NS,0,Minda Corporation Ltd.,Auto,False
+MARICO.NS,0,Marico Ltd.,FMCG,False
+MANKIND.NS,0,Mankind Pharma Ltd.,Healthcare,False
+MTARTECH.NS,0,MTAR Technologies Ltd.,Capital Goods,False
+NAVINFLUOR.NS,0,Navin Fluorine International Ltd.,Chemicals,False
+NAVA.NS,0,Nava Ltd.,Power,False
+NH.NS,0,Narayana Hrudayalaya Ltd.,Healthcare,False
+NATCOPHARM.NS,0,NATCO Pharma Ltd.,Healthcare,False
+MSUMI.NS,0,Motherson Sumi Wiring India Ltd.,Auto,False
+MAXHEALTH.NS,0,Max Healthcare Institute Ltd.,Healthcare,False
+COLPAL.NS,0,Colgate Palmolive (India) Ltd.,FMCG,False
+INDUSINDBK.NS,0,IndusInd Bank Ltd.,Financials,False
+NAUKRI.NS,0,Info Edge (India) Ltd.,Consumer Serv.,False
+INTELLECT.NS,0,Intellect Design Arena Ltd.,IT,False
+INDIGO.NS,0,InterGlobe Aviation Ltd.,Services,False
+IPCALAB.NS,0,Ipca Laboratories Ltd.,Healthcare,False
+HONAUT.NS,0,Honeywell Automation India Ltd.,Capital Goods,False
+ICICIGI.NS,0,ICICI Lombard General Insurance Company Ltd.,Financials,False
+IIFL.NS,0,IIFL Finance Ltd.,Financials,False
+ITC.NS,0,ITC Ltd.,FMCG,False
+ITI.NS,0,ITI Ltd.,Telecom,True
+INDIACEM.NS,0,India Cements Ltd.,Cement,False
+INDIAMART.NS,0,Indiamart Intermesh Ltd.,Consumer Serv.,False
+IEX.NS,0,Indian Energy Exchange Ltd.,Financials,False
+HAVELLS.NS,0,Havells India Ltd.,Consumer Dur.,False
+JUBLFOOD.NS,0,Jubilant Foodworks Ltd.,Consumer Serv.,False
+JSL.NS,0,Jindal Stainless Ltd.,Metals & Mining,False
+EMAMILTD.NS,0,Emami Ltd.,FMCG,False
+ELGIEQUIP.NS,0,Elgi Equipments Ltd.,Capital Goods,False
+ELECON.NS,0,Elecon Engineering Co. Ltd.,Capital Goods,False
+EMBASSY.NS,0,EMBASSY OFFICE PARKS REIT,Realty,False
+EIHOTEL.NS,0,EIH Ltd.,Consumer Serv.,False
+KARURVYSYA.NS,0,Karur Vysya Bank Ltd.,Financials,False
+HSCL.NS,0,Himadri Speciality Chemical Ltd.,Chemicals,False
+KPIL.NS,0,Kalpataru Projects International Ltd.,Construction,False
+KAJARIACER.NS,0,Kajaria Ceramics Ltd.,Consumer Dur.,False
+KSB.NS,0,KSB Ltd.,Capital Goods,False
+KPITTECH.NS,0,KPIT Technologies Ltd.,IT,False
+KPRMILL.NS,0,K.P.R. Mill Ltd.,Textiles,False
+HONASA.NS,0,Honasa Consumer Ltd.,FMCG,False
+HOMEFIRST.NS,0,Home First Finance Company India Ltd.,Financials,False
+POWERINDIA.NS,0,Hitachi Energy India Ltd.,Capital Goods,False
+KALYANKJIL.NS,0,Kalyan Jewellers India Ltd.,Consumer Dur.,False

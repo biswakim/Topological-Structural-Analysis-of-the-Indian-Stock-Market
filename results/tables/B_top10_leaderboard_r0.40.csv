@@ -1,0 +1,11 @@
+rank,degree_stock,degree_sector,degree_psu,degree_value,betweenness_stock,betweenness_sector,betweenness_psu,betweenness_value,eigenvector_stock,eigenvector_sector,eigenvector_psu,eigenvector_value
+1,DLF,Realty,False,0.3494,INDHOTEL,Consumer Serv.,False,0.0559,IRCTC,Consumer Serv.,True,0.1397
+2,IRCTC,Consumer Serv.,True,0.3333,ETERNAL,Consumer Serv.,False,0.0517,CONCOR,Services,True,0.1382
+3,CONCOR,Services,True,0.3264,NAUKRI,Consumer Serv.,False,0.0488,CANBK,Financials,True,0.1381
+4,CANBK,Financials,True,0.3126,DLF,Realty,False,0.0362,NCC,Construction,False,0.1355
+5,NCC,Construction,False,0.3080,LICHSGFIN,Financials,False,0.0320,RECLTD,Financials,True,0.1354
+6,TATAPOWER,Power,False,0.3057,LAURUSLABS,Healthcare,False,0.0282,TATAPOWER,Power,False,0.1346
+7,RECLTD,Financials,True,0.3011,AARTIIND,Chemicals,False,0.0279,DLF,Realty,False,0.1346
+8,AMBUJACEM,Cement,False,0.2897,BHEL,Capital Goods,True,0.0225,BHEL,Capital Goods,True,0.1296
+9,BHEL,Capital Goods,True,0.2805,LTF,Financials,False,0.0192,PFC,Financials,True,0.1295
+10,IRCON,Construction,True,0.2805,GODREJPROP,Realty,False,0.0170,AMBUJACEM,Cement,False,0.1278

@@ -1,0 +1,5496 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d4" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d3" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d2" for="node" attr.name="name" attr.type="string"/>
+<key id="d1" for="node" attr.name="sector" attr.type="string"/>
+<key id="d0" for="graph" attr.name="threshold" attr.type="double"/>
+<graph edgedefault="undirected"><data key="d0">0.5</data>
+<node id="360ONE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">360 ONE WAM Ltd.</data>
+</node>
+<node id="ABB.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">ABB India Ltd.</data>
+</node>
+<node id="ACC.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">ACC Ltd.</data>
+</node>
+<node id="AIAENG.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">AIA Engineering Ltd.</data>
+</node>
+<node id="APLAPOLLO.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">APL Apollo Tubes Ltd.</data>
+</node>
+<node id="AUBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">AU Small Finance Bank Ltd.</data>
+</node>
+<node id="AWL.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">AWL Agri Business Ltd.</data>
+</node>
+<node id="AARTIIND.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Aarti Industries Ltd.</data>
+</node>
+<node id="AAVAS.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Aavas Financiers Ltd.</data>
+</node>
+<node id="ABBOTINDIA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Abbott India Ltd.</data>
+</node>
+<node id="ACE.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Action Construction Equipment Ltd.</data>
+</node>
+<node id="ACUTAAS.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Acutaas Chemicals Ltd.</data>
+</node>
+<node id="ADANIENSOL.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Adani Energy Solutions Ltd.</data>
+</node>
+<node id="ADANIENT.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Adani Enterprises Ltd.</data>
+</node>
+<node id="ADANIGREEN.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Adani Green Energy Ltd.</data>
+</node>
+<node id="ADANIPORTS.NS">
+  <data key="d1">Services</data>
+  <data key="d2">Adani Ports and Special Economic Zone Ltd.</data>
+</node>
+<node id="ADANIPOWER.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Adani Power Ltd.</data>
+</node>
+<node id="ATGL.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Adani Total Gas Ltd.</data>
+</node>
+<node id="ABCAPITAL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Aditya Birla Capital Ltd.</data>
+</node>
+<node id="ABREL.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Aditya Birla Real Estate Ltd.</data>
+</node>
+<node id="ABSLAMC.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Aditya Birla Sun Life AMC Ltd.</data>
+</node>
+<node id="AEGISLOG.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Aegis Logistics Ltd.</data>
+</node>
+<node id="AETHER.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Aether Industries Ltd.</data>
+</node>
+<node id="AFFLE.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Affle 3i Ltd.</data>
+</node>
+<node id="AJANTPHARM.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Ajanta Pharmaceuticals Ltd.</data>
+</node>
+<node id="ALKEM.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Alkem Laboratories Ltd.</data>
+</node>
+<node id="ARE&amp;M.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Amara Raja Energy &amp; Mobility Ltd.</data>
+</node>
+<node id="AMBER.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Amber Enterprises India Ltd.</data>
+</node>
+<node id="AMBUJACEM.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">Ambuja Cements Ltd.</data>
+</node>
+<node id="ANANDRATHI.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Anand Rathi Wealth Ltd.</data>
+</node>
+<node id="ANANTRAJ.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Anant Raj Ltd.</data>
+</node>
+<node id="ANGELONE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Angel One Ltd.</data>
+</node>
+<node id="ANURAS.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Anupam Rasayan India Ltd.</data>
+</node>
+<node id="APARINDS.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Apar Industries Ltd.</data>
+</node>
+<node id="APOLLOHOSP.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Apollo Hospitals Enterprise Ltd.</data>
+</node>
+<node id="APOLLOTYRE.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Apollo Tyres Ltd.</data>
+</node>
+<node id="APTUS.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Aptus Value Housing Finance India Ltd.</data>
+</node>
+<node id="ASAHIINDIA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Asahi India Glass Ltd.</data>
+</node>
+<node id="ASHOKLEY.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Ashok Leyland Ltd.</data>
+</node>
+<node id="ASIANPAINT.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Asian Paints Ltd.</data>
+</node>
+<node id="ASTERDM.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Aster DM Quality Care Ltd.</data>
+</node>
+<node id="ASTRAL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Astral Ltd.</data>
+</node>
+<node id="ATUL.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Atul Ltd.</data>
+</node>
+<node id="AUROPHARMA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Aurobindo Pharma Ltd.</data>
+</node>
+<node id="AVANTIFEED.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Avanti Feeds Ltd.</data>
+</node>
+<node id="DMART.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Avenue Supermarts Ltd.</data>
+</node>
+<node id="AXISBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Axis Bank Ltd.</data>
+</node>
+<node id="BEML.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">BEML Ltd.</data>
+</node>
+<node id="BLS.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">BLS International Services Ltd.</data>
+</node>
+<node id="BSE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">BSE Ltd.</data>
+</node>
+<node id="BAJAJ-AUTO.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Bajaj Auto Ltd.</data>
+</node>
+<node id="BAJFINANCE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Bajaj Finance Ltd.</data>
+</node>
+<node id="BAJAJFINSV.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Bajaj Finserv Ltd.</data>
+</node>
+<node id="BAJAJHLDNG.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Bajaj Holdings &amp; Investment Ltd.</data>
+</node>
+<node id="BALKRISIND.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Balkrishna Industries Ltd.</data>
+</node>
+<node id="BALRAMCHIN.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Balrampur Chini Mills Ltd.</data>
+</node>
+<node id="BANDHANBNK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Bandhan Bank Ltd.</data>
+</node>
+<node id="BANKBARODA.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Bank of Baroda</data>
+</node>
+<node id="BANKINDIA.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Bank of India</data>
+</node>
+<node id="MAHABANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Bank of Maharashtra</data>
+</node>
+<node id="BATAINDIA.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Bata India Ltd.</data>
+</node>
+<node id="BERGEPAINT.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Berger Paints India Ltd.</data>
+</node>
+<node id="BDL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Bharat Dynamics Ltd.</data>
+</node>
+<node id="BEL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Bharat Electronics Ltd.</data>
+</node>
+<node id="BHARATFORG.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Bharat Forge Ltd.</data>
+</node>
+<node id="BHEL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Bharat Heavy Electricals Ltd.</data>
+</node>
+<node id="BPCL.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Bharat Petroleum Corporation Ltd.</data>
+</node>
+<node id="BHARTIARTL.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Bharti Airtel Ltd.</data>
+</node>
+<node id="BIOCON.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Biocon Ltd.</data>
+</node>
+<node id="BSOFT.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Birlasoft Ltd.</data>
+</node>
+<node id="BBOX.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Black Box Ltd.</data>
+</node>
+<node id="BLUESTARCO.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Blue Star Ltd.</data>
+</node>
+<node id="BOSCHLTD.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Bosch Ltd.</data>
+</node>
+<node id="BRIGADE.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Brigade Enterprises Ltd.</data>
+</node>
+<node id="BRITANNIA.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Britannia Industries Ltd.</data>
+</node>
+<node id="BIRET.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Brookfield India Real Estate Trust</data>
+</node>
+<node id="CCL.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">CCL Products (I) Ltd.</data>
+</node>
+<node id="CESC.NS">
+  <data key="d1">Power</data>
+  <data key="d2">CESC Ltd.</data>
+</node>
+<node id="CGPOWER.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">CG Power and Industrial Solutions Ltd.</data>
+</node>
+<node id="CIEINDIA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">CIE Automotive India Ltd.</data>
+</node>
+<node id="CRISIL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">CRISIL Ltd.</data>
+</node>
+<node id="CANFINHOME.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Can Fin Homes Ltd.</data>
+</node>
+<node id="CANBK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Canara Bank</data>
+</node>
+<node id="CAPLIPOINT.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Caplin Point Laboratories Ltd.</data>
+</node>
+<node id="CGCL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Capri Global Capital Ltd.</data>
+</node>
+<node id="CARBORUNIV.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Carborundum Universal Ltd.</data>
+</node>
+<node id="CARTRADE.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Cartrade Tech Ltd.</data>
+</node>
+<node id="CASTROLIND.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Castrol India Ltd.</data>
+</node>
+<node id="CEATLTD.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Ceat Ltd.</data>
+</node>
+<node id="CEMPRO.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">Cemindia Projects Ltd.</data>
+</node>
+<node id="CENTRALBK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Central Bank of India</data>
+</node>
+<node id="CDSL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Central Depository Services (India) Ltd.</data>
+</node>
+<node id="CHAMBLFERT.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Chambal Fertilizers &amp; Chemicals Ltd.</data>
+</node>
+<node id="CHENNPETRO.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Chennai Petroleum Corporation Ltd.</data>
+</node>
+<node id="CHOICEIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Choice International Ltd.</data>
+</node>
+<node id="CHOLAHLDNG.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Cholamandalam Financial Holdings Ltd.</data>
+</node>
+<node id="CHOLAFIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Cholamandalam Investment and Finance Company Ltd.</data>
+</node>
+<node id="CIPLA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Cipla Ltd.</data>
+</node>
+<node id="CUB.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">City Union Bank Ltd.</data>
+</node>
+<node id="CLEAN.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Clean Science and Technology Ltd.</data>
+</node>
+<node id="COALINDIA.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Coal India Ltd.</data>
+</node>
+<node id="COCHINSHIP.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Cochin Shipyard Ltd.</data>
+</node>
+<node id="COFORGE.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Coforge Ltd.</data>
+</node>
+<node id="COHANCE.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Cohance Lifesciences Ltd.</data>
+</node>
+<node id="COLPAL.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Colgate Palmolive (India) Ltd.</data>
+</node>
+<node id="CAMS.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Computer Age Management Services Ltd.</data>
+</node>
+<node id="CONCORDBIO.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Concord Biotech Ltd.</data>
+</node>
+<node id="CONCOR.NS">
+  <data key="d1">Services</data>
+  <data key="d2">Container Corporation of India Ltd.</data>
+</node>
+<node id="COROMANDEL.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Coromandel International Ltd.</data>
+</node>
+<node id="CRAFTSMAN.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Craftsman Automation Ltd.</data>
+</node>
+<node id="CREDITACC.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">CreditAccess Grameen Ltd.</data>
+</node>
+<node id="CROMPTON.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Crompton Greaves Consumer Electricals Ltd.</data>
+</node>
+<node id="CUMMINSIND.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Cummins India Ltd.</data>
+</node>
+<node id="CUPID.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Cupid Ltd.</data>
+</node>
+<node id="CYIENT.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Cyient Ltd.</data>
+</node>
+<node id="DLF.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">DLF Ltd.</data>
+</node>
+<node id="DABUR.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Dabur India Ltd.</data>
+</node>
+<node id="DALBHARAT.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">Dalmia Bharat Ltd.</data>
+</node>
+<node id="DATAPATTNS.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Data Patterns (India) Ltd.</data>
+</node>
+<node id="DEEPAKFERT.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Deepak Fertilisers &amp; Petrochemicals Corp. Ltd.</data>
+</node>
+<node id="DEEPAKNTR.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Deepak Nitrite Ltd.</data>
+</node>
+<node id="DELHIVERY.NS">
+  <data key="d1">Services</data>
+  <data key="d2">Delhivery Ltd.</data>
+</node>
+<node id="DEVYANI.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Devyani International Ltd.</data>
+</node>
+<node id="DIVISLAB.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Divi's Laboratories Ltd.</data>
+</node>
+<node id="DIXON.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Dixon Technologies (India) Ltd.</data>
+</node>
+<node id="LALPATHLAB.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Dr. Lal Path Labs Ltd.</data>
+</node>
+<node id="DRREDDY.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Dr. Reddy's Laboratories Ltd.</data>
+</node>
+<node id="EIDPARRY.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">E.I.D. Parry (India) Ltd.</data>
+</node>
+<node id="EIHOTEL.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">EIH Ltd.</data>
+</node>
+<node id="EMBASSY.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">EMBASSY OFFICE PARKS REIT</data>
+</node>
+<node id="EICHERMOT.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Eicher Motors Ltd.</data>
+</node>
+<node id="ELECON.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Elecon Engineering Co. Ltd.</data>
+</node>
+<node id="ELGIEQUIP.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Elgi Equipments Ltd.</data>
+</node>
+<node id="EMAMILTD.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Emami Ltd.</data>
+</node>
+<node id="ENDURANCE.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Endurance Technologies Ltd.</data>
+</node>
+<node id="ENGINERSIN.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">Engineers India Ltd.</data>
+</node>
+<node id="ESCORTS.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Escorts Kubota Ltd.</data>
+</node>
+<node id="ETERNAL.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Eternal Ltd.</data>
+</node>
+<node id="EXIDEIND.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Exide Industries Ltd.</data>
+</node>
+<node id="NYKAA.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">FSN E-Commerce Ventures Ltd.</data>
+</node>
+<node id="FEDERALBNK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Federal Bank Ltd.</data>
+</node>
+<node id="FACT.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Fertilisers and Chemicals Travancore Ltd.</data>
+</node>
+<node id="FINCABLES.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Finolex Cables Ltd.</data>
+</node>
+<node id="FSL.NS">
+  <data key="d1">Services</data>
+  <data key="d2">Firstsource Solutions Ltd.</data>
+</node>
+<node id="FIVESTAR.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Five-Star Business Finance Ltd.</data>
+</node>
+<node id="FORTIS.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Fortis Healthcare Ltd.</data>
+</node>
+<node id="GAIL.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">GAIL (India) Ltd.</data>
+</node>
+<node id="GVT&amp;D.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">GE Vernova T&amp;D India Ltd.</data>
+</node>
+<node id="GMRAIRPORT.NS">
+  <data key="d1">Services</data>
+  <data key="d2">GMR Airports Ltd.</data>
+</node>
+<node id="GABRIEL.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Gabriel India Ltd.</data>
+</node>
+<node id="GALLANTT.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Gallantt Ispat Ltd.</data>
+</node>
+<node id="GRSE.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Garden Reach Shipbuilders &amp; Engineers Ltd.</data>
+</node>
+<node id="GICRE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">General Insurance Corporation of India</data>
+</node>
+<node id="GILLETTE.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Gillette India Ltd.</data>
+</node>
+<node id="GLAND.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Gland Pharma Ltd.</data>
+</node>
+<node id="GLAXO.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Glaxosmithkline Pharmaceuticals Ltd.</data>
+</node>
+<node id="GLENMARK.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Glenmark Pharmaceuticals Ltd.</data>
+</node>
+<node id="MEDANTA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Global Health Ltd.</data>
+</node>
+<node id="GPIL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Godawari Power &amp; Ispat Ltd.</data>
+</node>
+<node id="GODFRYPHLP.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Godfrey Phillips India Ltd.</data>
+</node>
+<node id="GODREJCP.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Godrej Consumer Products Ltd.</data>
+</node>
+<node id="GODREJIND.NS">
+  <data key="d1">Diversified</data>
+  <data key="d2">Godrej Industries Ltd.</data>
+</node>
+<node id="GODREJPROP.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Godrej Properties Ltd.</data>
+</node>
+<node id="GRANULES.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Granules India Ltd.</data>
+</node>
+<node id="GRAPHITE.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Graphite India Ltd.</data>
+</node>
+<node id="GRASIM.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">Grasim Industries Ltd.</data>
+</node>
+<node id="GRAVITA.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Gravita India Ltd.</data>
+</node>
+<node id="GESHIP.NS">
+  <data key="d1">Services</data>
+  <data key="d2">Great Eastern Shipping Co. Ltd.</data>
+</node>
+<node id="FLUOROCHEM.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Gujarat Fluorochemicals Ltd.</data>
+</node>
+<node id="GMDCLTD.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Gujarat Mineral Development Corporation Ltd.</data>
+</node>
+<node id="HBLENGINE.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">HBL Engineering Ltd.</data>
+</node>
+<node id="HCLTECH.NS">
+  <data key="d1">IT</data>
+  <data key="d2">HCL Technologies Ltd.</data>
+</node>
+<node id="HDFCAMC.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">HDFC Asset Management Company Ltd.</data>
+</node>
+<node id="HDFCBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">HDFC Bank Ltd.</data>
+</node>
+<node id="HDFCLIFE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">HDFC Life Insurance Company Ltd.</data>
+</node>
+<node id="HEGAM.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">HEG Advanced Materials Ltd.</data>
+</node>
+<node id="HFCL.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">HFCL Ltd.</data>
+</node>
+<node id="HAVELLS.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Havells India Ltd.</data>
+</node>
+<node id="HEROMOTOCO.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Hero MotoCorp Ltd.</data>
+</node>
+<node id="HSCL.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Himadri Speciality Chemical Ltd.</data>
+</node>
+<node id="HINDALCO.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Hindalco Industries Ltd.</data>
+</node>
+<node id="HAL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Hindustan Aeronautics Ltd.</data>
+</node>
+<node id="HINDCOPPER.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Hindustan Copper Ltd.</data>
+</node>
+<node id="HINDPETRO.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Hindustan Petroleum Corporation Ltd.</data>
+</node>
+<node id="HINDUNILVR.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Hindustan Unilever Ltd.</data>
+</node>
+<node id="HINDZINC.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Hindustan Zinc Ltd.</data>
+</node>
+<node id="POWERINDIA.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Hitachi Energy India Ltd.</data>
+</node>
+<node id="HOMEFIRST.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Home First Finance Company India Ltd.</data>
+</node>
+<node id="HONASA.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Honasa Consumer Ltd.</data>
+</node>
+<node id="HONAUT.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Honeywell Automation India Ltd.</data>
+</node>
+<node id="HUDCO.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Housing &amp; Urban Development Corporation Ltd.</data>
+</node>
+<node id="ICICIBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">ICICI Bank Ltd.</data>
+</node>
+<node id="ICICILIFE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">ICICI Life Insurance Ltd.</data>
+</node>
+<node id="ICICIGI.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">ICICI Lombard General Insurance Company Ltd.</data>
+</node>
+<node id="IDBI.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">IDBI Bank Ltd.</data>
+</node>
+<node id="IDFCFIRSTB.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">IDFC First Bank Ltd.</data>
+</node>
+<node id="IFCI.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">IFCI Ltd.</data>
+</node>
+<node id="IIFL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">IIFL Finance Ltd.</data>
+</node>
+<node id="IRB.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">IRB Infrastructure Developers Ltd.</data>
+</node>
+<node id="IRCON.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">IRCON International Ltd.</data>
+</node>
+<node id="ITC.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">ITC Ltd.</data>
+</node>
+<node id="ITI.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">ITI Ltd.</data>
+</node>
+<node id="INDIACEM.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">India Cements Ltd.</data>
+</node>
+<node id="INDIAMART.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Indiamart Intermesh Ltd.</data>
+</node>
+<node id="INDIANB.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Indian Bank</data>
+</node>
+<node id="IEX.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Indian Energy Exchange Ltd.</data>
+</node>
+<node id="INDHOTEL.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Indian Hotels Co. Ltd.</data>
+</node>
+<node id="IOC.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Indian Oil Corporation Ltd.</data>
+</node>
+<node id="IOB.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Indian Overseas Bank</data>
+</node>
+<node id="IRCTC.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Indian Railway Catering And Tourism Corporation Ltd.</data>
+</node>
+<node id="IRFC.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Indian Railway Finance Corporation Ltd.</data>
+</node>
+<node id="IGL.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Indraprastha Gas Ltd.</data>
+</node>
+<node id="INDUSTOWER.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Indus Towers Ltd.</data>
+</node>
+<node id="INDUSINDBK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">IndusInd Bank Ltd.</data>
+</node>
+<node id="NAUKRI.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Info Edge (India) Ltd.</data>
+</node>
+<node id="INFY.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Infosys Ltd.</data>
+</node>
+<node id="INOXWIND.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Inox Wind Ltd.</data>
+</node>
+<node id="INTELLECT.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Intellect Design Arena Ltd.</data>
+</node>
+<node id="INDIGO.NS">
+  <data key="d1">Services</data>
+  <data key="d2">InterGlobe Aviation Ltd.</data>
+</node>
+<node id="IPCALAB.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Ipca Laboratories Ltd.</data>
+</node>
+<node id="JKCEMENT.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">J.K. Cement Ltd.</data>
+</node>
+<node id="JBMA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">JBM Auto Ltd.</data>
+</node>
+<node id="JKTYRE.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">JK Tyre &amp; Industries Ltd.</data>
+</node>
+<node id="JMFINANCIL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">JM Financial Ltd.</data>
+</node>
+<node id="JSWENERGY.NS">
+  <data key="d1">Power</data>
+  <data key="d2">JSW Energy Ltd.</data>
+</node>
+<node id="JSWINFRA.NS">
+  <data key="d1">Services</data>
+  <data key="d2">JSW Infrastructure Ltd.</data>
+</node>
+<node id="JSWSTEEL.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">JSW Steel Ltd.</data>
+</node>
+<node id="JPPOWER.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Jaiprakash Power Ventures Ltd.</data>
+</node>
+<node id="J&amp;KBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Jammu &amp; Kashmir Bank Ltd.</data>
+</node>
+<node id="JINDALSAW.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Jindal Saw Ltd.</data>
+</node>
+<node id="JSL.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Jindal Stainless Ltd.</data>
+</node>
+<node id="JINDALSTEL.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Jindal Steel Ltd.</data>
+</node>
+<node id="JIOFIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Jio Financial Services Ltd.</data>
+</node>
+<node id="JUBLFOOD.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Jubilant Foodworks Ltd.</data>
+</node>
+<node id="JUBLINGREA.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Jubilant Ingrevia Ltd.</data>
+</node>
+<node id="JWL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Jupiter Wagons Ltd.</data>
+</node>
+<node id="KPRMILL.NS">
+  <data key="d1">Textiles</data>
+  <data key="d2">K.P.R. Mill Ltd.</data>
+</node>
+<node id="KEI.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">KEI Industries Ltd.</data>
+</node>
+<node id="KPITTECH.NS">
+  <data key="d1">IT</data>
+  <data key="d2">KPIT Technologies Ltd.</data>
+</node>
+<node id="KSB.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">KSB Ltd.</data>
+</node>
+<node id="KAJARIACER.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Kajaria Ceramics Ltd.</data>
+</node>
+<node id="KPIL.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">Kalpataru Projects International Ltd.</data>
+</node>
+<node id="KALYANKJIL.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Kalyan Jewellers India Ltd.</data>
+</node>
+<node id="KARURVYSYA.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Karur Vysya Bank Ltd.</data>
+</node>
+<node id="KAYNES.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Kaynes Technology India Ltd.</data>
+</node>
+<node id="KEC.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">Kec International Ltd.</data>
+</node>
+<node id="KFINTECH.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Kfin Technologies Ltd.</data>
+</node>
+<node id="KIRLOSBROS.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Kirloskar Brothers Ltd.</data>
+</node>
+<node id="KIRLOSENG.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Kirloskar Oil Eng Ltd.</data>
+</node>
+<node id="KOTAKBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Kotak Mahindra Bank Ltd.</data>
+</node>
+<node id="KIMS.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Krishna Institute of Medical Sciences Ltd.</data>
+</node>
+<node id="LTF.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">L&amp;T Finance Ltd.</data>
+</node>
+<node id="LTTS.NS">
+  <data key="d1">IT</data>
+  <data key="d2">L&amp;T Technology Services Ltd.</data>
+</node>
+<node id="LICHSGFIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">LIC Housing Finance Ltd.</data>
+</node>
+<node id="LTFOODS.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">LT Foods Ltd.</data>
+</node>
+<node id="LTM.NS">
+  <data key="d1">IT</data>
+  <data key="d2">LTM Ltd.</data>
+</node>
+<node id="LT.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">Larsen &amp; Toubro Ltd.</data>
+</node>
+<node id="LAURUSLABS.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Laurus Labs Ltd.</data>
+</node>
+<node id="LEMONTREE.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Lemon Tree Hotels Ltd.</data>
+</node>
+<node id="LICI.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Life Insurance Corporation of India</data>
+</node>
+<node id="LINDEINDIA.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Linde India Ltd.</data>
+</node>
+<node id="LLOYDSME.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Lloyds Metals And Energy Ltd.</data>
+</node>
+<node id="LODHA.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Lodha Developers Ltd.</data>
+</node>
+<node id="LUPIN.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Lupin Ltd.</data>
+</node>
+<node id="MMTC.NS">
+  <data key="d1">Services</data>
+  <data key="d2">MMTC Ltd.</data>
+</node>
+<node id="MRF.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">MRF Ltd.</data>
+</node>
+<node id="MTARTECH.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">MTAR Technologies Ltd.</data>
+</node>
+<node id="MGL.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Mahanagar Gas Ltd.</data>
+</node>
+<node id="M&amp;MFIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Mahindra &amp; Mahindra Financial Services Ltd.</data>
+</node>
+<node id="M&amp;M.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Mahindra &amp; Mahindra Ltd.</data>
+</node>
+<node id="MANAPPURAM.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Manappuram Finance Ltd.</data>
+</node>
+<node id="MRPL.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Mangalore Refinery &amp; Petrochemicals Ltd.</data>
+</node>
+<node id="MANKIND.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Mankind Pharma Ltd.</data>
+</node>
+<node id="MARICO.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Marico Ltd.</data>
+</node>
+<node id="MARUTI.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Maruti Suzuki India Ltd.</data>
+</node>
+<node id="MFSL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Max Financial Services Ltd.</data>
+</node>
+<node id="MAXHEALTH.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Max Healthcare Institute Ltd.</data>
+</node>
+<node id="MAZDOCK.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Mazagoan Dock Shipbuilders Ltd.</data>
+</node>
+<node id="MINDACORP.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Minda Corporation Ltd.</data>
+</node>
+<node id="MSUMI.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Motherson Sumi Wiring India Ltd.</data>
+</node>
+<node id="MOTILALOFS.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Motilal Oswal Financial Services Ltd.</data>
+</node>
+<node id="MPHASIS.NS">
+  <data key="d1">IT</data>
+  <data key="d2">MphasiS Ltd.</data>
+</node>
+<node id="MCX.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Multi Commodity Exchange of India Ltd.</data>
+</node>
+<node id="MUTHOOTFIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Muthoot Finance Ltd.</data>
+</node>
+<node id="NATCOPHARM.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">NATCO Pharma Ltd.</data>
+</node>
+<node id="NBCC.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">NBCC (India) Ltd.</data>
+</node>
+<node id="NCC.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">NCC Ltd.</data>
+</node>
+<node id="NHPC.NS">
+  <data key="d1">Power</data>
+  <data key="d2">NHPC Ltd.</data>
+</node>
+<node id="NLCINDIA.NS">
+  <data key="d1">Power</data>
+  <data key="d2">NLC India Ltd.</data>
+</node>
+<node id="NMDC.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">NMDC Ltd.</data>
+</node>
+<node id="NSLNISP.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">NMDC Steel Ltd.</data>
+</node>
+<node id="NTPC.NS">
+  <data key="d1">Power</data>
+  <data key="d2">NTPC Ltd.</data>
+</node>
+<node id="NH.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Narayana Hrudayalaya Ltd.</data>
+</node>
+<node id="NATIONALUM.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">National Aluminium Co. Ltd.</data>
+</node>
+<node id="NAVA.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Nava Ltd.</data>
+</node>
+<node id="NAVINFLUOR.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Navin Fluorine International Ltd.</data>
+</node>
+<node id="NESTLEIND.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Nestle India Ltd.</data>
+</node>
+<node id="NETWEB.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Netweb Technologies India Ltd.</data>
+</node>
+<node id="NEULANDLAB.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Neuland Laboratories Ltd.</data>
+</node>
+<node id="NAM-INDIA.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Nippon Life India Asset Management Ltd.</data>
+</node>
+<node id="NUVAMA.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Nuvama Wealth Management Ltd.</data>
+</node>
+<node id="NUVOCO.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">Nuvoco Vistas Corporation Ltd.</data>
+</node>
+<node id="OBEROIRLTY.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Oberoi Realty Ltd.</data>
+</node>
+<node id="ONGC.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Oil &amp; Natural Gas Corporation Ltd.</data>
+</node>
+<node id="OIL.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Oil India Ltd.</data>
+</node>
+<node id="OLECTRA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Olectra Greentech Ltd.</data>
+</node>
+<node id="PAYTM.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">One 97 Communications Ltd.</data>
+</node>
+<node id="OFSS.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Oracle Financial Services Software Ltd.</data>
+</node>
+<node id="POLICYBZR.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">PB Fintech Ltd.</data>
+</node>
+<node id="PCBL.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">PCBL Chemical Ltd.</data>
+</node>
+<node id="PGEL.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">PG Electroplast Ltd.</data>
+</node>
+<node id="PIIND.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">PI Industries Ltd.</data>
+</node>
+<node id="PNBHOUSING.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">PNB Housing Finance Ltd.</data>
+</node>
+<node id="PTCIL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">PTC Industries Ltd.</data>
+</node>
+<node id="PVRINOX.NS">
+  <data key="d1">Media</data>
+  <data key="d2">PVR INOX Ltd.</data>
+</node>
+<node id="PAGEIND.NS">
+  <data key="d1">Textiles</data>
+  <data key="d2">Page Industries Ltd.</data>
+</node>
+<node id="PARADEEP.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Paradeep Phosphates Ltd.</data>
+</node>
+<node id="PATANJALI.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Patanjali Foods Ltd.</data>
+</node>
+<node id="PERSISTENT.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Persistent Systems Ltd.</data>
+</node>
+<node id="PETRONET.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Petronet LNG Ltd.</data>
+</node>
+<node id="PHOENIXLTD.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Phoenix Mills Ltd.</data>
+</node>
+<node id="PIDILITIND.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Pidilite Industries Ltd.</data>
+</node>
+<node id="PPLPHARMA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Piramal Pharma Ltd.</data>
+</node>
+<node id="POLYMED.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Poly Medicure Ltd.</data>
+</node>
+<node id="POLYCAB.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Polycab India Ltd.</data>
+</node>
+<node id="POONAWALLA.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Poonawalla Fincorp Ltd.</data>
+</node>
+<node id="PFC.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Power Finance Corporation Ltd.</data>
+</node>
+<node id="POWERGRID.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Power Grid Corporation of India Ltd.</data>
+</node>
+<node id="PRESTIGE.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Prestige Estates Projects Ltd.</data>
+</node>
+<node id="PFOCUS.NS">
+  <data key="d1">Media</data>
+  <data key="d2">Prime Focus Ltd.</data>
+</node>
+<node id="PRIVISCL.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Privi Speciality Chemicals Ltd.</data>
+</node>
+<node id="PNB.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Punjab National Bank</data>
+</node>
+<node id="RRKABEL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">R R Kabel Ltd.</data>
+</node>
+<node id="RBLBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">RBL Bank Ltd.</data>
+</node>
+<node id="RECLTD.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">REC Ltd.</data>
+</node>
+<node id="RHIM.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">RHI MAGNESITA INDIA LTD.</data>
+</node>
+<node id="RITES.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">RITES Ltd.</data>
+</node>
+<node id="RADICO.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Radico Khaitan Ltd</data>
+</node>
+<node id="RVNL.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">Rail Vikas Nigam Ltd.</data>
+</node>
+<node id="RAILTEL.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Railtel Corporation Of India Ltd.</data>
+</node>
+<node id="RAINBOW.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Rainbow Childrens Medicare Ltd.</data>
+</node>
+<node id="RKFORGE.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Ramkrishna Forgings Ltd.</data>
+</node>
+<node id="REDINGTON.NS">
+  <data key="d1">Services</data>
+  <data key="d2">Redington Ltd.</data>
+</node>
+<node id="RELIANCE.NS">
+  <data key="d1">Oil &amp; Gas</data>
+  <data key="d2">Reliance Industries Ltd.</data>
+</node>
+<node id="RPOWER.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Reliance Power Ltd.</data>
+</node>
+<node id="SBICARD.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">SBI Cards and Payment Services Ltd.</data>
+</node>
+<node id="SBILIFE.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">SBI Life Insurance Company Ltd.</data>
+</node>
+<node id="SJVN.NS">
+  <data key="d1">Power</data>
+  <data key="d2">SJVN Ltd.</data>
+</node>
+<node id="SHRIPISTON.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">SPR Auto Technologies Ltd.</data>
+</node>
+<node id="SRF.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">SRF Ltd.</data>
+</node>
+<node id="SAMMAANCAP.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Sammaan Capital Ltd.</data>
+</node>
+<node id="MOTHERSON.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Samvardhana Motherson International Ltd.</data>
+</node>
+<node id="SANSERA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Sansera Engineering Ltd.</data>
+</node>
+<node id="SARDAEN.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Sarda Energy and Minerals Ltd.</data>
+</node>
+<node id="SCHAEFFLER.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Schaeffler India Ltd.</data>
+</node>
+<node id="SCHNEIDER.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Schneider Electric Infrastructure Ltd.</data>
+</node>
+<node id="SCI.NS">
+  <data key="d1">Services</data>
+  <data key="d2">Shipping Corporation of India Ltd.</data>
+</node>
+<node id="SHREECEM.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">Shree Cement Ltd.</data>
+</node>
+<node id="SHRIRAMFIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Shriram Finance Ltd.</data>
+</node>
+<node id="SHYAMMETL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Shyam Metalics and Energy Ltd.</data>
+</node>
+<node id="SIEMENS.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Siemens Ltd.</data>
+</node>
+<node id="SIGNATURE.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Signatureglobal (India) Ltd.</data>
+</node>
+<node id="SOBHA.NS">
+  <data key="d1">Realty</data>
+  <data key="d2">Sobha Ltd.</data>
+</node>
+<node id="SOLARINDS.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Solar Industries India Ltd.</data>
+</node>
+<node id="SONACOMS.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Sona BLW Precision Forgings Ltd.</data>
+</node>
+<node id="STARHEALTH.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Star Health and Allied Insurance Company Ltd.</data>
+</node>
+<node id="SBIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">State Bank of India</data>
+</node>
+<node id="SAIL.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Steel Authority of India Ltd.</data>
+</node>
+<node id="STLTECH.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Sterlite Technologies Ltd.</data>
+</node>
+<node id="SUMICHEM.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Sumitomo Chemical India Ltd.</data>
+</node>
+<node id="SUNPHARMA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Sun Pharmaceutical Industries Ltd.</data>
+</node>
+<node id="SUNTV.NS">
+  <data key="d1">Media</data>
+  <data key="d2">Sun TV Network Ltd.</data>
+</node>
+<node id="SUNDARMFIN.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Sundaram Finance Ltd.</data>
+</node>
+<node id="SUPREMEIND.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Supreme Industries Ltd.</data>
+</node>
+<node id="SUZLON.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Suzlon Energy Ltd.</data>
+</node>
+<node id="SWANCORP.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Swan Corp Ltd.</data>
+</node>
+<node id="SYNGENE.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Syngene International Ltd.</data>
+</node>
+<node id="SYRMA.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Syrma SGS Technology Ltd.</data>
+</node>
+<node id="TDPOWERSYS.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">TD Power Systems Ltd.</data>
+</node>
+<node id="TVSMOTOR.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">TVS Motor Company Ltd.</data>
+</node>
+<node id="TATACHEM.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">Tata Chemicals Ltd.</data>
+</node>
+<node id="TATACOMM.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Tata Communications Ltd.</data>
+</node>
+<node id="TCS.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Tata Consultancy Services Ltd.</data>
+</node>
+<node id="TATACONSUM.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Tata Consumer Products Ltd.</data>
+</node>
+<node id="TATAELXSI.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Tata Elxsi Ltd.</data>
+</node>
+<node id="TATAINVEST.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Tata Investment Corporation Ltd.</data>
+</node>
+<node id="TMPV.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Tata Motors Passenger Vehicles Ltd.</data>
+</node>
+<node id="TATAPOWER.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Tata Power Co. Ltd.</data>
+</node>
+<node id="TATASTEEL.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Tata Steel Ltd.</data>
+</node>
+<node id="TTML.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Tata Teleservices (Maharashtra) Ltd.</data>
+</node>
+<node id="TECHM.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Tech Mahindra Ltd.</data>
+</node>
+<node id="TECHNOE.NS">
+  <data key="d1">Construction</data>
+  <data key="d2">Techno Electric &amp; Engineering Company Ltd.</data>
+</node>
+<node id="TEGA.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Tega Industries Ltd.</data>
+</node>
+<node id="TEJASNET.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Tejas Networks Ltd.</data>
+</node>
+<node id="THANGAMAYL.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Thangamayil Jewellery Ltd.</data>
+</node>
+<node id="NIACL.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">The New India Assurance Company Ltd.</data>
+</node>
+<node id="RAMCOCEM.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">The Ramco Cements Ltd.</data>
+</node>
+<node id="THERMAX.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Thermax Ltd.</data>
+</node>
+<node id="TIMKEN.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Timken India Ltd.</data>
+</node>
+<node id="TITAGARH.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Titagarh Rail Systems Ltd.</data>
+</node>
+<node id="TITAN.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Titan Company Ltd.</data>
+</node>
+<node id="TORNTPHARM.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Torrent Pharmaceuticals Ltd.</data>
+</node>
+<node id="TORNTPOWER.NS">
+  <data key="d1">Power</data>
+  <data key="d2">Torrent Power Ltd.</data>
+</node>
+<node id="TARIL.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Transformers And Rectifiers (India) Ltd.</data>
+</node>
+<node id="TRENT.NS">
+  <data key="d1">Consumer Serv.</data>
+  <data key="d2">Trent Ltd.</data>
+</node>
+<node id="TRIDENT.NS">
+  <data key="d1">Textiles</data>
+  <data key="d2">Trident Ltd.</data>
+</node>
+<node id="TRITURBINE.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Triveni Turbine Ltd.</data>
+</node>
+<node id="TIINDIA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">Tube Investments of India Ltd.</data>
+</node>
+<node id="UCOBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">UCO Bank</data>
+</node>
+<node id="UNOMINDA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">UNO Minda Ltd.</data>
+</node>
+<node id="UPL.NS">
+  <data key="d1">Chemicals</data>
+  <data key="d2">UPL Ltd.</data>
+</node>
+<node id="UTIAMC.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">UTI Asset Management Company Ltd.</data>
+</node>
+<node id="ULTRACEMCO.NS">
+  <data key="d1">Cement</data>
+  <data key="d2">UltraTech Cement Ltd.</data>
+</node>
+<node id="UNIONBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Union Bank of India</data>
+</node>
+<node id="UBL.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">United Breweries Ltd.</data>
+</node>
+<node id="UNITDSPR.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">United Spirits Ltd.</data>
+</node>
+<node id="USHAMART.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Usha Martin Ltd.</data>
+</node>
+<node id="VTL.NS">
+  <data key="d1">Textiles</data>
+  <data key="d2">Vardhman Textiles Ltd.</data>
+</node>
+<node id="VBL.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Varun Beverages Ltd.</data>
+</node>
+<node id="VEDL.NS">
+  <data key="d1">Metals &amp; Mining</data>
+  <data key="d2">Vedanta Ltd.</data>
+</node>
+<node id="VIJAYA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Vijaya Diagnostic Centre Ltd.</data>
+</node>
+<node id="IDEA.NS">
+  <data key="d1">Telecom</data>
+  <data key="d2">Vodafone Idea Ltd.</data>
+</node>
+<node id="VOLTAS.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Voltas Ltd.</data>
+</node>
+<node id="WELCORP.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Welspun Corp Ltd.</data>
+</node>
+<node id="WELSPUNLIV.NS">
+  <data key="d1">Textiles</data>
+  <data key="d2">Welspun Living Ltd.</data>
+</node>
+<node id="WHIRLPOOL.NS">
+  <data key="d1">Consumer Dur.</data>
+  <data key="d2">Whirlpool of India Ltd.</data>
+</node>
+<node id="WIPRO.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Wipro Ltd.</data>
+</node>
+<node id="WOCKPHARMA.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Wockhardt Ltd.</data>
+</node>
+<node id="YESBANK.NS">
+  <data key="d1">Financials</data>
+  <data key="d2">Yes Bank Ltd.</data>
+</node>
+<node id="ZFCVINDIA.NS">
+  <data key="d1">Auto</data>
+  <data key="d2">ZF Commercial Vehicle Control Systems India Ltd.</data>
+</node>
+<node id="ZEEL.NS">
+  <data key="d1">Media</data>
+  <data key="d2">Zee Entertainment Enterprises Ltd.</data>
+</node>
+<node id="ZENTEC.NS">
+  <data key="d1">Capital Goods</data>
+  <data key="d2">Zen Technologies Ltd.</data>
+</node>
+<node id="ZENSARTECH.NS">
+  <data key="d1">IT</data>
+  <data key="d2">Zensar Technolgies Ltd.</data>
+</node>
+<node id="ZYDUSLIFE.NS">
+  <data key="d1">Healthcare</data>
+  <data key="d2">Zydus Lifesciences Ltd.</data>
+</node>
+<node id="ZYDUSWELL.NS">
+  <data key="d1">FMCG</data>
+  <data key="d2">Zydus Wellness Ltd.</data>
+</node>
+<node id="ECLERX.NS">
+  <data key="d1">Services</data>
+  <data key="d2">eClerx Services Ltd.</data>
+</node>
+<edge source="ABB.NS" target="BHEL.NS">
+  <data key="d3">0.5345329212960559</data>
+  <data key="d4">0.964849292588168</data>
+</edge>
+<edge source="ABB.NS" target="CUMMINSIND.NS">
+  <data key="d3">0.5431505159514761</data>
+  <data key="d4">0.9558760213003817</data>
+</edge>
+<edge source="ABB.NS" target="SIEMENS.NS">
+  <data key="d3">0.7038795900027357</data>
+  <data key="d4">0.7695718419969175</data>
+</edge>
+<edge source="ACC.NS" target="ADANIENSOL.NS">
+  <data key="d3">0.5377581876726967</data>
+  <data key="d4">0.9615007148487237</data>
+</edge>
+<edge source="ACC.NS" target="ADANIENT.NS">
+  <data key="d3">0.6554074831213806</data>
+  <data key="d4">0.8301716893253098</data>
+</edge>
+<edge source="ACC.NS" target="ADANIGREEN.NS">
+  <data key="d3">0.5260202797420502</data>
+  <data key="d4">0.9736320868356279</data>
+</edge>
+<edge source="ACC.NS" target="ADANIPORTS.NS">
+  <data key="d3">0.6629884344486681</data>
+  <data key="d4">0.8209891175299853</data>
+</edge>
+<edge source="ACC.NS" target="ABCAPITAL.NS">
+  <data key="d3">0.503951575868231</data>
+  <data key="d4">0.9960405856507746</data>
+</edge>
+<edge source="ACC.NS" target="AMBUJACEM.NS">
+  <data key="d3">0.8324408507449571</data>
+  <data key="d4">0.5788940304667909</data>
+</edge>
+<edge source="ACC.NS" target="BANKBARODA.NS">
+  <data key="d3">0.5516273437659464</data>
+  <data key="d4">0.946966373462177</data>
+</edge>
+<edge source="ACC.NS" target="CANBK.NS">
+  <data key="d3">0.5837150187053458</data>
+  <data key="d4">0.912452718002039</data>
+</edge>
+<edge source="ACC.NS" target="CONCOR.NS">
+  <data key="d3">0.5519290578752399</data>
+  <data key="d4">0.946647708627407</data>
+</edge>
+<edge source="ACC.NS" target="DLF.NS">
+  <data key="d3">0.5375540549476179</data>
+  <data key="d4">0.9617129977829998</data>
+</edge>
+<edge source="ACC.NS" target="DALBHARAT.NS">
+  <data key="d3">0.5394271660708286</data>
+  <data key="d4">0.959763339505288</data>
+</edge>
+<edge source="ACC.NS" target="GAIL.NS">
+  <data key="d3">0.5051291711493328</data>
+  <data key="d4">0.9948576067464803</data>
+</edge>
+<edge source="ACC.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.5235629962365516</data>
+  <data key="d4">0.9761526558519916</data>
+</edge>
+<edge source="ACC.NS" target="HDFCAMC.NS">
+  <data key="d3">0.5004183800107165</data>
+  <data key="d4">0.9995815324317306</data>
+</edge>
+<edge source="ACC.NS" target="IOC.NS">
+  <data key="d3">0.5109606448480531</data>
+  <data key="d4">0.988978619740535</data>
+</edge>
+<edge source="ACC.NS" target="IRCTC.NS">
+  <data key="d3">0.5321220493078886</data>
+  <data key="d4">0.9673447686240013</data>
+</edge>
+<edge source="ACC.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5171725833549069</data>
+  <data key="d4">0.9826773800643761</data>
+</edge>
+<edge source="ACC.NS" target="NCC.NS">
+  <data key="d3">0.5099777833453477</data>
+  <data key="d4">0.9899719356170177</data>
+</edge>
+<edge source="ACC.NS" target="PFC.NS">
+  <data key="d3">0.5338056445763275</data>
+  <data key="d4">0.965602770733051</data>
+</edge>
+<edge source="ACC.NS" target="PNB.NS">
+  <data key="d3">0.5531046791761349</data>
+  <data key="d4">0.94540501460894</data>
+</edge>
+<edge source="ACC.NS" target="RECLTD.NS">
+  <data key="d3">0.5487009143418768</data>
+  <data key="d4">0.9500516677087865</data>
+</edge>
+<edge source="ACC.NS" target="SBIN.NS">
+  <data key="d3">0.5344251816426702</data>
+  <data key="d4">0.9649609508755573</data>
+</edge>
+<edge source="ACC.NS" target="SAIL.NS">
+  <data key="d3">0.5327563311092234</data>
+  <data key="d4">0.9666888526209213</data>
+</edge>
+<edge source="ACC.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.5335783421235724</data>
+  <data key="d4">0.9658381415914653</data>
+</edge>
+<edge source="AWL.NS" target="ATGL.NS">
+  <data key="d3">0.5010966617655824</data>
+  <data key="d4">0.9989027362405386</data>
+</edge>
+<edge source="AARTIIND.NS" target="DEEPAKNTR.NS">
+  <data key="d3">0.5283341337001363</data>
+  <data key="d4">0.9712526615663545</data>
+</edge>
+<edge source="ADANIENSOL.NS" target="ADANIENT.NS">
+  <data key="d3">0.722366068400395</data>
+  <data key="d4">0.7451629776090665</data>
+</edge>
+<edge source="ADANIENSOL.NS" target="ADANIGREEN.NS">
+  <data key="d3">0.8079183794268017</data>
+  <data key="d4">0.6198090360315802</data>
+</edge>
+<edge source="ADANIENSOL.NS" target="ADANIPORTS.NS">
+  <data key="d3">0.6569691193536034</data>
+  <data key="d4">0.8282884529515024</data>
+</edge>
+<edge source="ADANIENSOL.NS" target="ADANIPOWER.NS">
+  <data key="d3">0.6669082959657227</data>
+  <data key="d4">0.8162005930336945</data>
+</edge>
+<edge source="ADANIENSOL.NS" target="ATGL.NS">
+  <data key="d3">0.6869809748080913</data>
+  <data key="d4">0.7912256633753846</data>
+</edge>
+<edge source="ADANIENSOL.NS" target="AMBUJACEM.NS">
+  <data key="d3">0.5778161973251381</data>
+  <data key="d4">0.9188947738178316</data>
+</edge>
+<edge source="ADANIENT.NS" target="ADANIGREEN.NS">
+  <data key="d3">0.7369742270937624</data>
+  <data key="d4">0.7252941098702479</data>
+</edge>
+<edge source="ADANIENT.NS" target="ADANIPORTS.NS">
+  <data key="d3">0.816865709990602</data>
+  <data key="d4">0.6052012723208667</data>
+</edge>
+<edge source="ADANIENT.NS" target="ADANIPOWER.NS">
+  <data key="d3">0.6728107940012606</data>
+  <data key="d4">0.8089365933109212</data>
+</edge>
+<edge source="ADANIENT.NS" target="ATGL.NS">
+  <data key="d3">0.6080499362695698</data>
+  <data key="d4">0.8853813457831944</data>
+</edge>
+<edge source="ADANIENT.NS" target="AMBUJACEM.NS">
+  <data key="d3">0.6957693829891397</data>
+  <data key="d4">0.7800392515904059</data>
+</edge>
+<edge source="ADANIENT.NS" target="BANKBARODA.NS">
+  <data key="d3">0.515876300782738</data>
+  <data key="d4">0.9839956292761284</data>
+</edge>
+<edge source="ADANIENT.NS" target="CANBK.NS">
+  <data key="d3">0.5285349989691784</data>
+  <data key="d4">0.9710458290223192</data>
+</edge>
+<edge source="ADANIENT.NS" target="CONCOR.NS">
+  <data key="d3">0.5072684120519434</data>
+  <data key="d4">0.9927049792844364</data>
+</edge>
+<edge source="ADANIENT.NS" target="NTPC.NS">
+  <data key="d3">0.5004610838005134</data>
+  <data key="d4">0.99953880985131</data>
+</edge>
+<edge source="ADANIENT.NS" target="PNB.NS">
+  <data key="d3">0.5086974037627586</data>
+  <data key="d4">0.9912644412438503</data>
+</edge>
+<edge source="ADANIGREEN.NS" target="ADANIPORTS.NS">
+  <data key="d3">0.6755814461492178</data>
+  <data key="d4">0.8055042567867438</data>
+</edge>
+<edge source="ADANIGREEN.NS" target="ADANIPOWER.NS">
+  <data key="d3">0.6838548814353939</data>
+  <data key="d4">0.7951667983066272</data>
+</edge>
+<edge source="ADANIGREEN.NS" target="ATGL.NS">
+  <data key="d3">0.6751425271774204</data>
+  <data key="d4">0.806048972237518</data>
+</edge>
+<edge source="ADANIGREEN.NS" target="AMBUJACEM.NS">
+  <data key="d3">0.5849941917518556</data>
+  <data key="d4">0.911049733272717</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="ADANIPOWER.NS">
+  <data key="d3">0.5927787656041305</data>
+  <data key="d4">0.9024646634587634</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="ATGL.NS">
+  <data key="d3">0.5391651284982117</data>
+  <data key="d4">0.9600363237938325</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="AMBUJACEM.NS">
+  <data key="d3">0.6993401197145864</data>
+  <data key="d4">0.7754481030802945</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="BANKBARODA.NS">
+  <data key="d3">0.5386205374340256</data>
+  <data key="d4">0.9606034171977262</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="BEL.NS">
+  <data key="d3">0.5182494610897642</data>
+  <data key="d4">0.9815809074245849</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="BHEL.NS">
+  <data key="d3">0.5151017900154343</data>
+  <data key="d4">0.9847824226544315</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="CANBK.NS">
+  <data key="d3">0.5423731492695468</data>
+  <data key="d4">0.9566889261724034</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="CONCOR.NS">
+  <data key="d3">0.5616971337456207</data>
+  <data key="d4">0.9362722534117727</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="DLF.NS">
+  <data key="d3">0.5196518131493094</data>
+  <data key="d4">0.9801511994082246</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.5393399229824849</data>
+  <data key="d4">0.9598542358269979</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="NCC.NS">
+  <data key="d3">0.5198312890808139</data>
+  <data key="d4">0.9799680718464109</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="NTPC.NS">
+  <data key="d3">0.5488592776901183</data>
+  <data key="d4">0.9498849638876086</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="PFC.NS">
+  <data key="d3">0.5434885530359479</data>
+  <data key="d4">0.9555223147201243</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="PNB.NS">
+  <data key="d3">0.5379668086084166</data>
+  <data key="d4">0.9612837160709459</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="RECLTD.NS">
+  <data key="d3">0.5411140704186063</data>
+  <data key="d4">0.958004101850711</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="SBIN.NS">
+  <data key="d3">0.5035174375032461</data>
+  <data key="d4">0.9964763544578004</data>
+</edge>
+<edge source="ADANIPORTS.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5288710007368012</data>
+  <data key="d4">0.9706997468457472</data>
+</edge>
+<edge source="ADANIPOWER.NS" target="ATGL.NS">
+  <data key="d3">0.6710742958212901</data>
+  <data key="d4">0.8110803957422592</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="AMBUJACEM.NS">
+  <data key="d3">0.5052282406239158</data>
+  <data key="d4">0.9947580201999723</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="ASHOKLEY.NS">
+  <data key="d3">0.5136142180549891</data>
+  <data key="d4">0.9862918249129017</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="BANKBARODA.NS">
+  <data key="d3">0.5121914004867516</data>
+  <data key="d4">0.9877333643380165</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="MAHABANK.NS">
+  <data key="d3">0.5006518750668761</data>
+  <data key="d4">0.9993479123239553</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="CANBK.NS">
+  <data key="d3">0.5598726110612441</data>
+  <data key="d4">0.938218939202099</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="CHOLAFIN.NS">
+  <data key="d3">0.5342749231476464</data>
+  <data key="d4">0.9651166528999007</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="DLF.NS">
+  <data key="d3">0.5546638251287596</data>
+  <data key="d4">0.9437543905818297</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.5140118742021972</data>
+  <data key="d4">0.9858885594201839</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="GODREJPROP.NS">
+  <data key="d3">0.5094110593367307</data>
+  <data key="d4">0.9905442349166133</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="HDFCAMC.NS">
+  <data key="d3">0.5003095001700001</data>
+  <data key="d4">0.999690451919993</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="IDFCFIRSTB.NS">
+  <data key="d3">0.5224314447533976</data>
+  <data key="d4">0.9773111635979631</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="LTF.NS">
+  <data key="d3">0.6816134775363194</data>
+  <data key="d4">0.7979806043553698</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="PNB.NS">
+  <data key="d3">0.5103097382378368</data>
+  <data key="d4">0.9896365613316469</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="RBLBANK.NS">
+  <data key="d3">0.5042647824752541</data>
+  <data key="d4">0.9957260843472425</data>
+</edge>
+<edge source="ABCAPITAL.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5841273168138642</data>
+  <data key="d4">0.9120007491072973</data>
+</edge>
+<edge source="ARE&amp;M.NS" target="EXIDEIND.NS">
+  <data key="d3">0.5769859964461677</data>
+  <data key="d4">0.9197978077314952</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="ASHOKLEY.NS">
+  <data key="d3">0.510513418237985</data>
+  <data key="d4">0.9894307269960995</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="BANKBARODA.NS">
+  <data key="d3">0.5553110532664696</data>
+  <data key="d4">0.9430683397649721</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="BPCL.NS">
+  <data key="d3">0.5070435596873162</data>
+  <data key="d4">0.9929314581708889</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="CANBK.NS">
+  <data key="d3">0.5948183108147759</data>
+  <data key="d4">0.9002018542362864</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="CENTRALBK.NS">
+  <data key="d3">0.5056272498022837</data>
+  <data key="d4">0.9943568274997827</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="CONCOR.NS">
+  <data key="d3">0.5709039013908379</data>
+  <data key="d4">0.926386634844396</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="DLF.NS">
+  <data key="d3">0.5584275471833252</data>
+  <data key="d4">0.9397578973508813</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="DALBHARAT.NS">
+  <data key="d3">0.5535922346807239</data>
+  <data key="d4">0.9448891631501295</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="GAIL.NS">
+  <data key="d3">0.5150144368028511</data>
+  <data key="d4">0.9848711217181149</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.5523533763174023</data>
+  <data key="d4">0.9461993697763676</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="HDFCAMC.NS">
+  <data key="d3">0.526913530916904</data>
+  <data key="d4">0.9727142119688558</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="HUDCO.NS">
+  <data key="d3">0.5342709726212312</data>
+  <data key="d4">0.9651207462061613</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="IRCON.NS">
+  <data key="d3">0.50039715983657</data>
+  <data key="d4">0.9996027612641234</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="IOC.NS">
+  <data key="d3">0.5404967178485752</data>
+  <data key="d4">0.9586483006310759</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="IRCTC.NS">
+  <data key="d3">0.5195418521625749</data>
+  <data key="d4">0.9802633807680721</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="LTF.NS">
+  <data key="d3">0.5038225269288789</data>
+  <data key="d4">0.9961701391540716</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5476926992492338</data>
+  <data key="d4">0.9511122969983788</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="LT.NS">
+  <data key="d3">0.5306424447972076</data>
+  <data key="d4">0.9688731136767006</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="NCC.NS">
+  <data key="d3">0.5351760419819367</data>
+  <data key="d4">0.9641825117871236</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="NTPC.NS">
+  <data key="d3">0.5126615288617895</data>
+  <data key="d4">0.9872572827163246</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="PFC.NS">
+  <data key="d3">0.5535938719638132</data>
+  <data key="d4">0.9448874303706096</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="PNB.NS">
+  <data key="d3">0.5746079322810036</data>
+  <data key="d4">0.9223796048471544</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="RECLTD.NS">
+  <data key="d3">0.5749187893144249</data>
+  <data key="d4">0.9220425268777739</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.523209144420275</data>
+  <data key="d4">0.9765150849625673</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="SBIN.NS">
+  <data key="d3">0.5370891696779457</data>
+  <data key="d4">0.9621962692944245</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="SAIL.NS">
+  <data key="d3">0.5461664609588647</data>
+  <data key="d4">0.9527156333776993</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5134566837458051</data>
+  <data key="d4">0.9864515358132856</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="TATASTEEL.NS">
+  <data key="d3">0.506574321243903</data>
+  <data key="d4">0.9934039246510927</data>
+</edge>
+<edge source="AMBUJACEM.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.5554516873255684</data>
+  <data key="d4">0.9429192040407615</data>
+</edge>
+<edge source="ANGELONE.NS" target="CDSL.NS">
+  <data key="d3">0.5016893559427092</data>
+  <data key="d4">0.9983092146797913</data>
+</edge>
+<edge source="ANGELONE.NS" target="MOTILALOFS.NS">
+  <data key="d3">0.5404128728879859</data>
+  <data key="d4">0.9587357582900662</data>
+</edge>
+<edge source="APOLLOTYRE.NS" target="JKTYRE.NS">
+  <data key="d3">0.5495746419707621</data>
+  <data key="d4">0.9491315588781546</data>
+</edge>
+<edge source="APOLLOTYRE.NS" target="MRF.NS">
+  <data key="d3">0.5173763078513752</data>
+  <data key="d4">0.9824700424426435</data>
+</edge>
+<edge source="ASHOKLEY.NS" target="CHOLAFIN.NS">
+  <data key="d3">0.5034824689399564</data>
+  <data key="d4">0.9965114460557326</data>
+</edge>
+<edge source="ASHOKLEY.NS" target="HDFCAMC.NS">
+  <data key="d3">0.5304908569960557</data>
+  <data key="d4">0.9690295588927557</data>
+</edge>
+<edge source="ASHOKLEY.NS" target="LT.NS">
+  <data key="d3">0.5037087798125374</data>
+  <data key="d4">0.9962843170375238</data>
+</edge>
+<edge source="ASHOKLEY.NS" target="MOTHERSON.NS">
+  <data key="d3">0.5019375401811571</data>
+  <data key="d4">0.9980605791422111</data>
+</edge>
+<edge source="ASHOKLEY.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5750791087953743</data>
+  <data key="d4">0.9218686362000019</data>
+</edge>
+<edge source="ASHOKLEY.NS" target="TMPV.NS">
+  <data key="d3">0.5216105632763935</data>
+  <data key="d4">0.9781507416790179</data>
+</edge>
+<edge source="ASHOKLEY.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.5181951695587562</data>
+  <data key="d4">0.9816362161628347</data>
+</edge>
+<edge source="AXISBANK.NS" target="HDFCBANK.NS">
+  <data key="d3">0.5055926342944097</data>
+  <data key="d4">0.9943916388481857</data>
+</edge>
+<edge source="AXISBANK.NS" target="ICICIBANK.NS">
+  <data key="d3">0.5646083217761887</data>
+  <data key="d4">0.933157733959068</data>
+</edge>
+<edge source="AXISBANK.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5063003947357699</data>
+  <data key="d4">0.9936796317367385</data>
+</edge>
+<edge source="BEML.NS" target="BDL.NS">
+  <data key="d3">0.5390626422364858</data>
+  <data key="d4">0.9601430703426591</data>
+</edge>
+<edge source="BEML.NS" target="BEL.NS">
+  <data key="d3">0.5900377227166165</data>
+  <data key="d4">0.9054968550838634</data>
+</edge>
+<edge source="BEML.NS" target="BHEL.NS">
+  <data key="d3">0.5151008634598966</data>
+  <data key="d4">0.9847833635273328</data>
+</edge>
+<edge source="BEML.NS" target="COCHINSHIP.NS">
+  <data key="d3">0.5055754168831044</data>
+  <data key="d4">0.9944089532148186</data>
+</edge>
+<edge source="BEML.NS" target="CONCOR.NS">
+  <data key="d3">0.5153112331732458</data>
+  <data key="d4">0.9845697200571976</data>
+</edge>
+<edge source="BEML.NS" target="GRSE.NS">
+  <data key="d3">0.5458866256058973</data>
+  <data key="d4">0.9530093120154731</data>
+</edge>
+<edge source="BEML.NS" target="HAL.NS">
+  <data key="d3">0.5827202138196312</data>
+  <data key="d4">0.9135423210561936</data>
+</edge>
+<edge source="BEML.NS" target="HUDCO.NS">
+  <data key="d3">0.507143135910725</data>
+  <data key="d4">0.9928311680132479</data>
+</edge>
+<edge source="BEML.NS" target="IRCON.NS">
+  <data key="d3">0.5349469356186906</data>
+  <data key="d4">0.9644200997296867</data>
+</edge>
+<edge source="BEML.NS" target="IRCTC.NS">
+  <data key="d3">0.5434442699445867</data>
+  <data key="d4">0.9555686579784974</data>
+</edge>
+<edge source="BEML.NS" target="MAZDOCK.NS">
+  <data key="d3">0.5243720179572793</data>
+  <data key="d4">0.9753235176521898</data>
+</edge>
+<edge source="BEML.NS" target="RAILTEL.NS">
+  <data key="d3">0.5629568062599901</data>
+  <data key="d4">0.9349258727193401</data>
+</edge>
+<edge source="BEML.NS" target="SJVN.NS">
+  <data key="d3">0.5019690618478538</data>
+  <data key="d4">0.9980289957232166</data>
+</edge>
+<edge source="BSE.NS" target="CDSL.NS">
+  <data key="d3">0.5322474761723245</data>
+  <data key="d4">0.9672150989595598</data>
+</edge>
+<edge source="BSE.NS" target="MCX.NS">
+  <data key="d3">0.512133051153411</data>
+  <data key="d4">0.9877924365438207</data>
+</edge>
+<edge source="BAJAJ-AUTO.NS" target="HEROMOTOCO.NS">
+  <data key="d3">0.531134333053881</data>
+  <data key="d4">0.9683652894916452</data>
+</edge>
+<edge source="BAJAJ-AUTO.NS" target="TVSMOTOR.NS">
+  <data key="d3">0.519821567044006</data>
+  <data key="d4">0.9799779925651331</data>
+</edge>
+<edge source="BAJFINANCE.NS" target="BAJAJFINSV.NS">
+  <data key="d3">0.7739591909371037</data>
+  <data key="d4">0.6723701496391645</data>
+</edge>
+<edge source="BAJFINANCE.NS" target="CHOLAFIN.NS">
+  <data key="d3">0.6004005223044068</data>
+  <data key="d4">0.893979281298614</data>
+</edge>
+<edge source="BAJFINANCE.NS" target="LTF.NS">
+  <data key="d3">0.5548899383667386</data>
+  <data key="d4">0.943514771090799</data>
+</edge>
+<edge source="BAJFINANCE.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5414120773255726</data>
+  <data key="d4">0.9576929807348776</data>
+</edge>
+<edge source="BAJAJFINSV.NS" target="CHOLAFIN.NS">
+  <data key="d3">0.5682979401954005</data>
+  <data key="d4">0.9291954151895063</data>
+</edge>
+<edge source="BAJAJFINSV.NS" target="LTF.NS">
+  <data key="d3">0.5496005604848563</data>
+  <data key="d4">0.949104250875681</data>
+</edge>
+<edge source="BAJAJFINSV.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5663333992226167</data>
+  <data key="d4">0.9313072541083134</data>
+</edge>
+<edge source="BANDHANBNK.NS" target="CANBK.NS">
+  <data key="d3">0.5181085874456134</data>
+  <data key="d4">0.9817244140331711</data>
+</edge>
+<edge source="BANKBARODA.NS" target="BANKINDIA.NS">
+  <data key="d3">0.6803370767840421</data>
+  <data key="d4">0.7995785430036976</data>
+</edge>
+<edge source="BANKBARODA.NS" target="MAHABANK.NS">
+  <data key="d3">0.5851296693231178</data>
+  <data key="d4">0.9109010162217211</data>
+</edge>
+<edge source="BANKBARODA.NS" target="BEL.NS">
+  <data key="d3">0.5313305212058103</data>
+  <data key="d4">0.9681626710364222</data>
+</edge>
+<edge source="BANKBARODA.NS" target="BHEL.NS">
+  <data key="d3">0.526611517246503</data>
+  <data key="d4">0.9730246479442306</data>
+</edge>
+<edge source="BANKBARODA.NS" target="BPCL.NS">
+  <data key="d3">0.5073076640952042</data>
+  <data key="d4">0.9926654380049663</data>
+</edge>
+<edge source="BANKBARODA.NS" target="CANBK.NS">
+  <data key="d3">0.7899952715770824</data>
+  <data key="d4">0.6480813659146784</data>
+</edge>
+<edge source="BANKBARODA.NS" target="CENTRALBK.NS">
+  <data key="d3">0.605409891027341</data>
+  <data key="d4">0.8883581585966991</data>
+</edge>
+<edge source="BANKBARODA.NS" target="CONCOR.NS">
+  <data key="d3">0.5538937064722208</data>
+  <data key="d4">0.944570054075164</data>
+</edge>
+<edge source="BANKBARODA.NS" target="DLF.NS">
+  <data key="d3">0.5396829787111245</data>
+  <data key="d4">0.9594967652773776</data>
+</edge>
+<edge source="BANKBARODA.NS" target="GAIL.NS">
+  <data key="d3">0.5344919796070887</data>
+  <data key="d4">0.9648917249027595</data>
+</edge>
+<edge source="BANKBARODA.NS" target="HUDCO.NS">
+  <data key="d3">0.5179924009886446</data>
+  <data key="d4">0.9818427562612614</data>
+</edge>
+<edge source="BANKBARODA.NS" target="INDIANB.NS">
+  <data key="d3">0.6209441247120046</data>
+  <data key="d4">0.8706961298730981</data>
+</edge>
+<edge source="BANKBARODA.NS" target="IOC.NS">
+  <data key="d3">0.5377096125419807</data>
+  <data key="d4">0.961551233640745</data>
+</edge>
+<edge source="BANKBARODA.NS" target="IOB.NS">
+  <data key="d3">0.5421140564270623</data>
+  <data key="d4">0.956959710304397</data>
+</edge>
+<edge source="BANKBARODA.NS" target="J&amp;KBANK.NS">
+  <data key="d3">0.5462920981406563</data>
+  <data key="d4">0.9525837515508478</data>
+</edge>
+<edge source="BANKBARODA.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5978853332149097</data>
+  <data key="d4">0.896788343797008</data>
+</edge>
+<edge source="BANKBARODA.NS" target="LICI.NS">
+  <data key="d3">0.5037761322848017</data>
+  <data key="d4">0.9962167110776634</data>
+</edge>
+<edge source="BANKBARODA.NS" target="NCC.NS">
+  <data key="d3">0.5218165691425112</data>
+  <data key="d4">0.97794011151756</data>
+</edge>
+<edge source="BANKBARODA.NS" target="NTPC.NS">
+  <data key="d3">0.5126469713648566</data>
+  <data key="d4">0.987272027999521</data>
+</edge>
+<edge source="BANKBARODA.NS" target="PFC.NS">
+  <data key="d3">0.5948620581217852</data>
+  <data key="d4">0.9001532557050659</data>
+</edge>
+<edge source="BANKBARODA.NS" target="PNB.NS">
+  <data key="d3">0.7844747917451709</data>
+  <data key="d4">0.6565442989697331</data>
+</edge>
+<edge source="BANKBARODA.NS" target="RBLBANK.NS">
+  <data key="d3">0.5074481383657992</data>
+  <data key="d4">0.9925239157160908</data>
+</edge>
+<edge source="BANKBARODA.NS" target="RECLTD.NS">
+  <data key="d3">0.6120464113524624</data>
+  <data key="d4">0.8808559344723036</data>
+</edge>
+<edge source="BANKBARODA.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5023942921365366</data>
+  <data key="d4">0.997602834662636</data>
+</edge>
+<edge source="BANKBARODA.NS" target="SBIN.NS">
+  <data key="d3">0.7224299405357946</data>
+  <data key="d4">0.7450772570199756</data>
+</edge>
+<edge source="BANKBARODA.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5212252995092408</data>
+  <data key="d4">0.978544531935833</data>
+</edge>
+<edge source="BANKBARODA.NS" target="UCOBANK.NS">
+  <data key="d3">0.565711734777558</data>
+  <data key="d4">0.9319745331525342</data>
+</edge>
+<edge source="BANKBARODA.NS" target="UNIONBANK.NS">
+  <data key="d3">0.6952440243828601</data>
+  <data key="d4">0.7807124638650773</data>
+</edge>
+<edge source="BANKINDIA.NS" target="MAHABANK.NS">
+  <data key="d3">0.6345529712656911</data>
+  <data key="d4">0.8549234219908926</data>
+</edge>
+<edge source="BANKINDIA.NS" target="CANBK.NS">
+  <data key="d3">0.7159208648226393</data>
+  <data key="d4">0.7537627414211461</data>
+</edge>
+<edge source="BANKINDIA.NS" target="CENTRALBK.NS">
+  <data key="d3">0.6236580109140026</data>
+  <data key="d4">0.867573615419461</data>
+</edge>
+<edge source="BANKINDIA.NS" target="INDIANB.NS">
+  <data key="d3">0.6375206986134873</data>
+  <data key="d4">0.851445008660586</data>
+</edge>
+<edge source="BANKINDIA.NS" target="IOB.NS">
+  <data key="d3">0.5602519163597245</data>
+  <data key="d4">0.9378145697740844</data>
+</edge>
+<edge source="BANKINDIA.NS" target="J&amp;KBANK.NS">
+  <data key="d3">0.5575962854037406</data>
+  <data key="d4">0.9406420303136145</data>
+</edge>
+<edge source="BANKINDIA.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5377807441297482</data>
+  <data key="d4">0.961477254926243</data>
+</edge>
+<edge source="BANKINDIA.NS" target="NBCC.NS">
+  <data key="d3">0.5001203775783497</data>
+  <data key="d4">0.9998796151753973</data>
+</edge>
+<edge source="BANKINDIA.NS" target="PFC.NS">
+  <data key="d3">0.5214817875346673</data>
+  <data key="d4">0.9782823850661246</data>
+</edge>
+<edge source="BANKINDIA.NS" target="PNB.NS">
+  <data key="d3">0.7278563231001491</data>
+  <data key="d4">0.7377583302136965</data>
+</edge>
+<edge source="BANKINDIA.NS" target="RECLTD.NS">
+  <data key="d3">0.5289288570825227</data>
+  <data key="d4">0.9706401422952559</data>
+</edge>
+<edge source="BANKINDIA.NS" target="SBIN.NS">
+  <data key="d3">0.6185518522215856</data>
+  <data key="d4">0.8734393485278923</data>
+</edge>
+<edge source="BANKINDIA.NS" target="UCOBANK.NS">
+  <data key="d3">0.5771218922920383</data>
+  <data key="d4">0.9196500505170015</data>
+</edge>
+<edge source="BANKINDIA.NS" target="UNIONBANK.NS">
+  <data key="d3">0.7502076622363864</data>
+  <data key="d4">0.7068130414241288</data>
+</edge>
+<edge source="MAHABANK.NS" target="CANBK.NS">
+  <data key="d3">0.6563663122314759</data>
+  <data key="d4">0.8290159078914278</data>
+</edge>
+<edge source="MAHABANK.NS" target="CENTRALBK.NS">
+  <data key="d3">0.7724121307469297</data>
+  <data key="d4">0.6746671316331785</data>
+</edge>
+<edge source="MAHABANK.NS" target="CONCOR.NS">
+  <data key="d3">0.5062842364291185</data>
+  <data key="d4">0.9936958926863707</data>
+</edge>
+<edge source="MAHABANK.NS" target="HUDCO.NS">
+  <data key="d3">0.5132870626070677</data>
+  <data key="d4">0.9866234716374148</data>
+</edge>
+<edge source="MAHABANK.NS" target="IDBI.NS">
+  <data key="d3">0.6072589976250454</data>
+  <data key="d4">0.8862742266081696</data>
+</edge>
+<edge source="MAHABANK.NS" target="IRCON.NS">
+  <data key="d3">0.5096725126218223</data>
+  <data key="d4">0.9902802506141155</data>
+</edge>
+<edge source="MAHABANK.NS" target="INDIANB.NS">
+  <data key="d3">0.5784886871987382</data>
+  <data key="d4">0.9181626357037861</data>
+</edge>
+<edge source="MAHABANK.NS" target="IOC.NS">
+  <data key="d3">0.5107760930079205</data>
+  <data key="d4">0.989165210662081</data>
+</edge>
+<edge source="MAHABANK.NS" target="IOB.NS">
+  <data key="d3">0.7515893908150661</data>
+  <data key="d4">0.704855459204132</data>
+</edge>
+<edge source="MAHABANK.NS" target="J&amp;KBANK.NS">
+  <data key="d3">0.585585896813131</data>
+  <data key="d4">0.9104000254688803</data>
+</edge>
+<edge source="MAHABANK.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5493210124205201</data>
+  <data key="d4">0.9493987440264284</data>
+</edge>
+<edge source="MAHABANK.NS" target="LICI.NS">
+  <data key="d3">0.510521480227181</data>
+  <data key="d4">0.9894225788537666</data>
+</edge>
+<edge source="MAHABANK.NS" target="NBCC.NS">
+  <data key="d3">0.5047045266261653</data>
+  <data key="d4">0.9952843547186249</data>
+</edge>
+<edge source="MAHABANK.NS" target="NHPC.NS">
+  <data key="d3">0.5025781946397352</data>
+  <data key="d4">0.9974184732200069</data>
+</edge>
+<edge source="MAHABANK.NS" target="PNB.NS">
+  <data key="d3">0.6251154556380863</data>
+  <data key="d4">0.8658920768339593</data>
+</edge>
+<edge source="MAHABANK.NS" target="RECLTD.NS">
+  <data key="d3">0.5158923881482685</data>
+  <data key="d4">0.9839792801189784</data>
+</edge>
+<edge source="MAHABANK.NS" target="SJVN.NS">
+  <data key="d3">0.531349617846836</data>
+  <data key="d4">0.9681429462152416</data>
+</edge>
+<edge source="MAHABANK.NS" target="SBIN.NS">
+  <data key="d3">0.5439926573704882</data>
+  <data key="d4">0.954994599596785</data>
+</edge>
+<edge source="MAHABANK.NS" target="UCOBANK.NS">
+  <data key="d3">0.7645268800625324</data>
+  <data key="d4">0.6862552293971501</data>
+</edge>
+<edge source="MAHABANK.NS" target="UNIONBANK.NS">
+  <data key="d3">0.6182974664141445</data>
+  <data key="d4">0.8737305460905616</data>
+</edge>
+<edge source="MAHABANK.NS" target="YESBANK.NS">
+  <data key="d3">0.5252853739405692</data>
+  <data key="d4">0.9743866030066617</data>
+</edge>
+<edge source="BDL.NS" target="BEL.NS">
+  <data key="d3">0.6227552311144138</data>
+  <data key="d4">0.868613572177624</data>
+</edge>
+<edge source="BDL.NS" target="COCHINSHIP.NS">
+  <data key="d3">0.6185547826317968</data>
+  <data key="d4">0.8734359934971804</data>
+</edge>
+<edge source="BDL.NS" target="DATAPATTNS.NS">
+  <data key="d3">0.5317789836567678</data>
+  <data key="d4">0.9676993503596375</data>
+</edge>
+<edge source="BDL.NS" target="GRSE.NS">
+  <data key="d3">0.6608118114295274</data>
+  <data key="d4">0.8236360708109773</data>
+</edge>
+<edge source="BDL.NS" target="HAL.NS">
+  <data key="d3">0.6752165665473443</data>
+  <data key="d4">0.8059571123237956</data>
+</edge>
+<edge source="BDL.NS" target="IRCON.NS">
+  <data key="d3">0.5090943153339202</data>
+  <data key="d4">0.9908639509701418</data>
+</edge>
+<edge source="BDL.NS" target="MAZDOCK.NS">
+  <data key="d3">0.6283984465283635</data>
+  <data key="d4">0.8620922844703304</data>
+</edge>
+<edge source="BEL.NS" target="BHEL.NS">
+  <data key="d3">0.6398429049743886</data>
+  <data key="d4">0.8487132554939995</data>
+</edge>
+<edge source="BEL.NS" target="CANBK.NS">
+  <data key="d3">0.5519101186906197</data>
+  <data key="d4">0.9466677149975913</data>
+</edge>
+<edge source="BEL.NS" target="CENTRALBK.NS">
+  <data key="d3">0.5354903745968165</data>
+  <data key="d4">0.9638564471986308</data>
+</edge>
+<edge source="BEL.NS" target="COALINDIA.NS">
+  <data key="d3">0.5091758397407482</data>
+  <data key="d4">0.9907816714687973</data>
+</edge>
+<edge source="BEL.NS" target="COCHINSHIP.NS">
+  <data key="d3">0.5443611460756165</data>
+  <data key="d4">0.9546086673861531</data>
+</edge>
+<edge source="BEL.NS" target="CONCOR.NS">
+  <data key="d3">0.5617835876281059</data>
+  <data key="d4">0.9361799104572733</data>
+</edge>
+<edge source="BEL.NS" target="DLF.NS">
+  <data key="d3">0.5390384214296541</data>
+  <data key="d4">0.960168296258886</data>
+</edge>
+<edge source="BEL.NS" target="DATAPATTNS.NS">
+  <data key="d3">0.5130994980292504</data>
+  <data key="d4">0.9868135608824492</data>
+</edge>
+<edge source="BEL.NS" target="ENGINERSIN.NS">
+  <data key="d3">0.5266857401110633</data>
+  <data key="d4">0.9729483643944695</data>
+</edge>
+<edge source="BEL.NS" target="GAIL.NS">
+  <data key="d3">0.585792649577645</data>
+  <data key="d4">0.9101728961272743</data>
+</edge>
+<edge source="BEL.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.5002400030769658</data>
+  <data key="d4">0.9997599681153814</data>
+</edge>
+<edge source="BEL.NS" target="GRSE.NS">
+  <data key="d3">0.5497163935384846</data>
+  <data key="d4">0.948982198422621</data>
+</edge>
+<edge source="BEL.NS" target="HAL.NS">
+  <data key="d3">0.7654461057991729</data>
+  <data key="d4">0.6849144387452013</data>
+</edge>
+<edge source="BEL.NS" target="HINDCOPPER.NS">
+  <data key="d3">0.5139418829590777</data>
+  <data key="d4">0.985959549921722</data>
+</edge>
+<edge source="BEL.NS" target="HUDCO.NS">
+  <data key="d3">0.5455183728358012</data>
+  <data key="d4">0.9533956441731826</data>
+</edge>
+<edge source="BEL.NS" target="IRCON.NS">
+  <data key="d3">0.5760766637018134</data>
+  <data key="d4">0.9207858994339417</data>
+</edge>
+<edge source="BEL.NS" target="IRCTC.NS">
+  <data key="d3">0.6124488382296555</data>
+  <data key="d4">0.8803989570306686</data>
+</edge>
+<edge source="BEL.NS" target="IRFC.NS">
+  <data key="d3">0.5018805306157738</data>
+  <data key="d4">0.998117697853541</data>
+</edge>
+<edge source="BEL.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5201833439649727</data>
+  <data key="d4">0.979608754590349</data>
+</edge>
+<edge source="BEL.NS" target="LT.NS">
+  <data key="d3">0.5115520089200757</data>
+  <data key="d4">0.988380484509811</data>
+</edge>
+<edge source="BEL.NS" target="LICI.NS">
+  <data key="d3">0.5030680503381564</data>
+  <data key="d4">0.996927228700113</data>
+</edge>
+<edge source="BEL.NS" target="MAZDOCK.NS">
+  <data key="d3">0.5883255813717894</data>
+  <data key="d4">0.9073857158102178</data>
+</edge>
+<edge source="BEL.NS" target="NBCC.NS">
+  <data key="d3">0.5021531793678911</data>
+  <data key="d4">0.9978444975366743</data>
+</edge>
+<edge source="BEL.NS" target="NCC.NS">
+  <data key="d3">0.5681567982350568</data>
+  <data key="d4">0.929347299737771</data>
+</edge>
+<edge source="BEL.NS" target="NHPC.NS">
+  <data key="d3">0.5143586205035672</data>
+  <data key="d4">0.9855367872346854</data>
+</edge>
+<edge source="BEL.NS" target="NTPC.NS">
+  <data key="d3">0.5101276295629188</data>
+  <data key="d4">0.989820559937084</data>
+</edge>
+<edge source="BEL.NS" target="NATIONALUM.NS">
+  <data key="d3">0.5097106978615805</data>
+  <data key="d4">0.9902416898297299</data>
+</edge>
+<edge source="BEL.NS" target="PFC.NS">
+  <data key="d3">0.60449119282237</data>
+  <data key="d4">0.8893917103027552</data>
+</edge>
+<edge source="BEL.NS" target="PNB.NS">
+  <data key="d3">0.5274201972203568</data>
+  <data key="d4">0.9721931935368023</data>
+</edge>
+<edge source="BEL.NS" target="RECLTD.NS">
+  <data key="d3">0.6010977204401776</data>
+  <data key="d4">0.8931990590678233</data>
+</edge>
+<edge source="BEL.NS" target="RVNL.NS">
+  <data key="d3">0.5378002975803846</data>
+  <data key="d4">0.9614569178279548</data>
+</edge>
+<edge source="BEL.NS" target="RAILTEL.NS">
+  <data key="d3">0.5420070866544267</data>
+  <data key="d4">0.9570714846296209</data>
+</edge>
+<edge source="BEL.NS" target="SJVN.NS">
+  <data key="d3">0.5094416897037058</data>
+  <data key="d4">0.9905133116685451</data>
+</edge>
+<edge source="BEL.NS" target="SCI.NS">
+  <data key="d3">0.5070364641701681</data>
+  <data key="d4">0.9929386041743284</data>
+</edge>
+<edge source="BEL.NS" target="SIEMENS.NS">
+  <data key="d3">0.5159155922065947</data>
+  <data key="d4">0.9839556979797468</data>
+</edge>
+<edge source="BEL.NS" target="SOLARINDS.NS">
+  <data key="d3">0.5251160318192838</data>
+  <data key="d4">0.9745603810751966</data>
+</edge>
+<edge source="BEL.NS" target="SBIN.NS">
+  <data key="d3">0.512139360518733</data>
+  <data key="d4">0.9877860491839991</data>
+</edge>
+<edge source="BEL.NS" target="SAIL.NS">
+  <data key="d3">0.5178952242817836</data>
+  <data key="d4">0.9819417250715201</data>
+</edge>
+<edge source="BEL.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5434275514726254</data>
+  <data key="d4">0.95558615365374</data>
+</edge>
+<edge source="BEL.NS" target="TITAGARH.NS">
+  <data key="d3">0.5014429055568363</data>
+  <data key="d4">0.9985560519501784</data>
+</edge>
+<edge source="BEL.NS" target="UNIONBANK.NS">
+  <data key="d3">0.509275118922848</data>
+  <data key="d4">0.9906814635160506</data>
+</edge>
+<edge source="BHARATFORG.NS" target="MOTHERSON.NS">
+  <data key="d3">0.5370158341181082</data>
+  <data key="d4">0.962272483116806</data>
+</edge>
+<edge source="BHEL.NS" target="BPCL.NS">
+  <data key="d3">0.5289033103831158</data>
+  <data key="d4">0.9706664613726841</data>
+</edge>
+<edge source="BHEL.NS" target="CESC.NS">
+  <data key="d3">0.5273606622366485</data>
+  <data key="d4">0.9722544294199451</data>
+</edge>
+<edge source="BHEL.NS" target="CANBK.NS">
+  <data key="d3">0.5764705963121743</data>
+  <data key="d4">0.9203579778410417</data>
+</edge>
+<edge source="BHEL.NS" target="CONCOR.NS">
+  <data key="d3">0.5711596369970707</data>
+  <data key="d4">0.9261105366023316</data>
+</edge>
+<edge source="BHEL.NS" target="DLF.NS">
+  <data key="d3">0.5389282374713167</data>
+  <data key="d4">0.9602830442413146</data>
+</edge>
+<edge source="BHEL.NS" target="ENGINERSIN.NS">
+  <data key="d3">0.5377178766174744</data>
+  <data key="d4">0.9615426390779824</data>
+</edge>
+<edge source="BHEL.NS" target="GAIL.NS">
+  <data key="d3">0.5759233481065855</data>
+  <data key="d4">0.9209523895331555</data>
+</edge>
+<edge source="BHEL.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.543185681316618</data>
+  <data key="d4">0.9558392319667381</data>
+</edge>
+<edge source="BHEL.NS" target="HFCL.NS">
+  <data key="d3">0.5041423079854995</data>
+  <data key="d4">0.9958490769333478</data>
+</edge>
+<edge source="BHEL.NS" target="HAL.NS">
+  <data key="d3">0.6056477847502323</data>
+  <data key="d4">0.8880903278943733</data>
+</edge>
+<edge source="BHEL.NS" target="HINDCOPPER.NS">
+  <data key="d3">0.5259632457018149</data>
+  <data key="d4">0.9736906637101798</data>
+</edge>
+<edge source="BHEL.NS" target="HUDCO.NS">
+  <data key="d3">0.5855547749464344</data>
+  <data key="d4">0.9104342096533562</data>
+</edge>
+<edge source="BHEL.NS" target="IRCON.NS">
+  <data key="d3">0.5199192660190282</data>
+  <data key="d4">0.979878292423066</data>
+</edge>
+<edge source="BHEL.NS" target="IOC.NS">
+  <data key="d3">0.5647968315007642</data>
+  <data key="d4">0.9329556993761663</data>
+</edge>
+<edge source="BHEL.NS" target="IRCTC.NS">
+  <data key="d3">0.5814533117583967</data>
+  <data key="d4">0.9149280717538437</data>
+</edge>
+<edge source="BHEL.NS" target="JINDALSTEL.NS">
+  <data key="d3">0.5062176050624626</data>
+  <data key="d4">0.9937629445069256</data>
+</edge>
+<edge source="BHEL.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5087248303145289</data>
+  <data key="d4">0.9912367726083119</data>
+</edge>
+<edge source="BHEL.NS" target="LICI.NS">
+  <data key="d3">0.5062478201844125</data>
+  <data key="d4">0.9937325392836721</data>
+</edge>
+<edge source="BHEL.NS" target="NBCC.NS">
+  <data key="d3">0.5304086685177958</data>
+  <data key="d4">0.9691143704250847</data>
+</edge>
+<edge source="BHEL.NS" target="NCC.NS">
+  <data key="d3">0.5091465241356715</data>
+  <data key="d4">0.9908112593873047</data>
+</edge>
+<edge source="BHEL.NS" target="NHPC.NS">
+  <data key="d3">0.5354422507646033</data>
+  <data key="d4">0.9639063743283335</data>
+</edge>
+<edge source="BHEL.NS" target="NLCINDIA.NS">
+  <data key="d3">0.5122076767459837</data>
+  <data key="d4">0.9877168858068757</data>
+</edge>
+<edge source="BHEL.NS" target="NMDC.NS">
+  <data key="d3">0.5637665313488138</data>
+  <data key="d4">0.934059386389523</data>
+</edge>
+<edge source="BHEL.NS" target="NTPC.NS">
+  <data key="d3">0.553884399798042</data>
+  <data key="d4">0.9445799068389693</data>
+</edge>
+<edge source="BHEL.NS" target="NATIONALUM.NS">
+  <data key="d3">0.5180224265749485</data>
+  <data key="d4">0.9818121749347495</data>
+</edge>
+<edge source="BHEL.NS" target="PFC.NS">
+  <data key="d3">0.601231066465576</data>
+  <data key="d4">0.89304975621118</data>
+</edge>
+<edge source="BHEL.NS" target="PNB.NS">
+  <data key="d3">0.5433371610770067</data>
+  <data key="d4">0.955680740543612</data>
+</edge>
+<edge source="BHEL.NS" target="RECLTD.NS">
+  <data key="d3">0.6206549228293157</data>
+  <data key="d4">0.8710282167308753</data>
+</edge>
+<edge source="BHEL.NS" target="SJVN.NS">
+  <data key="d3">0.5240363175907535</data>
+  <data key="d4">0.9756676508004624</data>
+</edge>
+<edge source="BHEL.NS" target="SIEMENS.NS">
+  <data key="d3">0.5371937739036637</data>
+  <data key="d4">0.9620875491308847</data>
+</edge>
+<edge source="BHEL.NS" target="SAIL.NS">
+  <data key="d3">0.5770942342657969</data>
+  <data key="d4">0.9196801245370079</data>
+</edge>
+<edge source="BHEL.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5649454070436245</data>
+  <data key="d4">0.9327964332654531</data>
+</edge>
+<edge source="BPCL.NS" target="CANBK.NS">
+  <data key="d3">0.5664472372646777</data>
+  <data key="d4">0.9311850114078537</data>
+</edge>
+<edge source="BPCL.NS" target="CONCOR.NS">
+  <data key="d3">0.5209237205705243</data>
+  <data key="d4">0.9788526747467933</data>
+</edge>
+<edge source="BPCL.NS" target="GAIL.NS">
+  <data key="d3">0.5754598564292057</data>
+  <data key="d4">0.9214555264046055</data>
+</edge>
+<edge source="BPCL.NS" target="HINDPETRO.NS">
+  <data key="d3">0.8451914072044342</data>
+  <data key="d4">0.5564325525983644</data>
+</edge>
+<edge source="BPCL.NS" target="IOC.NS">
+  <data key="d3">0.8483523814617038</data>
+  <data key="d4">0.5507224682874238</data>
+</edge>
+<edge source="BPCL.NS" target="LICI.NS">
+  <data key="d3">0.5083464800277573</data>
+  <data key="d4">0.991618394315316</data>
+</edge>
+<edge source="BPCL.NS" target="NTPC.NS">
+  <data key="d3">0.5002323928839543</data>
+  <data key="d4">0.9997675801065423</data>
+</edge>
+<edge source="BPCL.NS" target="PETRONET.NS">
+  <data key="d3">0.5308449523199343</data>
+  <data key="d4">0.9686640776657981</data>
+</edge>
+<edge source="BPCL.NS" target="PFC.NS">
+  <data key="d3">0.5298070221488446</data>
+  <data key="d4">0.9697349925120321</data>
+</edge>
+<edge source="BPCL.NS" target="PNB.NS">
+  <data key="d3">0.516697272486557</data>
+  <data key="d4">0.9831609507231693</data>
+</edge>
+<edge source="BPCL.NS" target="RECLTD.NS">
+  <data key="d3">0.5451082788578729</data>
+  <data key="d4">0.9538256875783195</data>
+</edge>
+<edge source="BPCL.NS" target="SAIL.NS">
+  <data key="d3">0.5088956383924701</data>
+  <data key="d4">0.9910644394866863</data>
+</edge>
+<edge source="BSOFT.NS" target="INFY.NS">
+  <data key="d3">0.504796523608889</data>
+  <data key="d4">0.9951919175627493</data>
+</edge>
+<edge source="BSOFT.NS" target="LTM.NS">
+  <data key="d3">0.5429747328503504</data>
+  <data key="d4">0.9560599009995656</data>
+</edge>
+<edge source="BSOFT.NS" target="MPHASIS.NS">
+  <data key="d3">0.5670708882199499</data>
+  <data key="d4">0.9305150313455985</data>
+</edge>
+<edge source="BSOFT.NS" target="TCS.NS">
+  <data key="d3">0.5350797274758584</data>
+  <data key="d4">0.9642823990140457</data>
+</edge>
+<edge source="BSOFT.NS" target="TECHM.NS">
+  <data key="d3">0.507249288781834</data>
+  <data key="d4">0.9927242428974584</data>
+</edge>
+<edge source="BSOFT.NS" target="WIPRO.NS">
+  <data key="d3">0.5093225742873585</data>
+  <data key="d4">0.9906335606193054</data>
+</edge>
+<edge source="BSOFT.NS" target="ZENSARTECH.NS">
+  <data key="d3">0.5064768917563677</data>
+  <data key="d4">0.9935019962170507</data>
+</edge>
+<edge source="BRIGADE.NS" target="GODREJPROP.NS">
+  <data key="d3">0.5249496864758832</data>
+  <data key="d4">0.9747310537005751</data>
+</edge>
+<edge source="CESC.NS" target="NHPC.NS">
+  <data key="d3">0.5026755852860599</data>
+  <data key="d4">0.9973208257265463</data>
+</edge>
+<edge source="CESC.NS" target="NTPC.NS">
+  <data key="d3">0.5099664996650085</data>
+  <data key="d4">0.9899833335314201</data>
+</edge>
+<edge source="CESC.NS" target="RECLTD.NS">
+  <data key="d3">0.5089131942885092</data>
+  <data key="d4">0.9910467251461869</data>
+</edge>
+<edge source="CESC.NS" target="SJVN.NS">
+  <data key="d3">0.5147252237295534</data>
+  <data key="d4">0.9851647337074613</data>
+</edge>
+<edge source="CESC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.6050705145589678</data>
+  <data key="d4">0.8887401031134268</data>
+</edge>
+<edge source="CANBK.NS" target="CENTRALBK.NS">
+  <data key="d3">0.6700364157492579</data>
+  <data key="d4">0.8123590145382055</data>
+</edge>
+<edge source="CANBK.NS" target="CDSL.NS">
+  <data key="d3">0.5039840319906193</data>
+  <data key="d4">0.9960079999772901</data>
+</edge>
+<edge source="CANBK.NS" target="CONCOR.NS">
+  <data key="d3">0.5676061469390107</data>
+  <data key="d4">0.9299396249875466</data>
+</edge>
+<edge source="CANBK.NS" target="DLF.NS">
+  <data key="d3">0.5469514798554237</data>
+  <data key="d4">0.9518912964667513</data>
+</edge>
+<edge source="CANBK.NS" target="ENGINERSIN.NS">
+  <data key="d3">0.5013182058910715</data>
+  <data key="d4">0.998680924128351</data>
+</edge>
+<edge source="CANBK.NS" target="GAIL.NS">
+  <data key="d3">0.5597010277076708</data>
+  <data key="d4">0.9384018033788396</data>
+</edge>
+<edge source="CANBK.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.5393522264198999</data>
+  <data key="d4">0.9598414177145099</data>
+</edge>
+<edge source="CANBK.NS" target="HAL.NS">
+  <data key="d3">0.5103503238034114</data>
+  <data key="d4">0.9895955499057063</data>
+</edge>
+<edge source="CANBK.NS" target="HINDPETRO.NS">
+  <data key="d3">0.5271123837474095</data>
+  <data key="d4">0.9725097595937949</data>
+</edge>
+<edge source="CANBK.NS" target="HUDCO.NS">
+  <data key="d3">0.5581015837992876</data>
+  <data key="d4">0.9401046922558278</data>
+</edge>
+<edge source="CANBK.NS" target="IDBI.NS">
+  <data key="d3">0.5302995886152251</data>
+  <data key="d4">0.9692269201634619</data>
+</edge>
+<edge source="CANBK.NS" target="IDFCFIRSTB.NS">
+  <data key="d3">0.5234729699650952</data>
+  <data key="d4">0.9762448771029785</data>
+</edge>
+<edge source="CANBK.NS" target="INDIANB.NS">
+  <data key="d3">0.6387049683442865</data>
+  <data key="d4">0.8500529767675818</data>
+</edge>
+<edge source="CANBK.NS" target="IOC.NS">
+  <data key="d3">0.5889142280264337</data>
+  <data key="d4">0.9067367555951025</data>
+</edge>
+<edge source="CANBK.NS" target="IOB.NS">
+  <data key="d3">0.6370187619575172</data>
+  <data key="d4">0.8520343162601878</data>
+</edge>
+<edge source="CANBK.NS" target="IRCTC.NS">
+  <data key="d3">0.5299226854362661</data>
+  <data key="d4">0.9696157120877672</data>
+</edge>
+<edge source="CANBK.NS" target="J&amp;KBANK.NS">
+  <data key="d3">0.5977635946801368</data>
+  <data key="d4">0.896924082985693</data>
+</edge>
+<edge source="CANBK.NS" target="JIOFIN.NS">
+  <data key="d3">0.5112106560782744</data>
+  <data key="d4">0.9887257900163479</data>
+</edge>
+<edge source="CANBK.NS" target="LTF.NS">
+  <data key="d3">0.5278059688820174</data>
+  <data key="d4">0.9717963069676512</data>
+</edge>
+<edge source="CANBK.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5640037515145717</data>
+  <data key="d4">0.9338053849549469</data>
+</edge>
+<edge source="CANBK.NS" target="LICI.NS">
+  <data key="d3">0.5468208105439226</data>
+  <data key="d4">0.9520285599246248</data>
+</edge>
+<edge source="CANBK.NS" target="NBCC.NS">
+  <data key="d3">0.5509194949049078</data>
+  <data key="d4">0.9477135696982419</data>
+</edge>
+<edge source="CANBK.NS" target="NCC.NS">
+  <data key="d3">0.5327359616171177</data>
+  <data key="d4">0.9667099237960499</data>
+</edge>
+<edge source="CANBK.NS" target="NMDC.NS">
+  <data key="d3">0.5359824060179726</data>
+  <data key="d4">0.9633458298887553</data>
+</edge>
+<edge source="CANBK.NS" target="NTPC.NS">
+  <data key="d3">0.521852776088861</data>
+  <data key="d4">0.9779030871319908</data>
+</edge>
+<edge source="CANBK.NS" target="PFC.NS">
+  <data key="d3">0.6167583870930246</data>
+  <data key="d4">0.8754902773954437</data>
+</edge>
+<edge source="CANBK.NS" target="PNB.NS">
+  <data key="d3">0.8086080088235641</data>
+  <data key="d4">0.6186953873699657</data>
+</edge>
+<edge source="CANBK.NS" target="RBLBANK.NS">
+  <data key="d3">0.5141377916631591</data>
+  <data key="d4">0.9857608313752793</data>
+</edge>
+<edge source="CANBK.NS" target="RECLTD.NS">
+  <data key="d3">0.6234181215460888</data>
+  <data key="d4">0.8678500774372394</data>
+</edge>
+<edge source="CANBK.NS" target="SJVN.NS">
+  <data key="d3">0.5187468193691179</data>
+  <data key="d4">0.9810740855112646</data>
+</edge>
+<edge source="CANBK.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5162109001955043</data>
+  <data key="d4">0.9836555289373365</data>
+</edge>
+<edge source="CANBK.NS" target="SBIN.NS">
+  <data key="d3">0.6962317764626231</data>
+  <data key="d4">0.7794462438646771</data>
+</edge>
+<edge source="CANBK.NS" target="SAIL.NS">
+  <data key="d3">0.514737345444102</data>
+  <data key="d4">0.9851524293792286</data>
+</edge>
+<edge source="CANBK.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5696440638597714</data>
+  <data key="d4">0.9277455859665715</data>
+</edge>
+<edge source="CANBK.NS" target="UCOBANK.NS">
+  <data key="d3">0.6569824183877417</data>
+  <data key="d4">0.8282723967539402</data>
+</edge>
+<edge source="CANBK.NS" target="UNIONBANK.NS">
+  <data key="d3">0.7424584235594818</data>
+  <data key="d4">0.7176929377394182</data>
+</edge>
+<edge source="CANBK.NS" target="YESBANK.NS">
+  <data key="d3">0.5530405995967429</data>
+  <data key="d4">0.9454727922084877</data>
+</edge>
+<edge source="CEATLTD.NS" target="JKTYRE.NS">
+  <data key="d3">0.5611789719755822</data>
+  <data key="d4">0.9368255206007337</data>
+</edge>
+<edge source="CENTRALBK.NS" target="CONCOR.NS">
+  <data key="d3">0.5424022134328311</data>
+  <data key="d4">0.9566585457384144</data>
+</edge>
+<edge source="CENTRALBK.NS" target="ENGINERSIN.NS">
+  <data key="d3">0.5217316021849346</data>
+  <data key="d4">0.9780269912584881</data>
+</edge>
+<edge source="CENTRALBK.NS" target="GAIL.NS">
+  <data key="d3">0.5408111047101318</data>
+  <data key="d4">0.9583202964456802</data>
+</edge>
+<edge source="CENTRALBK.NS" target="HUDCO.NS">
+  <data key="d3">0.5586255306690981</data>
+  <data key="d4">0.9395471987408636</data>
+</edge>
+<edge source="CENTRALBK.NS" target="IDBI.NS">
+  <data key="d3">0.6304435927461947</data>
+  <data key="d4">0.8597167059605221</data>
+</edge>
+<edge source="CENTRALBK.NS" target="IRCON.NS">
+  <data key="d3">0.5602772456755927</data>
+  <data key="d4">0.9377875605108092</data>
+</edge>
+<edge source="CENTRALBK.NS" target="INDIANB.NS">
+  <data key="d3">0.5613000309356883</data>
+  <data key="d4">0.9366962891613394</data>
+</edge>
+<edge source="CENTRALBK.NS" target="IOC.NS">
+  <data key="d3">0.5550825004006469</data>
+  <data key="d4">0.9433106589023079</data>
+</edge>
+<edge source="CENTRALBK.NS" target="IOB.NS">
+  <data key="d3">0.8550451691806826</data>
+  <data key="d4">0.5384325971174431</data>
+</edge>
+<edge source="CENTRALBK.NS" target="IRCTC.NS">
+  <data key="d3">0.5085747341441036</data>
+  <data key="d4">0.9913881841699511</data>
+</edge>
+<edge source="CENTRALBK.NS" target="IRFC.NS">
+  <data key="d3">0.5488822799193778</data>
+  <data key="d4">0.9498607477737168</data>
+</edge>
+<edge source="CENTRALBK.NS" target="J&amp;KBANK.NS">
+  <data key="d3">0.5723454091585158</data>
+  <data key="d4">0.92482927164043</data>
+</edge>
+<edge source="CENTRALBK.NS" target="JWL.NS">
+  <data key="d3">0.507218977134848</data>
+  <data key="d4">0.9927547762314236</data>
+</edge>
+<edge source="CENTRALBK.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5224885827838367</data>
+  <data key="d4">0.9772526973267082</data>
+</edge>
+<edge source="CENTRALBK.NS" target="LICI.NS">
+  <data key="d3">0.5198691702401373</data>
+  <data key="d4">0.9799294155803903</data>
+</edge>
+<edge source="CENTRALBK.NS" target="NBCC.NS">
+  <data key="d3">0.5375756982319961</data>
+  <data key="d4">0.9616904925889658</data>
+</edge>
+<edge source="CENTRALBK.NS" target="NCC.NS">
+  <data key="d3">0.5583827818791001</data>
+  <data key="d4">0.939805531076403</data>
+</edge>
+<edge source="CENTRALBK.NS" target="NHPC.NS">
+  <data key="d3">0.5684822455328421</data>
+  <data key="d4">0.928997044631637</data>
+</edge>
+<edge source="CENTRALBK.NS" target="PFC.NS">
+  <data key="d3">0.544645957152567</data>
+  <data key="d4">0.9543102669964658</data>
+</edge>
+<edge source="CENTRALBK.NS" target="PNB.NS">
+  <data key="d3">0.6605434048228438</data>
+  <data key="d4">0.8239618864694607</data>
+</edge>
+<edge source="CENTRALBK.NS" target="RECLTD.NS">
+  <data key="d3">0.5741409743433369</data>
+  <data key="d4">0.9228857195304987</data>
+</edge>
+<edge source="CENTRALBK.NS" target="RITES.NS">
+  <data key="d3">0.5172308441881605</data>
+  <data key="d4">0.9826180904215427</data>
+</edge>
+<edge source="CENTRALBK.NS" target="RVNL.NS">
+  <data key="d3">0.5085559373700796</data>
+  <data key="d4">0.991407144043173</data>
+</edge>
+<edge source="CENTRALBK.NS" target="RAILTEL.NS">
+  <data key="d3">0.5062533477410981</data>
+  <data key="d4">0.9937269768491765</data>
+</edge>
+<edge source="CENTRALBK.NS" target="SJVN.NS">
+  <data key="d3">0.5695092242768803</data>
+  <data key="d4">0.9278909157041249</data>
+</edge>
+<edge source="CENTRALBK.NS" target="SBIN.NS">
+  <data key="d3">0.5783985581755811</data>
+  <data key="d4">0.9182607928300314</data>
+</edge>
+<edge source="CENTRALBK.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5465003686949715</data>
+  <data key="d4">0.9523650889286402</data>
+</edge>
+<edge source="CENTRALBK.NS" target="UCOBANK.NS">
+  <data key="d3">0.8634384945293019</data>
+  <data key="d4">0.5226117210141734</data>
+</edge>
+<edge source="CENTRALBK.NS" target="UNIONBANK.NS">
+  <data key="d3">0.6198728216356622</data>
+  <data key="d4">0.8719256600930355</data>
+</edge>
+<edge source="CENTRALBK.NS" target="YESBANK.NS">
+  <data key="d3">0.5546199581409248</data>
+  <data key="d4">0.9438008707975165</data>
+</edge>
+<edge source="CDSL.NS" target="CAMS.NS">
+  <data key="d3">0.568792474434166</data>
+  <data key="d4">0.9286630449908448</data>
+</edge>
+<edge source="CDSL.NS" target="DLF.NS">
+  <data key="d3">0.5190941245004731</data>
+  <data key="d4">0.9807200166199596</data>
+</edge>
+<edge source="CHAMBLFERT.NS" target="FACT.NS">
+  <data key="d3">0.5377832702595458</data>
+  <data key="d4">0.9614746275804206</data>
+</edge>
+<edge source="CHENNPETRO.NS" target="MRPL.NS">
+  <data key="d3">0.649677653594508</data>
+  <data key="d4">0.8370452155116735</data>
+</edge>
+<edge source="CHOLAFIN.NS" target="LTF.NS">
+  <data key="d3">0.5653964280393683</data>
+  <data key="d4">0.932312792962353</data>
+</edge>
+<edge source="CHOLAFIN.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.6431906175596808</data>
+  <data key="d4">0.8447595899903347</data>
+</edge>
+<edge source="COALINDIA.NS" target="GAIL.NS">
+  <data key="d3">0.5169300417325396</data>
+  <data key="d4">0.9829241662177813</data>
+</edge>
+<edge source="COALINDIA.NS" target="NHPC.NS">
+  <data key="d3">0.5150034546681493</data>
+  <data key="d4">0.9848822724893068</data>
+</edge>
+<edge source="COALINDIA.NS" target="NMDC.NS">
+  <data key="d3">0.5351615961005055</data>
+  <data key="d4">0.9641974941882959</data>
+</edge>
+<edge source="COALINDIA.NS" target="NTPC.NS">
+  <data key="d3">0.5857304089591031</data>
+  <data key="d4">0.9102412768501513</data>
+</edge>
+<edge source="COALINDIA.NS" target="NATIONALUM.NS">
+  <data key="d3">0.5349623434284578</data>
+  <data key="d4">0.9644041233544599</data>
+</edge>
+<edge source="COALINDIA.NS" target="ONGC.NS">
+  <data key="d3">0.5838840253413914</data>
+  <data key="d4">0.9122674768494256</data>
+</edge>
+<edge source="COALINDIA.NS" target="PFC.NS">
+  <data key="d3">0.5275722082807621</data>
+  <data key="d4">0.9720368220589567</data>
+</edge>
+<edge source="COALINDIA.NS" target="RECLTD.NS">
+  <data key="d3">0.5238525694248652</data>
+  <data key="d4">0.9758559633215701</data>
+</edge>
+<edge source="COALINDIA.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5554953528696458</data>
+  <data key="d4">0.9428728940110159</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="GRSE.NS">
+  <data key="d3">0.7671033759212605</data>
+  <data key="d4">0.6824904747741751</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="HAL.NS">
+  <data key="d3">0.5565106585824348</data>
+  <data key="d4">0.941795457004933</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="HUDCO.NS">
+  <data key="d3">0.5010698426576466</data>
+  <data key="d4">0.9989295844476259</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="IRCON.NS">
+  <data key="d3">0.5637596593552501</data>
+  <data key="d4">0.9340667434875839</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="IRFC.NS">
+  <data key="d3">0.5376572028554591</data>
+  <data key="d4">0.9616057374460084</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="MAZDOCK.NS">
+  <data key="d3">0.7010605304883814</data>
+  <data key="d4">0.773226318113421</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="RITES.NS">
+  <data key="d3">0.5053605199851232</data>
+  <data key="d4">0.9946250348899094</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="RVNL.NS">
+  <data key="d3">0.5632938821967465</data>
+  <data key="d4">0.9345652655681715</data>
+</edge>
+<edge source="COCHINSHIP.NS" target="RAILTEL.NS">
+  <data key="d3">0.5248026418195687</data>
+  <data key="d4">0.9748818986733022</data>
+</edge>
+<edge source="COFORGE.NS" target="HCLTECH.NS">
+  <data key="d3">0.542906208405826</data>
+  <data key="d4">0.9561315721114683</data>
+</edge>
+<edge source="COFORGE.NS" target="INFY.NS">
+  <data key="d3">0.5718715571191888</data>
+  <data key="d4">0.9253414968332623</data>
+</edge>
+<edge source="COFORGE.NS" target="LTM.NS">
+  <data key="d3">0.5894574206652885</data>
+  <data key="d4">0.9061374943513942</data>
+</edge>
+<edge source="COFORGE.NS" target="MPHASIS.NS">
+  <data key="d3">0.6574982433366324</data>
+  <data key="d4">0.8276493903379227</data>
+</edge>
+<edge source="COFORGE.NS" target="PERSISTENT.NS">
+  <data key="d3">0.7013737330496743</data>
+  <data key="d4">0.7728211525965444</data>
+</edge>
+<edge source="COFORGE.NS" target="TCS.NS">
+  <data key="d3">0.5411796618529475</data>
+  <data key="d4">0.957935632646633</data>
+</edge>
+<edge source="COFORGE.NS" target="TECHM.NS">
+  <data key="d3">0.5893542106034693</data>
+  <data key="d4">0.9062513882985568</data>
+</edge>
+<edge source="CAMS.NS" target="HDFCAMC.NS">
+  <data key="d3">0.5242945368969507</data>
+  <data key="d4">0.9754029558116474</data>
+</edge>
+<edge source="CAMS.NS" target="KFINTECH.NS">
+  <data key="d3">0.5109438446580846</data>
+  <data key="d4">0.9889956070093693</data>
+</edge>
+<edge source="CONCOR.NS" target="DLF.NS">
+  <data key="d3">0.5589775222347224</data>
+  <data key="d4">0.9391724844407204</data>
+</edge>
+<edge source="CONCOR.NS" target="ENGINERSIN.NS">
+  <data key="d3">0.5092107410581024</data>
+  <data key="d4">0.9907464447999776</data>
+</edge>
+<edge source="CONCOR.NS" target="GAIL.NS">
+  <data key="d3">0.5773516632807852</data>
+  <data key="d4">0.9194001704581252</data>
+</edge>
+<edge source="CONCOR.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.542363498256552</data>
+  <data key="d4">0.956699014051387</data>
+</edge>
+<edge source="CONCOR.NS" target="HDFCAMC.NS">
+  <data key="d3">0.533242194940045</data>
+  <data key="d4">0.9661861156733261</data>
+</edge>
+<edge source="CONCOR.NS" target="HAL.NS">
+  <data key="d3">0.5386373408246674</data>
+  <data key="d4">0.9605859245016373</data>
+</edge>
+<edge source="CONCOR.NS" target="HINDPETRO.NS">
+  <data key="d3">0.5149344085797272</data>
+  <data key="d4">0.9849523759251234</data>
+</edge>
+<edge source="CONCOR.NS" target="HUDCO.NS">
+  <data key="d3">0.5986873770131361</data>
+  <data key="d4">0.8958935461167961</data>
+</edge>
+<edge source="CONCOR.NS" target="IRCON.NS">
+  <data key="d3">0.5521542806448614</data>
+  <data key="d4">0.946409762581873</data>
+</edge>
+<edge source="CONCOR.NS" target="IOC.NS">
+  <data key="d3">0.5467423587294785</data>
+  <data key="d4">0.9521109612545394</data>
+</edge>
+<edge source="CONCOR.NS" target="IRCTC.NS">
+  <data key="d3">0.6033274353947594</data>
+  <data key="d4">0.8906992361119892</data>
+</edge>
+<edge source="CONCOR.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5788728836922581</data>
+  <data key="d4">0.9177440997443045</data>
+</edge>
+<edge source="CONCOR.NS" target="LICI.NS">
+  <data key="d3">0.505474357550489</data>
+  <data key="d4">0.9945105755591652</data>
+</edge>
+<edge source="CONCOR.NS" target="NBCC.NS">
+  <data key="d3">0.5392702957160408</data>
+  <data key="d4">0.9599267725029438</data>
+</edge>
+<edge source="CONCOR.NS" target="NCC.NS">
+  <data key="d3">0.5489777894486662</data>
+  <data key="d4">0.9497601913655193</data>
+</edge>
+<edge source="CONCOR.NS" target="NHPC.NS">
+  <data key="d3">0.5240161268246987</data>
+  <data key="d4">0.9756883448881629</data>
+</edge>
+<edge source="CONCOR.NS" target="NMDC.NS">
+  <data key="d3">0.5629985104158738</data>
+  <data key="d4">0.9348812647434178</data>
+</edge>
+<edge source="CONCOR.NS" target="NTPC.NS">
+  <data key="d3">0.534275773678698</data>
+  <data key="d4">0.9651157716267017</data>
+</edge>
+<edge source="CONCOR.NS" target="PETRONET.NS">
+  <data key="d3">0.5120412021622852</data>
+  <data key="d4">0.9878854162682176</data>
+</edge>
+<edge source="CONCOR.NS" target="PFC.NS">
+  <data key="d3">0.6186011128255446</data>
+  <data key="d4">0.8733829482815145</data>
+</edge>
+<edge source="CONCOR.NS" target="PNB.NS">
+  <data key="d3">0.5623658969228319</data>
+  <data key="d4">0.9355576979290674</data>
+</edge>
+<edge source="CONCOR.NS" target="RECLTD.NS">
+  <data key="d3">0.6322929938144942</data>
+  <data key="d4">0.8575628328997308</data>
+</edge>
+<edge source="CONCOR.NS" target="RAILTEL.NS">
+  <data key="d3">0.5126905843056224</data>
+  <data key="d4">0.9872278518096799</data>
+</edge>
+<edge source="CONCOR.NS" target="SJVN.NS">
+  <data key="d3">0.5348561140946305</data>
+  <data key="d4">0.9645142672924745</data>
+</edge>
+<edge source="CONCOR.NS" target="SBIN.NS">
+  <data key="d3">0.5132446311181671</data>
+  <data key="d4">0.986666477470308</data>
+</edge>
+<edge source="CONCOR.NS" target="SAIL.NS">
+  <data key="d3">0.5349885141362762</data>
+  <data key="d4">0.9643769863116018</data>
+</edge>
+<edge source="CONCOR.NS" target="TATAPOWER.NS">
+  <data key="d3">0.573974875460244</data>
+  <data key="d4">0.9230656797213902</data>
+</edge>
+<edge source="CONCOR.NS" target="UCOBANK.NS">
+  <data key="d3">0.5076245441655237</data>
+  <data key="d4">0.9923461652412189</data>
+</edge>
+<edge source="CUMMINSIND.NS" target="SIEMENS.NS">
+  <data key="d3">0.5844602792379514</data>
+  <data key="d4">0.9116355859246046</data>
+</edge>
+<edge source="DLF.NS" target="GAIL.NS">
+  <data key="d3">0.538247838240166</data>
+  <data key="d4">0.9609913233321454</data>
+</edge>
+<edge source="DLF.NS" target="GMRAIRPORT.NS">
+  <data key="d3">0.5329008420886324</data>
+  <data key="d4">0.9665393503746939</data>
+</edge>
+<edge source="DLF.NS" target="GODREJPROP.NS">
+  <data key="d3">0.7470728313144915</data>
+  <data key="d4">0.7112343758361352</data>
+</edge>
+<edge source="DLF.NS" target="HDFCAMC.NS">
+  <data key="d3">0.5997454097016731</data>
+  <data key="d4">0.8947117863293486</data>
+</edge>
+<edge source="DLF.NS" target="HUDCO.NS">
+  <data key="d3">0.5010179796889292</data>
+  <data key="d4">0.9989815016416177</data>
+</edge>
+<edge source="DLF.NS" target="IRCON.NS">
+  <data key="d3">0.5083907617022942</data>
+  <data key="d4">0.9915737373465533</data>
+</edge>
+<edge source="DLF.NS" target="INDHOTEL.NS">
+  <data key="d3">0.5626908331971896</data>
+  <data key="d4">0.9352103151728068</data>
+</edge>
+<edge source="DLF.NS" target="IOC.NS">
+  <data key="d3">0.5056340326784121</data>
+  <data key="d4">0.9943500061060873</data>
+</edge>
+<edge source="DLF.NS" target="IRCTC.NS">
+  <data key="d3">0.5335987397313476</data>
+  <data key="d4">0.9658170222859528</data>
+</edge>
+<edge source="DLF.NS" target="JINDALSTEL.NS">
+  <data key="d3">0.5158993718086957</data>
+  <data key="d4">0.9839721827280529</data>
+</edge>
+<edge source="DLF.NS" target="JIOFIN.NS">
+  <data key="d3">0.5102104793734817</data>
+  <data key="d4">0.9897368545492466</data>
+</edge>
+<edge source="DLF.NS" target="LTF.NS">
+  <data key="d3">0.5477218663143347</data>
+  <data key="d4">0.9510816302354549</data>
+</edge>
+<edge source="DLF.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5495626684207396</data>
+  <data key="d4">0.9491441740634142</data>
+</edge>
+<edge source="DLF.NS" target="LT.NS">
+  <data key="d3">0.5593999049668713</data>
+  <data key="d4">0.9387226374527554</data>
+</edge>
+<edge source="DLF.NS" target="LODHA.NS">
+  <data key="d3">0.6208850647038624</data>
+  <data key="d4">0.8707639580232264</data>
+</edge>
+<edge source="DLF.NS" target="MOTILALOFS.NS">
+  <data key="d3">0.510242183902828</data>
+  <data key="d4">0.9897048207391655</data>
+</edge>
+<edge source="DLF.NS" target="NCC.NS">
+  <data key="d3">0.5053676749141195</data>
+  <data key="d4">0.9946178412695807</data>
+</edge>
+<edge source="DLF.NS" target="OBEROIRLTY.NS">
+  <data key="d3">0.6857156637693235</data>
+  <data key="d4">0.7928232290122137</data>
+</edge>
+<edge source="DLF.NS" target="PFC.NS">
+  <data key="d3">0.5246770021726234</data>
+  <data key="d4">0.9750107669429878</data>
+</edge>
+<edge source="DLF.NS" target="PRESTIGE.NS">
+  <data key="d3">0.6247106520407666</data>
+  <data key="d4">0.8663594496041852</data>
+</edge>
+<edge source="DLF.NS" target="PNB.NS">
+  <data key="d3">0.5426516248943396</data>
+  <data key="d4">0.9563977991460043</data>
+</edge>
+<edge source="DLF.NS" target="RECLTD.NS">
+  <data key="d3">0.5503627224791887</data>
+  <data key="d4">0.9483008779082842</data>
+</edge>
+<edge source="DLF.NS" target="MOTHERSON.NS">
+  <data key="d3">0.5072268069137842</data>
+  <data key="d4">0.9927468892786477</data>
+</edge>
+<edge source="DLF.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5604963894045759</data>
+  <data key="d4">0.9375538497552277</data>
+</edge>
+<edge source="DLF.NS" target="SOBHA.NS">
+  <data key="d3">0.5089145879059223</data>
+  <data key="d4">0.9910453189376132</data>
+</edge>
+<edge source="DLF.NS" target="SBIN.NS">
+  <data key="d3">0.5105771063645669</data>
+  <data key="d4">0.9893663564478359</data>
+</edge>
+<edge source="DLF.NS" target="SAIL.NS">
+  <data key="d3">0.5206516861598859</data>
+  <data key="d4">0.9791305468017164</data>
+</edge>
+<edge source="DLF.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5454277747803115</data>
+  <data key="d4">0.9534906661522058</data>
+</edge>
+<edge source="DLF.NS" target="TATASTEEL.NS">
+  <data key="d3">0.5367331651200821</data>
+  <data key="d4">0.9625661898071404</data>
+</edge>
+<edge source="DABUR.NS" target="GODREJCP.NS">
+  <data key="d3">0.5356023324012015</data>
+  <data key="d4">0.9637402841002326</data>
+</edge>
+<edge source="DABUR.NS" target="HINDUNILVR.NS">
+  <data key="d3">0.5615330080544367</data>
+  <data key="d4">0.9364475339767447</data>
+</edge>
+<edge source="DALBHARAT.NS" target="SHREECEM.NS">
+  <data key="d3">0.5062245837407563</data>
+  <data key="d4">0.9937559220042351</data>
+</edge>
+<edge source="DALBHARAT.NS" target="RAMCOCEM.NS">
+  <data key="d3">0.5341820756091941</data>
+  <data key="d4">0.9652128515418824</data>
+</edge>
+<edge source="DALBHARAT.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.5509453985414346</data>
+  <data key="d4">0.9476862365346089</data>
+</edge>
+<edge source="DATAPATTNS.NS" target="GRSE.NS">
+  <data key="d3">0.510623875227485</data>
+  <data key="d4">0.9893190837869398</data>
+</edge>
+<edge source="DIXON.NS" target="KAYNES.NS">
+  <data key="d3">0.504156491275868</data>
+  <data key="d4">0.9958348344219858</data>
+</edge>
+<edge source="EICHERMOT.NS" target="MARUTI.NS">
+  <data key="d3">0.5159228427219273</data>
+  <data key="d4">0.9839483292105055</data>
+</edge>
+<edge source="EICHERMOT.NS" target="TVSMOTOR.NS">
+  <data key="d3">0.5439920448140262</data>
+  <data key="d4">0.9549952410205758</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="HUDCO.NS">
+  <data key="d3">0.5602279273356723</data>
+  <data key="d4">0.9378401491345183</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="IRCON.NS">
+  <data key="d3">0.561157947166757</data>
+  <data key="d4">0.936847962940885</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="IRCTC.NS">
+  <data key="d3">0.5359326256121367</data>
+  <data key="d4">0.9633975029943386</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="IRFC.NS">
+  <data key="d3">0.5083464855688795</data>
+  <data key="d4">0.9916183887273576</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="NBCC.NS">
+  <data key="d3">0.5686880975156847</data>
+  <data key="d4">0.928775433013078</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="NCC.NS">
+  <data key="d3">0.5103502169627528</data>
+  <data key="d4">0.9895956578696646</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="NHPC.NS">
+  <data key="d3">0.5151911959698686</data>
+  <data key="d4">0.9846916309486248</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="PFC.NS">
+  <data key="d3">0.5153641879514778</data>
+  <data key="d4">0.9845159338969809</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="RECLTD.NS">
+  <data key="d3">0.5185767322092655</data>
+  <data key="d4">0.9812474385095071</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="RVNL.NS">
+  <data key="d3">0.511026401329771</data>
+  <data key="d4">0.9889121282199234</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="RAILTEL.NS">
+  <data key="d3">0.5238634764777372</data>
+  <data key="d4">0.9758447863490001</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="SJVN.NS">
+  <data key="d3">0.5608226274938843</data>
+  <data key="d4">0.9372058178501835</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="SCI.NS">
+  <data key="d3">0.5035229489113796</data>
+  <data key="d4">0.9964708235453965</data>
+</edge>
+<edge source="ENGINERSIN.NS" target="TATAPOWER.NS">
+  <data key="d3">0.505745711075639</data>
+  <data key="d4">0.9942376867976399</data>
+</edge>
+<edge source="EXIDEIND.NS" target="IRCTC.NS">
+  <data key="d3">0.5094310323732295</data>
+  <data key="d4">0.9905240710116746</data>
+</edge>
+<edge source="FEDERALBNK.NS" target="PNB.NS">
+  <data key="d3">0.5097904249949549</data>
+  <data key="d4">0.9901611737540966</data>
+</edge>
+<edge source="GAIL.NS" target="HAL.NS">
+  <data key="d3">0.5385612871075666</data>
+  <data key="d4">0.9606650955379127</data>
+</edge>
+<edge source="GAIL.NS" target="HINDCOPPER.NS">
+  <data key="d3">0.5065914140965352</data>
+  <data key="d4">0.9933867181550847</data>
+</edge>
+<edge source="GAIL.NS" target="HINDPETRO.NS">
+  <data key="d3">0.5383772191346499</data>
+  <data key="d4">0.9608566811604633</data>
+</edge>
+<edge source="GAIL.NS" target="HUDCO.NS">
+  <data key="d3">0.5283933908771992</data>
+  <data key="d4">0.9711916485666471</data>
+</edge>
+<edge source="GAIL.NS" target="IRCON.NS">
+  <data key="d3">0.5076421844815426</data>
+  <data key="d4">0.9923283887085539</data>
+</edge>
+<edge source="GAIL.NS" target="IOC.NS">
+  <data key="d3">0.6390764754271752</data>
+  <data key="d4">0.8496158244439952</data>
+</edge>
+<edge source="GAIL.NS" target="IRCTC.NS">
+  <data key="d3">0.5717316185230289</data>
+  <data key="d4">0.9254927136147222</data>
+</edge>
+<edge source="GAIL.NS" target="JINDALSTEL.NS">
+  <data key="d3">0.5011630673417731</data>
+  <data key="d4">0.9988362555076051</data>
+</edge>
+<edge source="GAIL.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.542869707713406</data>
+  <data key="d4">0.9561697467360009</data>
+</edge>
+<edge source="GAIL.NS" target="LT.NS">
+  <data key="d3">0.522344511269548</data>
+  <data key="d4">0.9774001112445733</data>
+</edge>
+<edge source="GAIL.NS" target="LICI.NS">
+  <data key="d3">0.5044734739252367</data>
+  <data key="d4">0.9955164750768952</data>
+</edge>
+<edge source="GAIL.NS" target="NCC.NS">
+  <data key="d3">0.5240906572205013</data>
+  <data key="d4">0.97561195439529</data>
+</edge>
+<edge source="GAIL.NS" target="NHPC.NS">
+  <data key="d3">0.5294677213803127</data>
+  <data key="d4">0.9700848196108289</data>
+</edge>
+<edge source="GAIL.NS" target="NMDC.NS">
+  <data key="d3">0.5923129158059299</data>
+  <data key="d4">0.9029807131872419</data>
+</edge>
+<edge source="GAIL.NS" target="NTPC.NS">
+  <data key="d3">0.6077940611653673</data>
+  <data key="d4">0.8856702985136543</data>
+</edge>
+<edge source="GAIL.NS" target="NATIONALUM.NS">
+  <data key="d3">0.5068014972121222</data>
+  <data key="d4">0.9931752139354645</data>
+</edge>
+<edge source="GAIL.NS" target="ONGC.NS">
+  <data key="d3">0.5590581995385991</data>
+  <data key="d4">0.9390865779696789</data>
+</edge>
+<edge source="GAIL.NS" target="PETRONET.NS">
+  <data key="d3">0.6173382719604609</data>
+  <data key="d4">0.874827672218408</data>
+</edge>
+<edge source="GAIL.NS" target="PFC.NS">
+  <data key="d3">0.5966470996353981</data>
+  <data key="d4">0.8981680247755449</data>
+</edge>
+<edge source="GAIL.NS" target="PNB.NS">
+  <data key="d3">0.5563499765319164</data>
+  <data key="d4">0.9419660540253917</data>
+</edge>
+<edge source="GAIL.NS" target="RECLTD.NS">
+  <data key="d3">0.6150929149984157</data>
+  <data key="d4">0.8773905458820311</data>
+</edge>
+<edge source="GAIL.NS" target="SJVN.NS">
+  <data key="d3">0.530130058552631</data>
+  <data key="d4">0.9694018170473676</data>
+</edge>
+<edge source="GAIL.NS" target="SAIL.NS">
+  <data key="d3">0.5933100991101046</data>
+  <data key="d4">0.9018757130446472</data>
+</edge>
+<edge source="GAIL.NS" target="TATAPOWER.NS">
+  <data key="d3">0.575532027158635</data>
+  <data key="d4">0.9213772005442341</data>
+</edge>
+<edge source="GAIL.NS" target="TATASTEEL.NS">
+  <data key="d3">0.5332398690240994</data>
+  <data key="d4">0.9661885229870003</data>
+</edge>
+<edge source="GAIL.NS" target="UCOBANK.NS">
+  <data key="d3">0.5058266577951864</data>
+  <data key="d4">0.9941562676006359</data>
+</edge>
+<edge source="GMRAIRPORT.NS" target="IOC.NS">
+  <data key="d3">0.5177390180115043</data>
+  <data key="d4">0.9821007911497635</data>
+</edge>
+<edge source="GMRAIRPORT.NS" target="IRCTC.NS">
+  <data key="d3">0.5229694276805086</data>
+  <data key="d4">0.9767605359754165</data>
+</edge>
+<edge source="GMRAIRPORT.NS" target="LTF.NS">
+  <data key="d3">0.5219220519869191</data>
+  <data key="d4">0.9778322432944015</data>
+</edge>
+<edge source="GMRAIRPORT.NS" target="PFC.NS">
+  <data key="d3">0.543426376197708</data>
+  <data key="d4">0.9555873835524327</data>
+</edge>
+<edge source="GMRAIRPORT.NS" target="PNB.NS">
+  <data key="d3">0.5025308689828326</data>
+  <data key="d4">0.9974659202370448</data>
+</edge>
+<edge source="GMRAIRPORT.NS" target="RECLTD.NS">
+  <data key="d3">0.5410419049549158</data>
+  <data key="d4">0.9580794278608473</data>
+</edge>
+<edge source="GMRAIRPORT.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5147830500029829</data>
+  <data key="d4">0.9851060348987992</data>
+</edge>
+<edge source="GRSE.NS" target="HAL.NS">
+  <data key="d3">0.5746856209014828</data>
+  <data key="d4">0.9222953747021799</data>
+</edge>
+<edge source="GRSE.NS" target="IRCON.NS">
+  <data key="d3">0.536817015183132</data>
+  <data key="d4">0.9624790749069488</data>
+</edge>
+<edge source="GRSE.NS" target="MAZDOCK.NS">
+  <data key="d3">0.7429862597412823</data>
+  <data key="d4">0.7169570981010198</data>
+</edge>
+<edge source="GRSE.NS" target="RVNL.NS">
+  <data key="d3">0.5184737609806348</data>
+  <data key="d4">0.9813523720044347</data>
+</edge>
+<edge source="GRSE.NS" target="RAILTEL.NS">
+  <data key="d3">0.5049279508323052</data>
+  <data key="d4">0.9950598466099361</data>
+</edge>
+<edge source="GICRE.NS" target="NIACL.NS">
+  <data key="d3">0.665281920102798</data>
+  <data key="d4">0.8181907844716928</data>
+</edge>
+<edge source="GODREJPROP.NS" target="HDFCAMC.NS">
+  <data key="d3">0.542392244283055</data>
+  <data key="d4">0.95666896648417</data>
+</edge>
+<edge source="GODREJPROP.NS" target="INDHOTEL.NS">
+  <data key="d3">0.5228621136049086</data>
+  <data key="d4">0.9768703971306443</data>
+</edge>
+<edge source="GODREJPROP.NS" target="LTF.NS">
+  <data key="d3">0.5269849737902643</data>
+  <data key="d4">0.972640762265016</data>
+</edge>
+<edge source="GODREJPROP.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5023008940239073</data>
+  <data key="d4">0.9976964528112673</data>
+</edge>
+<edge source="GODREJPROP.NS" target="LODHA.NS">
+  <data key="d3">0.5735607348270175</data>
+  <data key="d4">0.9235142285563146</data>
+</edge>
+<edge source="GODREJPROP.NS" target="OBEROIRLTY.NS">
+  <data key="d3">0.646093628973411</data>
+  <data key="d4">0.8413160773770925</data>
+</edge>
+<edge source="GODREJPROP.NS" target="PRESTIGE.NS">
+  <data key="d3">0.5923173492005425</data>
+  <data key="d4">0.9029758034404438</data>
+</edge>
+<edge source="GODREJPROP.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5139194745485505</data>
+  <data key="d4">0.9859822771748481</data>
+</edge>
+<edge source="GRAPHITE.NS" target="HEGAM.NS">
+  <data key="d3">0.6464211868712859</data>
+  <data key="d4">0.8409266473702853</data>
+</edge>
+<edge source="GRASIM.NS" target="JSWSTEEL.NS">
+  <data key="d3">0.5369343478923062</data>
+  <data key="d4">0.9623571604219442</data>
+</edge>
+<edge source="GRASIM.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.627636084953295</data>
+  <data key="d4">0.8629761468855381</data>
+</edge>
+<edge source="GMDCLTD.NS" target="HINDCOPPER.NS">
+  <data key="d3">0.5876829790687924</data>
+  <data key="d4">0.9080936305593247</data>
+</edge>
+<edge source="GMDCLTD.NS" target="HUDCO.NS">
+  <data key="d3">0.5066534764865471</data>
+  <data key="d4">0.9933242406318824</data>
+</edge>
+<edge source="GMDCLTD.NS" target="IRCON.NS">
+  <data key="d3">0.5125704132444422</data>
+  <data key="d4">0.9873495700668106</data>
+</edge>
+<edge source="GMDCLTD.NS" target="NLCINDIA.NS">
+  <data key="d3">0.5016855671828055</data>
+  <data key="d4">0.9983130098493102</data>
+</edge>
+<edge source="GMDCLTD.NS" target="NMDC.NS">
+  <data key="d3">0.5676188789164001</data>
+  <data key="d4">0.9299259336996683</data>
+</edge>
+<edge source="GMDCLTD.NS" target="NSLNISP.NS">
+  <data key="d3">0.5315205937879438</data>
+  <data key="d4">0.9679663281458257</data>
+</edge>
+<edge source="GMDCLTD.NS" target="RAILTEL.NS">
+  <data key="d3">0.5074961319970284</data>
+  <data key="d4">0.9924755593997987</data>
+</edge>
+<edge source="GMDCLTD.NS" target="SAIL.NS">
+  <data key="d3">0.5254943615846372</data>
+  <data key="d4">0.9741720981585982</data>
+</edge>
+<edge source="HBLENGINE.NS" target="IRCON.NS">
+  <data key="d3">0.5168270116707137</data>
+  <data key="d4">0.9830289805791956</data>
+</edge>
+<edge source="HCLTECH.NS" target="INFY.NS">
+  <data key="d3">0.714797324228603</data>
+  <data key="d4">0.755251846434548</data>
+</edge>
+<edge source="HCLTECH.NS" target="LTM.NS">
+  <data key="d3">0.6304992336460177</data>
+  <data key="d4">0.8596519834839937</data>
+</edge>
+<edge source="HCLTECH.NS" target="MPHASIS.NS">
+  <data key="d3">0.5841382125717106</data>
+  <data key="d4">0.9119888019359551</data>
+</edge>
+<edge source="HCLTECH.NS" target="PERSISTENT.NS">
+  <data key="d3">0.5413853582372178</data>
+  <data key="d4">0.9577208797585883</data>
+</edge>
+<edge source="HCLTECH.NS" target="TCS.NS">
+  <data key="d3">0.6885941780812912</data>
+  <data key="d4">0.7891841634481889</data>
+</edge>
+<edge source="HCLTECH.NS" target="TECHM.NS">
+  <data key="d3">0.6521279588774517</data>
+  <data key="d4">0.8341127515181006</data>
+</edge>
+<edge source="HCLTECH.NS" target="WIPRO.NS">
+  <data key="d3">0.5637212251897534</data>
+  <data key="d4">0.9341078897110832</data>
+</edge>
+<edge source="HDFCAMC.NS" target="INDHOTEL.NS">
+  <data key="d3">0.502472250562777</data>
+  <data key="d4">0.9975246858471454</data>
+</edge>
+<edge source="HDFCAMC.NS" target="LTF.NS">
+  <data key="d3">0.5070321028029721</data>
+  <data key="d4">0.9929429965481683</data>
+</edge>
+<edge source="HDFCAMC.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5033968073910138</data>
+  <data key="d4">0.9965974037784628</data>
+</edge>
+<edge source="HDFCAMC.NS" target="LT.NS">
+  <data key="d3">0.5010517999157544</data>
+  <data key="d4">0.9989476463601539</data>
+</edge>
+<edge source="HDFCAMC.NS" target="MOTILALOFS.NS">
+  <data key="d3">0.5267081225360323</data>
+  <data key="d4">0.9729253593816616</data>
+</edge>
+<edge source="HDFCAMC.NS" target="NAM-INDIA.NS">
+  <data key="d3">0.5867061247624146</data>
+  <data key="d4">0.9091687139773184</data>
+</edge>
+<edge source="HDFCAMC.NS" target="PFC.NS">
+  <data key="d3">0.5266913264112973</data>
+  <data key="d4">0.9729426227570696</data>
+</edge>
+<edge source="HDFCAMC.NS" target="RECLTD.NS">
+  <data key="d3">0.554952534004023</data>
+  <data key="d4">0.9434484257191561</data>
+</edge>
+<edge source="HDFCAMC.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5399825256232251</data>
+  <data key="d4">0.9591845227867002</data>
+</edge>
+<edge source="HDFCBANK.NS" target="ICICIBANK.NS">
+  <data key="d3">0.5018638192731766</data>
+  <data key="d4">0.9981344405708316</data>
+</edge>
+<edge source="HDFCLIFE.NS" target="ICICILIFE.NS">
+  <data key="d3">0.6195700349340564</data>
+  <data key="d4">0.8722728530293071</data>
+</edge>
+<edge source="HDFCLIFE.NS" target="MFSL.NS">
+  <data key="d3">0.5888695663020621</data>
+  <data key="d4">0.9067860097045365</data>
+</edge>
+<edge source="HDFCLIFE.NS" target="SBILIFE.NS">
+  <data key="d3">0.6144373718915905</data>
+  <data key="d4">0.8781373788974132</data>
+</edge>
+<edge source="HFCL.NS" target="IRCON.NS">
+  <data key="d3">0.5037359198193029</data>
+  <data key="d4">0.9962570754385608</data>
+</edge>
+<edge source="HFCL.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5001791261821591</data>
+  <data key="d4">0.9998208577718719</data>
+</edge>
+<edge source="HEROMOTOCO.NS" target="TVSMOTOR.NS">
+  <data key="d3">0.5504807126164115</data>
+  <data key="d4">0.9481764470641406</data>
+</edge>
+<edge source="HINDALCO.NS" target="HINDCOPPER.NS">
+  <data key="d3">0.5400889769350941</data>
+  <data key="d4">0.9590735353088479</data>
+</edge>
+<edge source="HINDALCO.NS" target="JSWSTEEL.NS">
+  <data key="d3">0.5711879598996097</data>
+  <data key="d4">0.9260799534601646</data>
+</edge>
+<edge source="HINDALCO.NS" target="JINDALSTEL.NS">
+  <data key="d3">0.5746381648334504</data>
+  <data key="d4">0.922346827572524</data>
+</edge>
+<edge source="HINDALCO.NS" target="NMDC.NS">
+  <data key="d3">0.5823283481506081</data>
+  <data key="d4">0.913971172247125</data>
+</edge>
+<edge source="HINDALCO.NS" target="NATIONALUM.NS">
+  <data key="d3">0.6777119717351652</data>
+  <data key="d4">0.8028549411504358</data>
+</edge>
+<edge source="HINDALCO.NS" target="SAIL.NS">
+  <data key="d3">0.5753916079973268</data>
+  <data key="d4">0.9215295893270853</data>
+</edge>
+<edge source="HINDALCO.NS" target="TATASTEEL.NS">
+  <data key="d3">0.6542741742503245</data>
+  <data key="d4">0.8315357187152882</data>
+</edge>
+<edge source="HINDALCO.NS" target="VEDL.NS">
+  <data key="d3">0.6170106117849614</data>
+  <data key="d4">0.875202134612386</data>
+</edge>
+<edge source="HAL.NS" target="HUDCO.NS">
+  <data key="d3">0.5121317026236034</data>
+  <data key="d4">0.9877938017383958</data>
+</edge>
+<edge source="HAL.NS" target="IRCON.NS">
+  <data key="d3">0.5622345091043288</data>
+  <data key="d4">0.9356981253541884</data>
+</edge>
+<edge source="HAL.NS" target="IRCTC.NS">
+  <data key="d3">0.5871276760177515</data>
+  <data key="d4">0.9087049289865754</data>
+</edge>
+<edge source="HAL.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5194062141855283</data>
+  <data key="d4">0.9804017399152979</data>
+</edge>
+<edge source="HAL.NS" target="MAZDOCK.NS">
+  <data key="d3">0.6006597292163638</data>
+  <data key="d4">0.8936892869265427</data>
+</edge>
+<edge source="HAL.NS" target="NCC.NS">
+  <data key="d3">0.5393185739037744</data>
+  <data key="d4">0.9598764775701357</data>
+</edge>
+<edge source="HAL.NS" target="PFC.NS">
+  <data key="d3">0.5933737659010547</data>
+  <data key="d4">0.9018051165290041</data>
+</edge>
+<edge source="HAL.NS" target="RECLTD.NS">
+  <data key="d3">0.601751214556226</data>
+  <data key="d4">0.8924671259422097</data>
+</edge>
+<edge source="HAL.NS" target="RVNL.NS">
+  <data key="d3">0.5048275398308469</data>
+  <data key="d4">0.9951607510037291</data>
+</edge>
+<edge source="HAL.NS" target="RAILTEL.NS">
+  <data key="d3">0.5315444051897812</data>
+  <data key="d4">0.9679417284219323</data>
+</edge>
+<edge source="HAL.NS" target="SIEMENS.NS">
+  <data key="d3">0.5421142865047</data>
+  <data key="d4">0.9569594698787405</data>
+</edge>
+<edge source="HAL.NS" target="TATAPOWER.NS">
+  <data key="d3">0.526838682376041</data>
+  <data key="d4">0.9727911570568053</data>
+</edge>
+<edge source="HAL.NS" target="TITAGARH.NS">
+  <data key="d3">0.505634448139215</data>
+  <data key="d4">0.9943495882845077</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="HUDCO.NS">
+  <data key="d3">0.5161612481243926</data>
+  <data key="d4">0.9837060047347556</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="JINDALSTEL.NS">
+  <data key="d3">0.521683246222154</data>
+  <data key="d4">0.9780764323690108</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="NMDC.NS">
+  <data key="d3">0.6290094750942015</data>
+  <data key="d4">0.8613832189052658</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="NSLNISP.NS">
+  <data key="d3">0.5104248763364492</data>
+  <data key="d4">0.9895202106713645</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="NATIONALUM.NS">
+  <data key="d3">0.6590627297256153</data>
+  <data key="d4">0.8257569500456956</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="SAIL.NS">
+  <data key="d3">0.5853012121444326</data>
+  <data key="d4">0.9107126746186938</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5234825800365307</data>
+  <data key="d4">0.9762350331385053</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="TATASTEEL.NS">
+  <data key="d3">0.5904739578787637</data>
+  <data key="d4">0.9050149635461685</data>
+</edge>
+<edge source="HINDCOPPER.NS" target="VEDL.NS">
+  <data key="d3">0.6168056954597713</data>
+  <data key="d4">0.8754362393004173</data>
+</edge>
+<edge source="HINDPETRO.NS" target="IOC.NS">
+  <data key="d3">0.8139238916610886</data>
+  <data key="d4">0.6100427990541507</data>
+</edge>
+<edge source="HINDPETRO.NS" target="PFC.NS">
+  <data key="d3">0.5310463085185826</data>
+  <data key="d4">0.968456185360409</data>
+</edge>
+<edge source="HINDPETRO.NS" target="RECLTD.NS">
+  <data key="d3">0.5369879575288301</data>
+  <data key="d4">0.9623014522187627</data>
+</edge>
+<edge source="HINDZINC.NS" target="VEDL.NS">
+  <data key="d3">0.6085725652196003</data>
+  <data key="d4">0.884790862046393</data>
+</edge>
+<edge source="HUDCO.NS" target="IRCON.NS">
+  <data key="d3">0.6114574561237051</data>
+  <data key="d4">0.8815242978798655</data>
+</edge>
+<edge source="HUDCO.NS" target="IOC.NS">
+  <data key="d3">0.5169989182294995</data>
+  <data key="d4">0.9828540906670741</data>
+</edge>
+<edge source="HUDCO.NS" target="IOB.NS">
+  <data key="d3">0.5198792291953566</data>
+  <data key="d4">0.9799191505472719</data>
+</edge>
+<edge source="HUDCO.NS" target="IRCTC.NS">
+  <data key="d3">0.5779741238918772</data>
+  <data key="d4">0.9187228919626667</data>
+</edge>
+<edge source="HUDCO.NS" target="IRFC.NS">
+  <data key="d3">0.5833223049584382</data>
+  <data key="d4">0.9128830100747432</data>
+</edge>
+<edge source="HUDCO.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5237841606612333</data>
+  <data key="d4">0.9759260620956556</data>
+</edge>
+<edge source="HUDCO.NS" target="LICI.NS">
+  <data key="d3">0.5025374871666024</data>
+  <data key="d4">0.9974592852175949</data>
+</edge>
+<edge source="HUDCO.NS" target="NBCC.NS">
+  <data key="d3">0.6498130920794513</data>
+  <data key="d4">0.8368833944111315</data>
+</edge>
+<edge source="HUDCO.NS" target="NCC.NS">
+  <data key="d3">0.5421826595080736</data>
+  <data key="d4">0.9568880190408138</data>
+</edge>
+<edge source="HUDCO.NS" target="NHPC.NS">
+  <data key="d3">0.5579920227384491</data>
+  <data key="d4">0.9402212263734009</data>
+</edge>
+<edge source="HUDCO.NS" target="PFC.NS">
+  <data key="d3">0.5627122579025872</data>
+  <data key="d4">0.9351874059218428</data>
+</edge>
+<edge source="HUDCO.NS" target="PNB.NS">
+  <data key="d3">0.5689014311401027</data>
+  <data key="d4">0.9285457111633194</data>
+</edge>
+<edge source="HUDCO.NS" target="RECLTD.NS">
+  <data key="d3">0.6065613509116172</data>
+  <data key="d4">0.8870610453496228</data>
+</edge>
+<edge source="HUDCO.NS" target="RITES.NS">
+  <data key="d3">0.5083545600475824</data>
+  <data key="d4">0.9916102459660424</data>
+</edge>
+<edge source="HUDCO.NS" target="RVNL.NS">
+  <data key="d3">0.584458969851436</data>
+  <data key="d4">0.9116370222282156</data>
+</edge>
+<edge source="HUDCO.NS" target="RAILTEL.NS">
+  <data key="d3">0.5384705650324473</data>
+  <data key="d4">0.9607595276317095</data>
+</edge>
+<edge source="HUDCO.NS" target="SJVN.NS">
+  <data key="d3">0.5924173630598439</data>
+  <data key="d4">0.9028650363594285</data>
+</edge>
+<edge source="HUDCO.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5423682903253646</data>
+  <data key="d4">0.9566940050764773</data>
+</edge>
+<edge source="HUDCO.NS" target="UCOBANK.NS">
+  <data key="d3">0.5049762144088936</data>
+  <data key="d4">0.995011342237973</data>
+</edge>
+<edge source="ICICILIFE.NS" target="MFSL.NS">
+  <data key="d3">0.5221949931540987</data>
+  <data key="d4">0.9775530746163109</data>
+</edge>
+<edge source="ICICILIFE.NS" target="SBILIFE.NS">
+  <data key="d3">0.5397804323720314</data>
+  <data key="d4">0.9593951924290308</data>
+</edge>
+<edge source="IDBI.NS" target="IOB.NS">
+  <data key="d3">0.628222290517953</data>
+  <data key="d4">0.8622965957048039</data>
+</edge>
+<edge source="IDBI.NS" target="PNB.NS">
+  <data key="d3">0.5204766165155926</data>
+  <data key="d4">0.9793093316050934</data>
+</edge>
+<edge source="IDBI.NS" target="UCOBANK.NS">
+  <data key="d3">0.6460049583734316</data>
+  <data key="d4">0.8414214658856385</data>
+</edge>
+<edge source="IDBI.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5021220272999405</data>
+  <data key="d4">0.9978757164096734</data>
+</edge>
+<edge source="IDFCFIRSTB.NS" target="PNB.NS">
+  <data key="d3">0.5131898309082428</data>
+  <data key="d4">0.9867220166711161</data>
+</edge>
+<edge source="IDFCFIRSTB.NS" target="RBLBANK.NS">
+  <data key="d3">0.5171356116793135</data>
+  <data key="d4">0.9827150027558208</data>
+</edge>
+<edge source="IFCI.NS" target="MMTC.NS">
+  <data key="d3">0.5141886246909255</data>
+  <data key="d4">0.985709262723116</data>
+</edge>
+<edge source="IFCI.NS" target="NBCC.NS">
+  <data key="d3">0.5053679914121935</data>
+  <data key="d4">0.9946175230587952</data>
+</edge>
+<edge source="IRB.NS" target="NBCC.NS">
+  <data key="d3">0.5096431493580187</data>
+  <data key="d4">0.990309901638857</data>
+</edge>
+<edge source="IRB.NS" target="NCC.NS">
+  <data key="d3">0.5408182004604313</data>
+  <data key="d4">0.9583128920551667</data>
+</edge>
+<edge source="IRB.NS" target="NHPC.NS">
+  <data key="d3">0.5030259723943793</data>
+  <data key="d4">0.9969694354448593</data>
+</edge>
+<edge source="IRB.NS" target="SJVN.NS">
+  <data key="d3">0.5629948098118446</data>
+  <data key="d4">0.9348852231029812</data>
+</edge>
+<edge source="IRB.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5104454382648514</data>
+  <data key="d4">0.989499430757945</data>
+</edge>
+<edge source="IRCON.NS" target="IOB.NS">
+  <data key="d3">0.5019710653035757</data>
+  <data key="d4">0.9980269883088576</data>
+</edge>
+<edge source="IRCON.NS" target="IRCTC.NS">
+  <data key="d3">0.6487375252355406</data>
+  <data key="d4">0.8381676142209974</data>
+</edge>
+<edge source="IRCON.NS" target="IRFC.NS">
+  <data key="d3">0.7561305330806283</data>
+  <data key="d4">0.6983830853040066</data>
+</edge>
+<edge source="IRCON.NS" target="JWL.NS">
+  <data key="d3">0.6527386541918686</data>
+  <data key="d4">0.8333802803140129</data>
+</edge>
+<edge source="IRCON.NS" target="NBCC.NS">
+  <data key="d3">0.5739537547524769</data>
+  <data key="d4">0.923088560483254</data>
+</edge>
+<edge source="IRCON.NS" target="NCC.NS">
+  <data key="d3">0.5479042899110598</data>
+  <data key="d4">0.9508898044347097</data>
+</edge>
+<edge source="IRCON.NS" target="NHPC.NS">
+  <data key="d3">0.5424952231776443</data>
+  <data key="d4">0.9565613172425024</data>
+</edge>
+<edge source="IRCON.NS" target="PFC.NS">
+  <data key="d3">0.5135340097204746</data>
+  <data key="d4">0.98637314468666</data>
+</edge>
+<edge source="IRCON.NS" target="RECLTD.NS">
+  <data key="d3">0.5665963091158748</data>
+  <data key="d4">0.9310249093167435</data>
+</edge>
+<edge source="IRCON.NS" target="RITES.NS">
+  <data key="d3">0.7093183947607372</data>
+  <data key="d4">0.7624717768406418</data>
+</edge>
+<edge source="IRCON.NS" target="RVNL.NS">
+  <data key="d3">0.8032995600984325</data>
+  <data key="d4">0.627216772577978</data>
+</edge>
+<edge source="IRCON.NS" target="RAILTEL.NS">
+  <data key="d3">0.7844720928806451</data>
+  <data key="d4">0.6565484096688604</data>
+</edge>
+<edge source="IRCON.NS" target="SJVN.NS">
+  <data key="d3">0.5895509808660885</data>
+  <data key="d4">0.9060342368077616</data>
+</edge>
+<edge source="IRCON.NS" target="TITAGARH.NS">
+  <data key="d3">0.6187078379361932</data>
+  <data key="d4">0.8732607423488208</data>
+</edge>
+<edge source="INDIANB.NS" target="IOB.NS">
+  <data key="d3">0.540591754214398</data>
+  <data key="d4">0.9585491597050222</data>
+</edge>
+<edge source="INDIANB.NS" target="J&amp;KBANK.NS">
+  <data key="d3">0.5026370939448035</data>
+  <data key="d4">0.9973594197230972</data>
+</edge>
+<edge source="INDIANB.NS" target="NBCC.NS">
+  <data key="d3">0.5125028298676148</data>
+  <data key="d4">0.9874180169840788</data>
+</edge>
+<edge source="INDIANB.NS" target="PNB.NS">
+  <data key="d3">0.5927048036925986</data>
+  <data key="d4">0.9025466152032275</data>
+</edge>
+<edge source="INDIANB.NS" target="SBIN.NS">
+  <data key="d3">0.5769729199845332</data>
+  <data key="d4">0.9198120242913406</data>
+</edge>
+<edge source="INDIANB.NS" target="UCOBANK.NS">
+  <data key="d3">0.5599039935842859</data>
+  <data key="d4">0.9381854895655913</data>
+</edge>
+<edge source="INDIANB.NS" target="UNIONBANK.NS">
+  <data key="d3">0.6376672939229368</data>
+  <data key="d4">0.8512728188742588</data>
+</edge>
+<edge source="INDHOTEL.NS" target="JIOFIN.NS">
+  <data key="d3">0.5197449897863443</data>
+  <data key="d4">0.9800561312635677</data>
+</edge>
+<edge source="IOC.NS" target="IOB.NS">
+  <data key="d3">0.5404397050409779</data>
+  <data key="d4">0.9587077708655772</data>
+</edge>
+<edge source="IOC.NS" target="IRCTC.NS">
+  <data key="d3">0.5200154034386407</data>
+  <data key="d4">0.9797801759184142</data>
+</edge>
+<edge source="IOC.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5013863464955003</data>
+  <data key="d4">0.9986126911916349</data>
+</edge>
+<edge source="IOC.NS" target="LICI.NS">
+  <data key="d3">0.5248371758392122</data>
+  <data key="d4">0.9748464742314944</data>
+</edge>
+<edge source="IOC.NS" target="NBCC.NS">
+  <data key="d3">0.526018623146622</data>
+  <data key="d4">0.9736337882935021</data>
+</edge>
+<edge source="IOC.NS" target="NCC.NS">
+  <data key="d3">0.5185065815592085</data>
+  <data key="d4">0.981318927200318</data>
+</edge>
+<edge source="IOC.NS" target="NHPC.NS">
+  <data key="d3">0.5343434588978192</data>
+  <data key="d4">0.9650456373687006</data>
+</edge>
+<edge source="IOC.NS" target="NMDC.NS">
+  <data key="d3">0.5433119901902327</data>
+  <data key="d4">0.9557070783558813</data>
+</edge>
+<edge source="IOC.NS" target="NTPC.NS">
+  <data key="d3">0.546998738814222</data>
+  <data key="d4">0.9518416477395576</data>
+</edge>
+<edge source="IOC.NS" target="PETRONET.NS">
+  <data key="d3">0.5406131473477837</data>
+  <data key="d4">0.9585268412018688</data>
+</edge>
+<edge source="IOC.NS" target="PFC.NS">
+  <data key="d3">0.5838445212538262</data>
+  <data key="d4">0.9123107790069936</data>
+</edge>
+<edge source="IOC.NS" target="PNB.NS">
+  <data key="d3">0.5654751269577498</data>
+  <data key="d4">0.93222837657116</data>
+</edge>
+<edge source="IOC.NS" target="RECLTD.NS">
+  <data key="d3">0.5893572515075604</data>
+  <data key="d4">0.9062480328171086</data>
+</edge>
+<edge source="IOC.NS" target="SJVN.NS">
+  <data key="d3">0.541825863276758</data>
+  <data key="d4">0.9572608178790585</data>
+</edge>
+<edge source="IOC.NS" target="SBIN.NS">
+  <data key="d3">0.5163478107611268</data>
+  <data key="d4">0.9835163336100455</data>
+</edge>
+<edge source="IOC.NS" target="SAIL.NS">
+  <data key="d3">0.5729843289796025</data>
+  <data key="d4">0.9241381617706278</data>
+</edge>
+<edge source="IOC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5386665496229113</data>
+  <data key="d4">0.9605555167475628</data>
+</edge>
+<edge source="IOC.NS" target="UCOBANK.NS">
+  <data key="d3">0.5258679869438245</data>
+  <data key="d4">0.9737884914663713</data>
+</edge>
+<edge source="IOB.NS" target="J&amp;KBANK.NS">
+  <data key="d3">0.5481536298807375</data>
+  <data key="d4">0.950627550746624</data>
+</edge>
+<edge source="IOB.NS" target="NBCC.NS">
+  <data key="d3">0.52852279471932</data>
+  <data key="d4">0.9710583970912151</data>
+</edge>
+<edge source="IOB.NS" target="NCC.NS">
+  <data key="d3">0.5057080866795042</data>
+  <data key="d4">0.9942755285337116</data>
+</edge>
+<edge source="IOB.NS" target="NHPC.NS">
+  <data key="d3">0.5394635755342662</data>
+  <data key="d4">0.9597254028791088</data>
+</edge>
+<edge source="IOB.NS" target="PFC.NS">
+  <data key="d3">0.5241209519452423</data>
+  <data key="d4">0.975580901878217</data>
+</edge>
+<edge source="IOB.NS" target="PNB.NS">
+  <data key="d3">0.6174675160428389</data>
+  <data key="d4">0.8746799231229229</data>
+</edge>
+<edge source="IOB.NS" target="RECLTD.NS">
+  <data key="d3">0.5411042568020406</data>
+  <data key="d4">0.9580143456107111</data>
+</edge>
+<edge source="IOB.NS" target="SJVN.NS">
+  <data key="d3">0.5610945507852112</data>
+  <data key="d4">0.936915630368913</data>
+</edge>
+<edge source="IOB.NS" target="SBIN.NS">
+  <data key="d3">0.5400066245453288</data>
+  <data key="d4">0.9591593980717399</data>
+</edge>
+<edge source="IOB.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5353305609839514</data>
+  <data key="d4">0.9640222393866738</data>
+</edge>
+<edge source="IOB.NS" target="UCOBANK.NS">
+  <data key="d3">0.8791767364404165</data>
+  <data key="d4">0.4915755558601007</data>
+</edge>
+<edge source="IOB.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5795250252895138</data>
+  <data key="d4">0.9170332324517866</data>
+</edge>
+<edge source="IOB.NS" target="YESBANK.NS">
+  <data key="d3">0.542628311667436</data>
+  <data key="d4">0.9564221749129033</data>
+</edge>
+<edge source="IRCTC.NS" target="IRFC.NS">
+  <data key="d3">0.5885946923046308</data>
+  <data key="d4">0.9070890890043483</data>
+</edge>
+<edge source="IRCTC.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.5300500342213784</data>
+  <data key="d4">0.9694843637507741</data>
+</edge>
+<edge source="IRCTC.NS" target="NBCC.NS">
+  <data key="d3">0.5553896427142291</data>
+  <data key="d4">0.9429850023046717</data>
+</edge>
+<edge source="IRCTC.NS" target="NCC.NS">
+  <data key="d3">0.540080215803979</data>
+  <data key="d4">0.9590826702594735</data>
+</edge>
+<edge source="IRCTC.NS" target="NHPC.NS">
+  <data key="d3">0.5232272874627025</data>
+  <data key="d4">0.9764965054082861</data>
+</edge>
+<edge source="IRCTC.NS" target="NMDC.NS">
+  <data key="d3">0.5127349070927887</data>
+  <data key="d4">0.9871829545805695</data>
+</edge>
+<edge source="IRCTC.NS" target="PFC.NS">
+  <data key="d3">0.581995096725865</data>
+  <data key="d4">0.9143357187315116</data>
+</edge>
+<edge source="IRCTC.NS" target="PNB.NS">
+  <data key="d3">0.5235577172231327</data>
+  <data key="d4">0.9761580638163753</data>
+</edge>
+<edge source="IRCTC.NS" target="RECLTD.NS">
+  <data key="d3">0.6024671878127787</data>
+  <data key="d4">0.8916645245687654</data>
+</edge>
+<edge source="IRCTC.NS" target="RITES.NS">
+  <data key="d3">0.5580927860529723</data>
+  <data key="d4">0.9401140504715667</data>
+</edge>
+<edge source="IRCTC.NS" target="RVNL.NS">
+  <data key="d3">0.6023574724466798</data>
+  <data key="d4">0.8917875616460684</data>
+</edge>
+<edge source="IRCTC.NS" target="RAILTEL.NS">
+  <data key="d3">0.6105163144612993</data>
+  <data key="d4">0.8825912820084966</data>
+</edge>
+<edge source="IRCTC.NS" target="SJVN.NS">
+  <data key="d3">0.5511366917784386</data>
+  <data key="d4">0.9474843621100681</data>
+</edge>
+<edge source="IRCTC.NS" target="SAIL.NS">
+  <data key="d3">0.523736493802806</data>
+  <data key="d4">0.9759749035679084</data>
+</edge>
+<edge source="IRCTC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5894935494142264</data>
+  <data key="d4">0.9060976223186701</data>
+</edge>
+<edge source="IRCTC.NS" target="TITAGARH.NS">
+  <data key="d3">0.5188968282617036</data>
+  <data key="d4">0.9809211708779625</data>
+</edge>
+<edge source="IRFC.NS" target="JWL.NS">
+  <data key="d3">0.570641159654117</data>
+  <data key="d4">0.9266702113976504</data>
+</edge>
+<edge source="IRFC.NS" target="NBCC.NS">
+  <data key="d3">0.5094485793086106</data>
+  <data key="d4">0.9905063560536997</data>
+</edge>
+<edge source="IRFC.NS" target="NCC.NS">
+  <data key="d3">0.5084149338564177</data>
+  <data key="d4">0.9915493594809915</data>
+</edge>
+<edge source="IRFC.NS" target="NHPC.NS">
+  <data key="d3">0.5645834960314003</data>
+  <data key="d4">0.9331843375974541</data>
+</edge>
+<edge source="IRFC.NS" target="RECLTD.NS">
+  <data key="d3">0.5326757762397517</data>
+  <data key="d4">0.9667721797406547</data>
+</edge>
+<edge source="IRFC.NS" target="RITES.NS">
+  <data key="d3">0.5940147931017833</data>
+  <data key="d4">0.9010940094110234</data>
+</edge>
+<edge source="IRFC.NS" target="RVNL.NS">
+  <data key="d3">0.7679889908857903</data>
+  <data key="d4">0.6811916163814844</data>
+</edge>
+<edge source="IRFC.NS" target="RAILTEL.NS">
+  <data key="d3">0.683969683141543</data>
+  <data key="d4">0.7950224108268357</data>
+</edge>
+<edge source="IRFC.NS" target="SJVN.NS">
+  <data key="d3">0.5645629677941694</data>
+  <data key="d4">0.9332063353898007</data>
+</edge>
+<edge source="IRFC.NS" target="TITAGARH.NS">
+  <data key="d3">0.5515241309002855</data>
+  <data key="d4">0.947075360359158</data>
+</edge>
+<edge source="IGL.NS" target="MGL.NS">
+  <data key="d3">0.6518814545812568</data>
+  <data key="d4">0.834408227930122</data>
+</edge>
+<edge source="INDUSTOWER.NS" target="IDEA.NS">
+  <data key="d3">0.615584669299348</data>
+  <data key="d4">0.876829893081494</data>
+</edge>
+<edge source="INFY.NS" target="LTM.NS">
+  <data key="d3">0.674371718517587</data>
+  <data key="d4">0.8070046858382087</data>
+</edge>
+<edge source="INFY.NS" target="MPHASIS.NS">
+  <data key="d3">0.6402221354992313</data>
+  <data key="d4">0.8482663078311771</data>
+</edge>
+<edge source="INFY.NS" target="PERSISTENT.NS">
+  <data key="d3">0.5323758905920731</data>
+  <data key="d4">0.9670823226674417</data>
+</edge>
+<edge source="INFY.NS" target="TCS.NS">
+  <data key="d3">0.7467326725035991</data>
+  <data key="d4">0.7117124805655735</data>
+</edge>
+<edge source="INFY.NS" target="TECHM.NS">
+  <data key="d3">0.7106250235854371</data>
+  <data key="d4">0.7607561717325242</data>
+</edge>
+<edge source="INFY.NS" target="WIPRO.NS">
+  <data key="d3">0.6169968672211257</data>
+  <data key="d4">0.8752178389165458</data>
+</edge>
+<edge source="INOXWIND.NS" target="SUZLON.NS">
+  <data key="d3">0.5174945659687785</data>
+  <data key="d4">0.9823496669019861</data>
+</edge>
+<edge source="JBMA.NS" target="OLECTRA.NS">
+  <data key="d3">0.6713933667818838</data>
+  <data key="d4">0.8106869102410822</data>
+</edge>
+<edge source="JSWENERGY.NS" target="PFC.NS">
+  <data key="d3">0.5227427380996746</data>
+  <data key="d4">0.9769925914768498</data>
+</edge>
+<edge source="JSWENERGY.NS" target="RECLTD.NS">
+  <data key="d3">0.5174605515454548</data>
+  <data key="d4">0.9823842918680502</data>
+</edge>
+<edge source="JSWENERGY.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5791120809233989</data>
+  <data key="d4">0.9174834266367988</data>
+</edge>
+<edge source="JSWSTEEL.NS" target="JINDALSTEL.NS">
+  <data key="d3">0.6703870020314249</data>
+  <data key="d4">0.8119273341482908</data>
+</edge>
+<edge source="JSWSTEEL.NS" target="NMDC.NS">
+  <data key="d3">0.5597712644840628</data>
+  <data key="d4">0.9383269531628485</data>
+</edge>
+<edge source="JSWSTEEL.NS" target="SAIL.NS">
+  <data key="d3">0.5978620327210902</data>
+  <data key="d4">0.8968143255757123</data>
+</edge>
+<edge source="JSWSTEEL.NS" target="TATASTEEL.NS">
+  <data key="d3">0.744154863974996</data>
+  <data key="d4">0.7153252910739337</data>
+</edge>
+<edge source="JSWSTEEL.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.5175691995225803</data>
+  <data key="d4">0.9822736894342836</data>
+</edge>
+<edge source="JSWSTEEL.NS" target="VEDL.NS">
+  <data key="d3">0.5031919344156832</data>
+  <data key="d4">0.9968029550360661</data>
+</edge>
+<edge source="J&amp;KBANK.NS" target="PNB.NS">
+  <data key="d3">0.5698468912809413</data>
+  <data key="d4">0.9275269362331842</data>
+</edge>
+<edge source="J&amp;KBANK.NS" target="UCOBANK.NS">
+  <data key="d3">0.5608039339551312</data>
+  <data key="d4">0.9372257636715594</data>
+</edge>
+<edge source="J&amp;KBANK.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5631505287863408</data>
+  <data key="d4">0.9347186434576549</data>
+</edge>
+<edge source="JINDALSTEL.NS" target="NMDC.NS">
+  <data key="d3">0.6150664413038577</data>
+  <data key="d4">0.8774207185793396</data>
+</edge>
+<edge source="JINDALSTEL.NS" target="NSLNISP.NS">
+  <data key="d3">0.5002274633895306</data>
+  <data key="d4">0.9997725107347865</data>
+</edge>
+<edge source="JINDALSTEL.NS" target="NATIONALUM.NS">
+  <data key="d3">0.5694961820852138</data>
+  <data key="d4">0.9279049713357357</data>
+</edge>
+<edge source="JINDALSTEL.NS" target="SAIL.NS">
+  <data key="d3">0.6644581643871402</data>
+  <data key="d4">0.8191969672952406</data>
+</edge>
+<edge source="JINDALSTEL.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5259949026917836</data>
+  <data key="d4">0.9736581507985401</data>
+</edge>
+<edge source="JINDALSTEL.NS" target="TATASTEEL.NS">
+  <data key="d3">0.7390088383109176</data>
+  <data key="d4">0.7224834415944527</data>
+</edge>
+<edge source="JINDALSTEL.NS" target="VEDL.NS">
+  <data key="d3">0.577510476745721</data>
+  <data key="d4">0.9192274182750197</data>
+</edge>
+<edge source="JWL.NS" target="RITES.NS">
+  <data key="d3">0.5302036707415518</data>
+  <data key="d4">0.9693258783901811</data>
+</edge>
+<edge source="JWL.NS" target="RVNL.NS">
+  <data key="d3">0.5561590746175302</data>
+  <data key="d4">0.9421686954919164</data>
+</edge>
+<edge source="JWL.NS" target="RAILTEL.NS">
+  <data key="d3">0.5822944790594496</data>
+  <data key="d4">0.9140082285631245</data>
+</edge>
+<edge source="JWL.NS" target="TITAGARH.NS">
+  <data key="d3">0.622075273731776</data>
+  <data key="d4">0.869396027444598</data>
+</edge>
+<edge source="KEI.NS" target="POLYCAB.NS">
+  <data key="d3">0.5794603994475249</data>
+  <data key="d4">0.9171037024813226</data>
+</edge>
+<edge source="LTF.NS" target="LICHSGFIN.NS">
+  <data key="d3">0.517752024665832</data>
+  <data key="d4">0.9820875473542753</data>
+</edge>
+<edge source="LTF.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.6282910307840006</data>
+  <data key="d4">0.862216874360505</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="LICI.NS">
+  <data key="d3">0.5136257530542112</data>
+  <data key="d4">0.9862801295228337</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="NCC.NS">
+  <data key="d3">0.5130875067586416</data>
+  <data key="d4">0.9868257123133329</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="NMDC.NS">
+  <data key="d3">0.5073789061733383</data>
+  <data key="d4">0.9925936669419786</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="PFC.NS">
+  <data key="d3">0.5983025723001649</data>
+  <data key="d4">0.8963229637801712</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="PNB.NS">
+  <data key="d3">0.5841840071545424</data>
+  <data key="d4">0.9119385865785673</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="RBLBANK.NS">
+  <data key="d3">0.5116915435118989</data>
+  <data key="d4">0.9882392994493804</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="RECLTD.NS">
+  <data key="d3">0.6005457226385567</data>
+  <data key="d4">0.8938168462962011</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5173734685047631</data>
+  <data key="d4">0.9824729324467285</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="SBIN.NS">
+  <data key="d3">0.5179423443813411</data>
+  <data key="d4">0.9818937372431488</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="SAIL.NS">
+  <data key="d3">0.5275033578462757</data>
+  <data key="d4">0.9721076505755155</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="TATAPOWER.NS">
+  <data key="d3">0.512634907846911</data>
+  <data key="d4">0.9872842469654715</data>
+</edge>
+<edge source="LICHSGFIN.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5442260266987089</data>
+  <data key="d4">0.9547502011534652</data>
+</edge>
+<edge source="LTM.NS" target="MPHASIS.NS">
+  <data key="d3">0.6435675614724443</data>
+  <data key="d4">0.8443132576568435</data>
+</edge>
+<edge source="LTM.NS" target="PERSISTENT.NS">
+  <data key="d3">0.5827489063430182</data>
+  <data key="d4">0.9135109125314068</data>
+</edge>
+<edge source="LTM.NS" target="TCS.NS">
+  <data key="d3">0.6405812401898857</data>
+  <data key="d4">0.8478428625755061</data>
+</edge>
+<edge source="LTM.NS" target="TECHM.NS">
+  <data key="d3">0.6427795894282323</data>
+  <data key="d4">0.8452460122020898</data>
+</edge>
+<edge source="LTM.NS" target="WIPRO.NS">
+  <data key="d3">0.5524054549745263</data>
+  <data key="d4">0.9461443283405272</data>
+</edge>
+<edge source="LT.NS" target="PFC.NS">
+  <data key="d3">0.5145447871234333</data>
+  <data key="d4">0.9853478704260407</data>
+</edge>
+<edge source="LT.NS" target="RECLTD.NS">
+  <data key="d3">0.5385027732953017</data>
+  <data key="d4">0.9607260032961513</data>
+</edge>
+<edge source="LT.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.5024214195608235</data>
+  <data key="d4">0.9975756416825508</data>
+</edge>
+<edge source="LT.NS" target="SBIN.NS">
+  <data key="d3">0.5138741150761825</data>
+  <data key="d4">0.9860282804502287</data>
+</edge>
+<edge source="LT.NS" target="TATASTEEL.NS">
+  <data key="d3">0.5072038556543538</data>
+  <data key="d4">0.9927700079531474</data>
+</edge>
+<edge source="LICI.NS" target="PFC.NS">
+  <data key="d3">0.5045883494734884</data>
+  <data key="d4">0.9954010754731096</data>
+</edge>
+<edge source="LICI.NS" target="RECLTD.NS">
+  <data key="d3">0.5266558253875964</data>
+  <data key="d4">0.972979110374322</data>
+</edge>
+<edge source="LICI.NS" target="SJVN.NS">
+  <data key="d3">0.5009836691153307</data>
+  <data key="d4">0.9990158466057176</data>
+</edge>
+<edge source="LICI.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5187983958145869</data>
+  <data key="d4">0.9810215126952244</data>
+</edge>
+<edge source="LICI.NS" target="NIACL.NS">
+  <data key="d3">0.5129218255156979</data>
+  <data key="d4">0.9869935911486986</data>
+</edge>
+<edge source="LICI.NS" target="UCOBANK.NS">
+  <data key="d3">0.5048400020953288</data>
+  <data key="d4">0.9951482280591885</data>
+</edge>
+<edge source="LICI.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5035074216704812</data>
+  <data key="d4">0.9964864056569149</data>
+</edge>
+<edge source="LODHA.NS" target="OBEROIRLTY.NS">
+  <data key="d3">0.5594276000921177</data>
+  <data key="d4">0.9386931339984141</data>
+</edge>
+<edge source="LUPIN.NS" target="SUNPHARMA.NS">
+  <data key="d3">0.5026456499446637</data>
+  <data key="d4">0.9973508410337221</data>
+</edge>
+<edge source="M&amp;MFIN.NS" target="SHRIRAMFIN.NS">
+  <data key="d3">0.546857638891497</data>
+  <data key="d4">0.9519898750601322</data>
+</edge>
+<edge source="M&amp;M.NS" target="MARUTI.NS">
+  <data key="d3">0.5022860226477671</data>
+  <data key="d4">0.9977113584120739</data>
+</edge>
+<edge source="M&amp;M.NS" target="TVSMOTOR.NS">
+  <data key="d3">0.5664586275505421</data>
+  <data key="d4">0.9311727792944313</data>
+</edge>
+<edge source="MANAPPURAM.NS" target="MUTHOOTFIN.NS">
+  <data key="d3">0.5406126889385114</data>
+  <data key="d4">0.9585273194452921</data>
+</edge>
+<edge source="MARUTI.NS" target="TVSMOTOR.NS">
+  <data key="d3">0.5309950215550435</data>
+  <data key="d4">0.9685091413558846</data>
+</edge>
+<edge source="MFSL.NS" target="SBILIFE.NS">
+  <data key="d3">0.5088577409009796</data>
+  <data key="d4">0.9911026779290029</data>
+</edge>
+<edge source="MPHASIS.NS" target="PERSISTENT.NS">
+  <data key="d3">0.647211563429368</data>
+  <data key="d4">0.8399862338998562</data>
+</edge>
+<edge source="MPHASIS.NS" target="TCS.NS">
+  <data key="d3">0.593524880628178</data>
+  <data key="d4">0.9016375317962557</data>
+</edge>
+<edge source="MPHASIS.NS" target="TECHM.NS">
+  <data key="d3">0.6432034929185981</data>
+  <data key="d4">0.8447443484053644</data>
+</edge>
+<edge source="MPHASIS.NS" target="WIPRO.NS">
+  <data key="d3">0.5492342475404071</data>
+  <data key="d4">0.9494901289214048</data>
+</edge>
+<edge source="NBCC.NS" target="NCC.NS">
+  <data key="d3">0.5481313294822018</data>
+  <data key="d4">0.9506510090646285</data>
+</edge>
+<edge source="NBCC.NS" target="NHPC.NS">
+  <data key="d3">0.5554131767839494</data>
+  <data key="d4">0.9429600449818122</data>
+</edge>
+<edge source="NBCC.NS" target="NSLNISP.NS">
+  <data key="d3">0.515504660281856</data>
+  <data key="d4">0.9843732419343223</data>
+</edge>
+<edge source="NBCC.NS" target="PNB.NS">
+  <data key="d3">0.5200902489554403</data>
+  <data key="d4">0.9797037828288301</data>
+</edge>
+<edge source="NBCC.NS" target="RECLTD.NS">
+  <data key="d3">0.5084570703253944</data>
+  <data key="d4">0.99150686298644</data>
+</edge>
+<edge source="NBCC.NS" target="RITES.NS">
+  <data key="d3">0.5498465940805497</data>
+  <data key="d4">0.9488449883088916</data>
+</edge>
+<edge source="NBCC.NS" target="RVNL.NS">
+  <data key="d3">0.5263482701863239</data>
+  <data key="d4">0.9732951554525237</data>
+</edge>
+<edge source="NBCC.NS" target="RAILTEL.NS">
+  <data key="d3">0.5459636749772872</data>
+  <data key="d4">0.9529284600878629</data>
+</edge>
+<edge source="NBCC.NS" target="SJVN.NS">
+  <data key="d3">0.6012453199564711</data>
+  <data key="d4">0.8930337956018561</data>
+</edge>
+<edge source="NBCC.NS" target="SCI.NS">
+  <data key="d3">0.5448797636742406</data>
+  <data key="d4">0.9540652350083398</data>
+</edge>
+<edge source="NBCC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5198802403376444</data>
+  <data key="d4">0.9799181186837558</data>
+</edge>
+<edge source="NBCC.NS" target="UCOBANK.NS">
+  <data key="d3">0.5264249893664739</data>
+  <data key="d4">0.9732163280931184</data>
+</edge>
+<edge source="NCC.NS" target="PFC.NS">
+  <data key="d3">0.5315399189464947</data>
+  <data key="d4">0.9679463632386924</data>
+</edge>
+<edge source="NCC.NS" target="PNB.NS">
+  <data key="d3">0.5253121621414129</data>
+  <data key="d4">0.9743591102448698</data>
+</edge>
+<edge source="NCC.NS" target="RECLTD.NS">
+  <data key="d3">0.5464299669513993</data>
+  <data key="d4">0.9524390091219497</data>
+</edge>
+<edge source="NCC.NS" target="RAILTEL.NS">
+  <data key="d3">0.5202550476991453</data>
+  <data key="d4">0.9795355555576885</data>
+</edge>
+<edge source="NCC.NS" target="SJVN.NS">
+  <data key="d3">0.559846661882287</data>
+  <data key="d4">0.9382465967086829</data>
+</edge>
+<edge source="NCC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5337892571380094</data>
+  <data key="d4">0.9656197417845087</data>
+</edge>
+<edge source="NCC.NS" target="UCOBANK.NS">
+  <data key="d3">0.5070767994902339</data>
+  <data key="d4">0.9928979811740641</data>
+</edge>
+<edge source="NHPC.NS" target="NLCINDIA.NS">
+  <data key="d3">0.5060361706458716</data>
+  <data key="d4">0.9939455008742969</data>
+</edge>
+<edge source="NHPC.NS" target="NMDC.NS">
+  <data key="d3">0.5094622863226528</data>
+  <data key="d4">0.990492517566233</data>
+</edge>
+<edge source="NHPC.NS" target="NSLNISP.NS">
+  <data key="d3">0.5105881548384119</data>
+  <data key="d4">0.9893551891627073</data>
+</edge>
+<edge source="NHPC.NS" target="NTPC.NS">
+  <data key="d3">0.5295376934417726</data>
+  <data key="d4">0.9700126870904601</data>
+</edge>
+<edge source="NHPC.NS" target="PFC.NS">
+  <data key="d3">0.545648545921012</data>
+  <data key="d4">0.953259098124941</data>
+</edge>
+<edge source="NHPC.NS" target="PNB.NS">
+  <data key="d3">0.5253787771949932</data>
+  <data key="d4">0.9742907397743312</data>
+</edge>
+<edge source="NHPC.NS" target="RECLTD.NS">
+  <data key="d3">0.590732816000096</data>
+  <data key="d4">0.9047288919890909</data>
+</edge>
+<edge source="NHPC.NS" target="RITES.NS">
+  <data key="d3">0.5085006567516142</data>
+  <data key="d4">0.9914629022292119</data>
+</edge>
+<edge source="NHPC.NS" target="RVNL.NS">
+  <data key="d3">0.5321039891856982</data>
+  <data key="d4">0.9673634382322931</data>
+</edge>
+<edge source="NHPC.NS" target="RAILTEL.NS">
+  <data key="d3">0.5067299466782479</data>
+  <data key="d4">0.9932472535293033</data>
+</edge>
+<edge source="NHPC.NS" target="SJVN.NS">
+  <data key="d3">0.7059025853464147</data>
+  <data key="d4">0.7669386085647081</data>
+</edge>
+<edge source="NHPC.NS" target="SAIL.NS">
+  <data key="d3">0.5051851985428978</data>
+  <data key="d4">0.9948012881546768</data>
+</edge>
+<edge source="NHPC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.6153241767344668</data>
+  <data key="d4">0.8771269272637036</data>
+</edge>
+<edge source="NHPC.NS" target="UCOBANK.NS">
+  <data key="d3">0.5201492596042895</data>
+  <data key="d4">0.9796435478230953</data>
+</edge>
+<edge source="NLCINDIA.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5236573710167534</data>
+  <data key="d4">0.9760559707140227</data>
+</edge>
+<edge source="NMDC.NS" target="NSLNISP.NS">
+  <data key="d3">0.6094554340701379</data>
+  <data key="d4">0.8837924710358899</data>
+</edge>
+<edge source="NMDC.NS" target="NTPC.NS">
+  <data key="d3">0.5414986057455213</data>
+  <data key="d4">0.9576026255754301</data>
+</edge>
+<edge source="NMDC.NS" target="NATIONALUM.NS">
+  <data key="d3">0.6508182619274897</data>
+  <data key="d4">0.8356814441789531</data>
+</edge>
+<edge source="NMDC.NS" target="PFC.NS">
+  <data key="d3">0.5292231976057173</data>
+  <data key="d4">0.9703368511957924</data>
+</edge>
+<edge source="NMDC.NS" target="PNB.NS">
+  <data key="d3">0.5243655146298992</data>
+  <data key="d4">0.9753301854962767</data>
+</edge>
+<edge source="NMDC.NS" target="RECLTD.NS">
+  <data key="d3">0.5431469644599476</data>
+  <data key="d4">0.9558797367242936</data>
+</edge>
+<edge source="NMDC.NS" target="SJVN.NS">
+  <data key="d3">0.5010149660061404</data>
+  <data key="d4">0.998984518392412</data>
+</edge>
+<edge source="NMDC.NS" target="SAIL.NS">
+  <data key="d3">0.7080021180145573</data>
+  <data key="d4">0.764196155427967</data>
+</edge>
+<edge source="NMDC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5594411249605334</data>
+  <data key="d4">0.9386787256984858</data>
+</edge>
+<edge source="NMDC.NS" target="TATASTEEL.NS">
+  <data key="d3">0.6924037272558945</data>
+  <data key="d4">0.784342109980212</data>
+</edge>
+<edge source="NMDC.NS" target="VEDL.NS">
+  <data key="d3">0.6191814032997424</data>
+  <data key="d4">0.8727182783696669</data>
+</edge>
+<edge source="NSLNISP.NS" target="NATIONALUM.NS">
+  <data key="d3">0.5091510920613773</data>
+  <data key="d4">0.9908066490881283</data>
+</edge>
+<edge source="NSLNISP.NS" target="SJVN.NS">
+  <data key="d3">0.5215571568367804</data>
+  <data key="d4">0.9782053395511799</data>
+</edge>
+<edge source="NSLNISP.NS" target="SAIL.NS">
+  <data key="d3">0.5659927699206102</data>
+  <data key="d4">0.9316729362597046</data>
+</edge>
+<edge source="NSLNISP.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5028321462169039</data>
+  <data key="d4">0.997163831858232</data>
+</edge>
+<edge source="NSLNISP.NS" target="TATASTEEL.NS">
+  <data key="d3">0.5327844098047957</data>
+  <data key="d4">0.9666598059247155</data>
+</edge>
+<edge source="NTPC.NS" target="ONGC.NS">
+  <data key="d3">0.5448113389012016</data>
+  <data key="d4">0.9541369514894582</data>
+</edge>
+<edge source="NTPC.NS" target="PFC.NS">
+  <data key="d3">0.6206235485976742</data>
+  <data key="d4">0.8710642357511021</data>
+</edge>
+<edge source="NTPC.NS" target="POWERGRID.NS">
+  <data key="d3">0.6592540928705455</data>
+  <data key="d4">0.8255251748183753</data>
+</edge>
+<edge source="NTPC.NS" target="RECLTD.NS">
+  <data key="d3">0.628976118541716</data>
+  <data key="d4">0.8614219424396897</data>
+</edge>
+<edge source="NTPC.NS" target="SJVN.NS">
+  <data key="d3">0.5078618456482893</data>
+  <data key="d4">0.9921070046640238</data>
+</edge>
+<edge source="NTPC.NS" target="SAIL.NS">
+  <data key="d3">0.5017827378632989</data>
+  <data key="d4">0.9982156702203199</data>
+</edge>
+<edge source="NTPC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.6256818520274416</data>
+  <data key="d4">0.8652377106582426</data>
+</edge>
+<edge source="NTPC.NS" target="TATASTEEL.NS">
+  <data key="d3">0.5213482956040606</data>
+  <data key="d4">0.9784188309675355</data>
+</edge>
+<edge source="NATIONALUM.NS" target="SAIL.NS">
+  <data key="d3">0.6631246766543755</data>
+  <data key="d4">0.8208231518976844</data>
+</edge>
+<edge source="NATIONALUM.NS" target="TATAPOWER.NS">
+  <data key="d3">0.521121987628837</data>
+  <data key="d4">0.9786501033271933</data>
+</edge>
+<edge source="NATIONALUM.NS" target="TATASTEEL.NS">
+  <data key="d3">0.6319287310215629</data>
+  <data key="d4">0.8579874928907031</data>
+</edge>
+<edge source="NATIONALUM.NS" target="VEDL.NS">
+  <data key="d3">0.6370664150436467</data>
+  <data key="d4">0.851978385824844</data>
+</edge>
+<edge source="OBEROIRLTY.NS" target="PRESTIGE.NS">
+  <data key="d3">0.5765331734637393</data>
+  <data key="d4">0.9202899831425535</data>
+</edge>
+<edge source="ONGC.NS" target="OIL.NS">
+  <data key="d3">0.6536052846482916</data>
+  <data key="d4">0.8323397327434374</data>
+</edge>
+<edge source="PERSISTENT.NS" target="TECHM.NS">
+  <data key="d3">0.5668309487672768</data>
+  <data key="d4">0.9307728522391735</data>
+</edge>
+<edge source="PETRONET.NS" target="RECLTD.NS">
+  <data key="d3">0.5135368853663456</data>
+  <data key="d4">0.9863702293091113</data>
+</edge>
+<edge source="PFC.NS" target="POWERGRID.NS">
+  <data key="d3">0.5496481213221839</data>
+  <data key="d4">0.9490541382637938</data>
+</edge>
+<edge source="PFC.NS" target="PNB.NS">
+  <data key="d3">0.6210748023458957</data>
+  <data key="d4">0.8705460328484695</data>
+</edge>
+<edge source="PFC.NS" target="RECLTD.NS">
+  <data key="d3">0.9072175995184195</data>
+  <data key="d4">0.43077233077712984</data>
+</edge>
+<edge source="PFC.NS" target="SJVN.NS">
+  <data key="d3">0.5389513151381888</data>
+  <data key="d4">0.9602590117898516</data>
+</edge>
+<edge source="PFC.NS" target="SIEMENS.NS">
+  <data key="d3">0.5075053105084667</data>
+  <data key="d4">0.9924663112585065</data>
+</edge>
+<edge source="PFC.NS" target="SBIN.NS">
+  <data key="d3">0.5633265289614044</data>
+  <data key="d4">0.9345303323473193</data>
+</edge>
+<edge source="PFC.NS" target="SAIL.NS">
+  <data key="d3">0.5295190294146215</data>
+  <data key="d4">0.9700319279130749</data>
+</edge>
+<edge source="PFC.NS" target="TATAPOWER.NS">
+  <data key="d3">0.6045022999315847</data>
+  <data key="d4">0.8893792217815922</data>
+</edge>
+<edge source="PFC.NS" target="UCOBANK.NS">
+  <data key="d3">0.5148080714842157</data>
+  <data key="d4">0.9850806347865989</data>
+</edge>
+<edge source="PFC.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5399193497322823</data>
+  <data key="d4">0.959250384693921</data>
+</edge>
+<edge source="POWERGRID.NS" target="RECLTD.NS">
+  <data key="d3">0.5378552655429596</data>
+  <data key="d4">0.9613997445985103</data>
+</edge>
+<edge source="POWERGRID.NS" target="TATAPOWER.NS">
+  <data key="d3">0.554964744629384</data>
+  <data key="d4">0.9434354830836245</data>
+</edge>
+<edge source="PNB.NS" target="RBLBANK.NS">
+  <data key="d3">0.5142973486021154</data>
+  <data key="d4">0.9855989563690544</data>
+</edge>
+<edge source="PNB.NS" target="RECLTD.NS">
+  <data key="d3">0.6355401774297484</data>
+  <data key="d4">0.8537679105825559</data>
+</edge>
+<edge source="PNB.NS" target="SBIN.NS">
+  <data key="d3">0.6880878066036711</data>
+  <data key="d4">0.7898255419981414</data>
+</edge>
+<edge source="PNB.NS" target="SAIL.NS">
+  <data key="d3">0.5298267469868426</data>
+  <data key="d4">0.9697146518570887</data>
+</edge>
+<edge source="PNB.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5512050844913053</data>
+  <data key="d4">0.9474121758861818</data>
+</edge>
+<edge source="PNB.NS" target="UCOBANK.NS">
+  <data key="d3">0.6237757738741528</data>
+  <data key="d4">0.8674378665078522</data>
+</edge>
+<edge source="PNB.NS" target="UNIONBANK.NS">
+  <data key="d3">0.7215274142610186</data>
+  <data key="d4">0.7462875930081933</data>
+</edge>
+<edge source="RECLTD.NS" target="RITES.NS">
+  <data key="d3">0.5028976971402587</data>
+  <data key="d4">0.9970980923256662</data>
+</edge>
+<edge source="RECLTD.NS" target="RVNL.NS">
+  <data key="d3">0.5360155918042714</data>
+  <data key="d4">0.9633113808065683</data>
+</edge>
+<edge source="RECLTD.NS" target="RAILTEL.NS">
+  <data key="d3">0.509490649622757</data>
+  <data key="d4">0.9904638816001752</data>
+</edge>
+<edge source="RECLTD.NS" target="SJVN.NS">
+  <data key="d3">0.5515344536866339</data>
+  <data key="d4">0.9470644606502412</data>
+</edge>
+<edge source="RECLTD.NS" target="SIEMENS.NS">
+  <data key="d3">0.5264512074202189</data>
+  <data key="d4">0.9731893881252314</data>
+</edge>
+<edge source="RECLTD.NS" target="SBIN.NS">
+  <data key="d3">0.5798279868666161</data>
+  <data key="d4">0.9167028014939017</data>
+</edge>
+<edge source="RECLTD.NS" target="SAIL.NS">
+  <data key="d3">0.5337336250324204</data>
+  <data key="d4">0.9656773529161586</data>
+</edge>
+<edge source="RECLTD.NS" target="TATAPOWER.NS">
+  <data key="d3">0.5936093252253916</data>
+  <data key="d4">0.9015438700081194</data>
+</edge>
+<edge source="RECLTD.NS" target="UCOBANK.NS">
+  <data key="d3">0.5301874850505008</data>
+  <data key="d4">0.969342576130337</data>
+</edge>
+<edge source="RECLTD.NS" target="UNIONBANK.NS">
+  <data key="d3">0.555311851400216</data>
+  <data key="d4">0.9430674934486757</data>
+</edge>
+<edge source="RITES.NS" target="RVNL.NS">
+  <data key="d3">0.6186935048495327</data>
+  <data key="d4">0.8732771554901311</data>
+</edge>
+<edge source="RITES.NS" target="RAILTEL.NS">
+  <data key="d3">0.7191799495017457</data>
+  <data key="d4">0.7494265147407774</data>
+</edge>
+<edge source="RITES.NS" target="SJVN.NS">
+  <data key="d3">0.5902736162612273</data>
+  <data key="d4">0.9052363047721547</data>
+</edge>
+<edge source="RITES.NS" target="TITAGARH.NS">
+  <data key="d3">0.5497793231864131</data>
+  <data key="d4">0.9489158833253735</data>
+</edge>
+<edge source="RVNL.NS" target="RAILTEL.NS">
+  <data key="d3">0.7150058937214729</data>
+  <data key="d4">0.7549756370619214</data>
+</edge>
+<edge source="RVNL.NS" target="SJVN.NS">
+  <data key="d3">0.5516898582123697</data>
+  <data key="d4">0.9469003556738483</data>
+</edge>
+<edge source="RVNL.NS" target="TITAGARH.NS">
+  <data key="d3">0.5852549473752221</data>
+  <data key="d4">0.9107634738226802</data>
+</edge>
+<edge source="RAILTEL.NS" target="SJVN.NS">
+  <data key="d3">0.5652361529851258</data>
+  <data key="d4">0.9324846883620923</data>
+</edge>
+<edge source="RAILTEL.NS" target="TITAGARH.NS">
+  <data key="d3">0.5858296827456411</data>
+  <data key="d4">0.9101322071593324</data>
+</edge>
+<edge source="SJVN.NS" target="SAIL.NS">
+  <data key="d3">0.5178285646744162</data>
+  <data key="d4">0.9820096082275201</data>
+</edge>
+<edge source="SJVN.NS" target="TATAPOWER.NS">
+  <data key="d3">0.6367922495595978</data>
+  <data key="d4">0.8523001237127708</data>
+</edge>
+<edge source="SJVN.NS" target="UCOBANK.NS">
+  <data key="d3">0.5429560221144646</data>
+  <data key="d4">0.9560794714724665</data>
+</edge>
+<edge source="MOTHERSON.NS" target="TMPV.NS">
+  <data key="d3">0.5714376104345993</data>
+  <data key="d4">0.9258103364786988</data>
+</edge>
+<edge source="SHREECEM.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.5790330000193168</data>
+  <data key="d4">0.9175696158664837</data>
+</edge>
+<edge source="SHRIRAMFIN.NS" target="SBIN.NS">
+  <data key="d3">0.5087383233318719</data>
+  <data key="d4">0.9912231602097765</data>
+</edge>
+<edge source="SHRIRAMFIN.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.50034109287505</data>
+  <data key="d4">0.9996588489329247</data>
+</edge>
+<edge source="SBIN.NS" target="UCOBANK.NS">
+  <data key="d3">0.5456061730430123</data>
+  <data key="d4">0.9533035476247718</data>
+</edge>
+<edge source="SBIN.NS" target="UNIONBANK.NS">
+  <data key="d3">0.6241498757431737</data>
+  <data key="d4">0.8670064870078266</data>
+</edge>
+<edge source="SAIL.NS" target="TATAPOWER.NS">
+  <data key="d3">0.554211655485333</data>
+  <data key="d4">0.9442333869490815</data>
+</edge>
+<edge source="SAIL.NS" target="TATASTEEL.NS">
+  <data key="d3">0.7227485291314502</data>
+  <data key="d4">0.7446495428972609</data>
+</edge>
+<edge source="SAIL.NS" target="VEDL.NS">
+  <data key="d3">0.6095096517706968</data>
+  <data key="d4">0.8837311222643494</data>
+</edge>
+<edge source="TCS.NS" target="TECHM.NS">
+  <data key="d3">0.6796230379019206</data>
+  <data key="d4">0.8004710639343304</data>
+</edge>
+<edge source="TCS.NS" target="WIPRO.NS">
+  <data key="d3">0.6224754245767093</data>
+  <data key="d4">0.8689356425228403</data>
+</edge>
+<edge source="TATAPOWER.NS" target="TATASTEEL.NS">
+  <data key="d3">0.5540638265488982</data>
+  <data key="d4">0.9443899337149902</data>
+</edge>
+<edge source="TATAPOWER.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5077802996887172</data>
+  <data key="d4">0.9921891959815757</data>
+</edge>
+<edge source="TATAPOWER.NS" target="VEDL.NS">
+  <data key="d3">0.5162725770282369</data>
+  <data key="d4">0.9835928252806271</data>
+</edge>
+<edge source="TATASTEEL.NS" target="VEDL.NS">
+  <data key="d3">0.6334954947877419</data>
+  <data key="d4">0.856159453854547</data>
+</edge>
+<edge source="TECHM.NS" target="WIPRO.NS">
+  <data key="d3">0.5889417157619539</data>
+  <data key="d4">0.9067064400764407</data>
+</edge>
+<edge source="RAMCOCEM.NS" target="ULTRACEMCO.NS">
+  <data key="d3">0.5238172621969237</data>
+  <data key="d4">0.9758921434288487</data>
+</edge>
+<edge source="UCOBANK.NS" target="UNIONBANK.NS">
+  <data key="d3">0.5930939627791317</data>
+  <data key="d4">0.9021153332261549</data>
+</edge>
+<edge source="UCOBANK.NS" target="YESBANK.NS">
+  <data key="d3">0.5364280543088664</data>
+  <data key="d4">0.9628831140809705</data>
+</edge>
+</graph></graphml>

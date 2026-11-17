@@ -1,0 +1,21 @@
+,degree_full_sample,boot_mean_degree,boot_sd_degree,freq_in_top10,sector,psu
+DLF,152,164.63,40.6399,0.978,Realty,False
+CANBK,136,143.728,39.1984,0.794,Financials,True
+IRCTC,145,149.024,37.9754,0.772,Consumer Serv.,True
+CONCOR,142,142.048,41.5531,0.724,Services,True
+TATAPOWER,133,140.462,37.3238,0.652,Power,False
+NCC,134,139.502,40.3021,0.648,Construction,False
+RECLTD,131,137.5,33.0548,0.582,Financials,True
+LICHSGFIN,118,129.98,43.7877,0.45,Financials,False
+IRCON,122,130.35,38.5909,0.41,Construction,True
+AMBUJACEM,126,126.112,42.2043,0.346,Cement,False
+BHEL,122,127.288,37.2278,0.34,Capital Goods,True
+PFC,117,125.202,36.0799,0.26,Financials,True
+ABCAPITAL,104,120.258,39.9864,0.21,Financials,False
+SJVN,111,123.374,32.707,0.202,Power,True
+RAILTEL,109,120.582,38.2142,0.198,Telecom,True
+GAIL,117,122.84,36.5764,0.196,Oil & Gas,True
+ACC,115,116.326,46.2959,0.194,Cement,False
+CENTRALBK,111,119.064,37.2115,0.192,Financials,True
+PNB,115,122.728,37.3242,0.178,Financials,True
+LTF,103,114.89,35.3779,0.168,Financials,False

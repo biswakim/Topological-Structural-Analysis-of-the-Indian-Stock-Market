@@ -1,0 +1,13 @@
+,name,sector,degree,rank_degree_centrality,betweenness,rank_betweenness,eigenvector,rank_eigenvector,rho_market,median_traded_value_cr,degree_backbone,size_rank
+RELIANCE,Reliance Industries Ltd.,Oil & Gas,20,136,0.00001,209,0.02926,129,0.52184,1577.68236,0,2
+HDFCBANK,HDFC Bank Ltd.,Financials,15,152,0.00180,92,0.01339,166,0.46730,2242.77173,2,1
+ICICIBANK,ICICI Bank Ltd.,Financials,13,166,0.00142,99,0.01117,172,0.41391,1501.65891,2,3
+TCS,Tata Consultancy Services Ltd.,IT,15,152,0.00277,66,0.00000,289,0.22977,832.42988,8,9
+INFY,Infosys Ltd.,IT,14,160,0.00198,87,0.00000,292,0.22021,1099.19704,9,4
+BHARTIARTL,Bharti Airtel Ltd.,Telecom,0,314,0.00000,240,0.00000,314,0.34602,962.14707,0,7
+SBIN,State Bank of India,Financials,67,62,0.00105,114,0.08409,62,0.60102,1033.45072,22,5
+LT,Larsen & Toubro Ltd.,Construction,83,44,0.00249,71,0.09824,46,0.63952,693.56510,11,14
+ITC,ITC Ltd.,FMCG,0,314,0.00000,240,0.00000,314,0.28779,520.66427,0,18
+HINDUNILVR,Hindustan Unilever Ltd.,FMCG,7,199,0.00003,188,0.00000,306,0.21467,356.91655,1,35
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financials,2,263,0.00000,240,0.00033,262,0.39169,694.49318,0,13
+AXISBANK,Axis Bank Ltd.,Financials,18,143,0.00009,176,0.01751,150,0.46244,813.92101,3,10

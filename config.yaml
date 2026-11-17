@@ -1,0 +1,77 @@
+# ---------------------------------------------------------------------------
+# Single source of truth for every experiment in this repository.
+# Every script reads this file; nothing is hard-coded elsewhere.
+# ---------------------------------------------------------------------------
+
+data:
+  universe: nifty500            # nifty100 | nifty200 | nifty500
+  start: "2023-11-15"           # first calendar day requested (inclusive)
+  end: "2026-11-14"             # last calendar day requested (exclusive, yfinance convention)
+  interval: 1d
+  raw_dir: data/raw
+  processed_dir: data/processed
+  reference_dir: data/reference
+  batch_size: 50                # tickers per yfinance request
+  pause_seconds: 1.0            # politeness delay between batches
+  benchmark_tickers:            # used only for the market-mode extension
+    nifty50: "^NSEI"
+    nifty500: "^CRSLDX"
+
+preprocess:
+  min_coverage: 0.97            # a stock must have prices on >= 97% of trading days
+  max_ffill_days: 3             # forward-fill at most 3 consecutive missing days
+  extreme_return_flag: 0.20     # |log return| above this is audited (NSE price band is 20%)
+  # Single-day returns that are mechanical price resets, not economic returns.
+  # Each entry was audited by hand (see data/reference/return_audit.md); the
+  # return on that day is set to zero for that stock only.
+  return_overrides:
+    - {ticker: GPIL.NS,       date: "2024-01-01", reason: "5-for-1 split; prices before 1 Jan 2024 left unadjusted"}
+    - {ticker: CGCL.NS,       date: "2024-01-01", reason: "split + bonus (4x); prices before 1 Jan 2024 left unadjusted"}
+    - {ticker: MOTILALOFS.NS, date: "2024-01-01", reason: "3:1 bonus (4x); prices before 1 Jan 2024 left unadjusted"}
+    - {ticker: CONCOR.NS,     date: "2025-01-01", reason: "1:4 bonus; prices before 1 Jan 2025 left unadjusted"}
+    - {ticker: TRENT.NS,      date: "2026-01-01", reason: "1:2 bonus; prices before 1 Jan 2026 left unadjusted"}
+    - {ticker: TMPV.NS,       date: "2025-10-14", reason: "Tata Motors demerger ex-date"}
+    - {ticker: STLTECH.NS,    date: "2025-04-24", reason: "Sterlite Technologies demerger ex-date"}
+    - {ticker: VEDL.NS,       date: "2026-04-30", reason: "Vedanta demerger ex-date"}
+    - {ticker: HEGAM.NS,      date: "2026-09-07", reason: "HEG scheme-of-arrangement ex-date"}
+  # Context for the largest genuine moves (documentation only; these returns are kept).
+  genuine_event_notes:
+    "POLICYBZR.NS|2026-09-24": "regulator's proposal on insurance distribution"
+    "ZEEL.NS|2024-01-23": "merger with Sony called off"
+    "IEX.NS|2025-07-24": "power-market coupling order"
+    "INDUSINDBK.NS|2025-03-11": "derivative-accounting discrepancy disclosed"
+    "RECLTD.NS|2024-06-04": "general-election result day"
+    "PFC.NS|2024-06-04": "general-election result day"
+    "ADANIPORTS.NS|2024-06-04": "general-election result day"
+    "ADANIENT.NS|2024-11-21": "US indictment of group officials"
+
+network:
+  baseline_threshold: 0.40      # r* : primary network for analyses A-C
+  backbone_threshold: 0.50      # r_b: sparse "backbone" network reported alongside
+  use_absolute_correlation: false   # edge iff rho_ij > r (assignment definition)
+
+centrality:
+  top_k: 10
+  # Index heavyweights used for the "does network math match economic reality?" check
+  heavyweights: [RELIANCE, HDFCBANK, ICICIBANK, TCS, INFY, BHARTIARTL, SBIN, LT, ITC, HINDUNILVR, KOTAKBANK, AXISBANK]
+
+sensitivity:
+  thresholds_coarse: [0.20, 0.30, 0.40, 0.50, 0.60, 0.70, 0.80]
+  sweep_min: 0.10
+  sweep_max: 0.90
+  sweep_step: 0.01
+
+nulls:
+  n_random_graphs: 200          # ER / configuration-model replicates
+  n_shuffles: 20                # time-shuffled return surrogates
+  n_permutations: 2000          # sector-label permutations
+  seed: 20261116
+
+temporal:
+  window_days: 250              # ~1 trading year
+  step_days: 21                 # ~1 trading month
+
+output:
+  figures_dir: results/figures
+  tables_dir: results/tables
+  dpi: 200

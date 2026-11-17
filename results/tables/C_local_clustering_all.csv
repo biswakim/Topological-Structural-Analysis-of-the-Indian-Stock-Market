@@ -1,0 +1,437 @@
+Ticker,degree,clustering,sector,psu
+ZENSARTECH.NS,9,1,IT,False
+360ONE.NS,4,1,Financials,False
+ZENTEC.NS,2,1,Capital Goods,False
+AWL.NS,8,1,FMCG,False
+TATACONSUM.NS,3,1,FMCG,False
+AUBANK.NS,3,1,Financials,False
+TECHNOE.NS,3,1,Construction,False
+CHENNPETRO.NS,2,1,Oil & Gas,True
+PHOENIXLTD.NS,3,1,Realty,False
+OFSS.NS,5,1,IT,False
+NUVOCO.NS,4,1,Cement,False
+PATANJALI.NS,3,1,FMCG,False
+NUVAMA.NS,4,1,Financials,False
+ATUL.NS,2,1,Chemicals,False
+RKFORGE.NS,4,1,Auto,False
+SBICARD.NS,8,1,Financials,False
+BSE.NS,3,1,Financials,False
+BAJAJ-AUTO.NS,5,1,Auto,False
+SONACOMS.NS,3,1,Auto,False
+SOLARINDS.NS,7,1,Chemicals,False
+CEATLTD.NS,2,1,Auto,False
+CHOLAHLDNG.NS,3,1,Financials,False
+RRKABEL.NS,2,1,Capital Goods,False
+FINCABLES.NS,2,1,Capital Goods,False
+KIRLOSBROS.NS,3,1,Capital Goods,False
+KARURVYSYA.NS,10,1,Financials,False
+HSCL.NS,2,1,Chemicals,False
+HINDZINC.NS,8,1,Metals & Mining,False
+IEX.NS,4,1,Financials,False
+WELCORP.NS,3,1,Capital Goods,False
+INDUSINDBK.NS,3,1,Financials,False
+HDFCLIFE.NS,3,1,Financials,False
+JKCEMENT.NS,6,1,Cement,False
+JPPOWER.NS,3,1,Power,False
+HEGAM.NS,2,1,Capital Goods,False
+IGL.NS,2,1,Oil & Gas,False
+IIFL.NS,2,1,Financials,False
+GODREJCP.NS,3,1,FMCG,False
+GPIL.NS,4,1,Capital Goods,False
+MRF.NS,3,1,Auto,False
+NAVINFLUOR.NS,2,1,Chemicals,False
+CROMPTON.NS,2,1,Consumer Dur.,False
+KOTAKBANK.NS,2,1,Financials,False
+LTTS.NS,8,1,IT,False
+KEI.NS,2,1,Capital Goods,False
+KFINTECH.NS,5,1,Financials,False
+GRAVITA.NS,2,1,Metals & Mining,False
+OIL.NS,3,1,Oil & Gas,True
+DRREDDY.NS,2,1,Healthcare,False
+CANFINHOME.NS,26,0.975385,Financials,False
+FEDERALBNK.NS,15,0.971429,Financials,False
+NIACL.NS,29,0.963054,Financials,True
+GICRE.NS,19,0.959064,Financials,True
+ATGL.NS,10,0.955556,Oil & Gas,False
+SWANCORP.NS,23,0.952569,Chemicals,False
+KEC.NS,7,0.952381,Construction,False
+TATAELXSI.NS,7,0.952381,IT,False
+POWERGRID.NS,27,0.945869,Power,True
+IDEA.NS,17,0.941176,Telecom,False
+INDUSTOWER.NS,24,0.938406,Telecom,False
+RELIANCE.NS,20,0.936842,Oil & Gas,False
+SHREECEM.NS,8,0.928571,Cement,False
+IFCI.NS,29,0.926108,Financials,True
+NLCINDIA.NS,38,0.918919,Power,True
+KPITTECH.NS,9,0.916667,IT,False
+COCHINSHIP.NS,29,0.908867,Capital Goods,True
+KPIL.NS,20,0.905263,Construction,False
+SHYAMMETL.NS,23,0.905138,Capital Goods,False
+BRIGADE.NS,7,0.904762,Realty,False
+SOBHA.NS,7,0.904762,Realty,False
+JSL.NS,7,0.904762,Metals & Mining,False
+APLAPOLLO.NS,14,0.901099,Capital Goods,False
+SAMMAANCAP.NS,35,0.90084,Financials,False
+BRITANNIA.NS,5,0.9,FMCG,False
+COLPAL.NS,5,0.9,FMCG,False
+BOSCHLTD.NS,5,0.9,Auto,False
+ESCORTS.NS,5,0.9,Capital Goods,False
+ACE.NS,29,0.896552,Capital Goods,False
+WIPRO.NS,10,0.888889,IT,False
+CUMMINSIND.NS,28,0.886243,Capital Goods,False
+NAVA.NS,13,0.884615,Power,False
+ABSLAMC.NS,17,0.882353,Financials,False
+IDBI.NS,49,0.878401,Financials,True
+ABB.NS,24,0.876812,Capital Goods,False
+SIGNATURE.NS,11,0.872727,Realty,False
+HINDPETRO.NS,52,0.870287,Oil & Gas,True
+TTML.NS,6,0.866667,Telecom,False
+MUTHOOTFIN.NS,6,0.866667,Financials,False
+YESBANK.NS,41,0.863415,Financials,False
+ELECON.NS,19,0.859649,Capital Goods,False
+ARE&M.NS,19,0.859649,Auto,False
+UNOMINDA.NS,7,0.857143,Auto,False
+INDIANB.NS,53,0.856313,Financials,True
+JSWENERGY.NS,47,0.855689,Power,False
+ONGC.NS,29,0.85468,Oil & Gas,True
+JBMA.NS,11,0.854545,Auto,False
+ADANIENSOL.NS,23,0.849802,Power,False
+M&MFIN.NS,18,0.849673,Financials,False
+ADANIPOWER.NS,20,0.847368,Power,False
+COFORGE.NS,13,0.846154,IT,False
+ADANIGREEN.NS,26,0.843077,Power,False
+MANAPPURAM.NS,21,0.842857,Financials,False
+BAJFINANCE.NS,16,0.841667,Financials,False
+GLENMARK.NS,4,0.833333,Healthcare,False
+PGEL.NS,4,0.833333,Consumer Dur.,False
+BLS.NS,12,0.833333,Consumer Serv.,False
+PNBHOUSING.NS,4,0.833333,Financials,False
+SUNPHARMA.NS,4,0.833333,Healthcare,False
+DATAPATTNS.NS,13,0.833333,Capital Goods,False
+RAMCOCEM.NS,13,0.833333,Cement,False
+BANDHANBNK.NS,39,0.831309,Financials,False
+MMTC.NS,35,0.830252,Services,True
+CHOICEIN.NS,40,0.828205,Financials,False
+HCLTECH.NS,13,0.820513,IT,False
+RBLBANK.NS,43,0.818383,Financials,False
+COALINDIA.NS,48,0.818262,Oil & Gas,True
+BDL.NS,38,0.813656,Capital Goods,True
+J&KBANK.NS,56,0.812338,Financials,True
+MAZDOCK.NS,33,0.808712,Capital Goods,True
+TECHM.NS,13,0.807692,IT,False
+HBLENGINE.NS,47,0.80481,Capital Goods,False
+RPOWER.NS,12,0.80303,Power,False
+HDFCBANK.NS,15,0.8,Financials,False
+NAUKRI.NS,10,0.8,Consumer Serv.,False
+MINDACORP.NS,6,0.8,Auto,False
+DABUR.NS,5,0.8,FMCG,False
+NESTLEIND.NS,5,0.8,FMCG,False
+MGL.NS,10,0.8,Oil & Gas,False
+AXISBANK.NS,18,0.797386,Financials,False
+PETRONET.NS,57,0.793233,Oil & Gas,False
+INFY.NS,14,0.791209,IT,False
+LTM.NS,14,0.791209,IT,False
+GRSE.NS,27,0.789174,Capital Goods,True
+CESC.NS,63,0.788018,Power,False
+VEDL.NS,47,0.786309,Metals & Mining,False
+MARUTI.NS,8,0.785714,Auto,False
+IRB.NS,57,0.785088,Construction,False
+BHARATFORG.NS,53,0.783019,Auto,False
+ICICIBANK.NS,13,0.782051,Financials,False
+NATIONALUM.NS,47,0.780759,Metals & Mining,True
+DIXON.NS,31,0.776344,Consumer Dur.,False
+PERSISTENT.NS,14,0.769231,IT,False
+INDIGO.NS,31,0.763441,Services,False
+TITAGARH.NS,56,0.76039,Capital Goods,False
+LEMONTREE.NS,19,0.760234,Consumer Serv.,False
+DALBHARAT.NS,27,0.754986,Cement,False
+PRESTIGE.NS,21,0.752381,Realty,False
+SIEMENS.NS,60,0.751977,Capital Goods,False
+CGPOWER.NS,8,0.75,Capital Goods,False
+HEROMOTOCO.NS,8,0.75,Auto,False
+KAYNES.NS,9,0.75,Capital Goods,False
+SCI.NS,63,0.747056,Services,True
+TMPV.NS,33,0.746212,Auto,False
+JSWINFRA.NS,56,0.744156,Services,False
+GRAPHITE.NS,15,0.742857,Capital Goods,False
+RVNL.NS,68,0.734855,Construction,True
+HINDALCO.NS,16,0.733333,Metals & Mining,False
+UTIAMC.NS,10,0.733333,Financials,False
+UPL.NS,10,0.733333,Chemicals,False
+JINDALSAW.NS,55,0.729966,Capital Goods,False
+TCS.NS,15,0.72381,IT,False
+MPHASIS.NS,15,0.72381,IT,False
+MCX.NS,15,0.72381,Financials,False
+JMFINANCIL.NS,30,0.721839,Financials,False
+ADANIENT.NS,72,0.720266,Metals & Mining,False
+NTPC.NS,66,0.718415,Power,True
+INOXWIND.NS,55,0.717172,Capital Goods,False
+ABREL.NS,25,0.716667,Realty,False
+NSLNISP.NS,72,0.709703,Metals & Mining,True
+NHPC.NS,82,0.706113,Power,True
+GMDCLTD.NS,77,0.705742,Metals & Mining,True
+BPCL.NS,77,0.705058,Oil & Gas,True
+ENGINERSIN.NS,80,0.70443,Construction,True
+LLOYDSME.NS,26,0.701538,Metals & Mining,False
+UNIONBANK.NS,84,0.700229,Financials,True
+LTFOODS.NS,5,0.7,FMCG,False
+POONAWALLA.NS,5,0.7,Financials,False
+AUROPHARMA.NS,5,0.7,Healthcare,False
+MRPL.NS,5,0.7,Oil & Gas,True
+SBIN.NS,67,0.699231,Financials,True
+IDFCFIRSTB.NS,43,0.698782,Financials,False
+SUZLON.NS,39,0.697706,Capital Goods,False
+HAVELLS.NS,15,0.695238,Consumer Dur.,False
+RITES.NS,75,0.692973,Construction,True
+BEML.NS,68,0.691835,Capital Goods,True
+BSOFT.NS,15,0.685714,IT,False
+JSWSTEEL.NS,44,0.682875,Metals & Mining,False
+JINDALSTEL.NS,73,0.680746,Metals & Mining,False
+GRASIM.NS,26,0.670769,Cement,False
+JWL.NS,71,0.666801,Capital Goods,False
+DEEPAKFERT.NS,7,0.666667,Chemicals,False
+CIPLA.NS,4,0.666667,Healthcare,False
+BANKINDIA.NS,86,0.665663,Financials,True
+OBEROIRLTY.NS,54,0.665269,Realty,False
+HINDCOPPER.NS,80,0.663291,Metals & Mining,True
+OLECTRA.NS,55,0.661953,Auto,False
+BAJAJFINSV.NS,26,0.661538,Financials,False
+APOLLOTYRE.NS,14,0.659341,Auto,False
+UCOBANK.NS,91,0.657143,Financials,True
+ANGELONE.NS,39,0.649123,Financials,False
+LICI.NS,86,0.645964,Financials,True
+IRFC.NS,79,0.643298,Financials,True
+LODHA.NS,16,0.641667,Realty,False
+EXIDEIND.NS,73,0.64003,Auto,False
+MAHABANK.NS,94,0.63601,Financials,True
+CHAMBLFERT.NS,22,0.632035,Chemicals,False
+CAMS.NS,58,0.626134,Financials,False
+JIOFIN.NS,87,0.625769,Financials,False
+ADANIPORTS.NS,88,0.623302,Services,False
+SANSERA.NS,7,0.619048,Auto,False
+MARICO.NS,7,0.619048,FMCG,False
+HINDUNILVR.NS,7,0.619048,FMCG,False
+JKTYRE.NS,74,0.617179,Auto,False
+IOB.NS,93,0.615007,Financials,True
+MOTILALOFS.NS,61,0.613661,Financials,False
+INDHOTEL.NS,64,0.611607,Consumer Serv.,False
+LT.NS,83,0.611225,Construction,False
+NBCC.NS,96,0.609211,Construction,True
+EICHERMOT.NS,16,0.608333,Auto,False
+GMRAIRPORT.NS,100,0.600606,Services,False
+BANKBARODA.NS,95,0.598656,Financials,True
+NMDC.NS,94,0.584077,Metals & Mining,True
+HAL.NS,99,0.580293,Capital Goods,True
+HUDCO.NS,102,0.57814,Financials,True
+HFCL.NS,84,0.574871,Telecom,False
+CHOLAFIN.NS,27,0.57265,Financials,False
+BIOCON.NS,8,0.571429,Healthcare,False
+ANANTRAJ.NS,57,0.56015,Realty,False
+NAM-INDIA.NS,65,0.555769,Financials,False
+CDSL.NS,85,0.552381,Financials,False
+SAIL.NS,106,0.552201,Metals & Mining,True
+MOTHERSON.NS,75,0.548108,Auto,False
+M&M.NS,21,0.547619,Auto,False
+ZYDUSLIFE.NS,6,0.533333,Healthcare,False
+ULTRACEMCO.NS,48,0.530142,Cement,False
+CENTRALBK.NS,111,0.527109,Financials,True
+TATASTEEL.NS,99,0.52381,Metals & Mining,False
+BEL.NS,110,0.52377,Capital Goods,True
+IOC.NS,109,0.521747,Oil & Gas,True
+PNB.NS,115,0.515027,Financials,True
+PFC.NS,117,0.509726,Financials,True
+SJVN.NS,111,0.508927,Power,True
+ASHOKLEY.NS,83,0.505436,Capital Goods,False
+GRANULES.NS,5,0.5,Healthcare,False
+MFSL.NS,4,0.5,Financials,False
+FACT.NS,13,0.5,Chemicals,True
+SRF.NS,5,0.5,Chemicals,False
+SBILIFE.NS,4,0.5,Financials,False
+TVSMOTOR.NS,25,0.496667,Auto,False
+DEEPAKNTR.NS,14,0.494505,Chemicals,False
+GAIL.NS,117,0.492632,Oil & Gas,True
+PCBL.NS,18,0.490196,Chemicals,False
+RAILTEL.NS,109,0.485389,Telecom,True
+LICHSGFIN.NS,118,0.483558,Financials,False
+SHRIRAMFIN.NS,90,0.482397,Financials,False
+HDFCAMC.NS,97,0.478952,Financials,False
+TRIDENT.NS,27,0.478632,Textiles,False
+ABCAPITAL.NS,104,0.477969,Financials,False
+BHEL.NS,122,0.469178,Capital Goods,True
+ACC.NS,115,0.460259,Cement,False
+IRCON.NS,122,0.453733,Construction,True
+LTF.NS,103,0.450409,Financials,False
+RECLTD.NS,131,0.439812,Financials,True
+GODREJPROP.NS,100,0.436768,Realty,False
+AARTIIND.NS,50,0.433469,Chemicals,False
+AMBUJACEM.NS,126,0.432254,Cement,False
+CANBK.NS,136,0.423965,Financials,True
+TATAPOWER.NS,133,0.422875,Power,False
+NCC.NS,134,0.422512,Construction,False
+ICICILIFE.NS,5,0.4,Financials,False
+CONCOR.NS,142,0.388972,Services,True
+IRCTC.NS,145,0.381034,Consumer Serv.,True
+POLYCAB.NS,4,0.333333,Capital Goods,False
+WELSPUNLIV.NS,3,0.333333,Textiles,False
+DLF.NS,152,0.328163,Realty,False
+LUPIN.NS,9,0.305556,Healthcare,False
+LAURUSLABS.NS,9,0.277778,Healthcare,False
+TDPOWERSYS.NS,4,0.166667,Capital Goods,False
+TIINDIA.NS,1,0,Auto,False
+TRITURBINE.NS,0,0,Capital Goods,False
+TORNTPHARM.NS,1,0,Healthcare,False
+TORNTPOWER.NS,1,0,Power,False
+TITAN.NS,0,0,Consumer Dur.,False
+TIMKEN.NS,0,0,Capital Goods,False
+ASTERDM.NS,0,0,Healthcare,False
+THERMAX.NS,0,0,Capital Goods,False
+TRENT.NS,0,0,Consumer Serv.,False
+TARIL.NS,0,0,Capital Goods,False
+ASAHIINDIA.NS,0,0,Auto,False
+ASIANPAINT.NS,2,0,Consumer Dur.,False
+APOLLOHOSP.NS,0,0,Healthcare,False
+APTUS.NS,0,0,Financials,False
+AEGISLOG.NS,0,0,Oil & Gas,False
+ACUTAAS.NS,0,0,Healthcare,False
+APARINDS.NS,0,0,Capital Goods,False
+ANURAS.NS,0,0,Chemicals,False
+ANANDRATHI.NS,0,0,Financials,False
+AMBER.NS,0,0,Consumer Dur.,False
+AJANTPHARM.NS,0,0,Healthcare,False
+VBL.NS,0,0,FMCG,False
+INDIACEM.NS,0,0,Cement,False
+ITI.NS,1,0,Telecom,True
+THANGAMAYL.NS,0,0,Consumer Dur.,False
+TEJASNET.NS,1,0,Telecom,False
+ALKEM.NS,1,0,Healthcare,False
+AFFLE.NS,0,0,IT,False
+AETHER.NS,0,0,Chemicals,False
+ABBOTINDIA.NS,0,0,Healthcare,False
+GODFRYPHLP.NS,0,0,FMCG,False
+GODREJIND.NS,0,0,Diversified,False
+GLAXO.NS,0,0,Healthcare,False
+MEDANTA.NS,0,0,Healthcare,False
+GLAND.NS,0,0,Healthcare,False
+GILLETTE.NS,0,0,FMCG,False
+GABRIEL.NS,0,0,Auto,False
+GALLANTT.NS,0,0,Capital Goods,False
+FSL.NS,1,0,Services,False
+FIVESTAR.NS,0,0,Financials,False
+GVT&D.NS,1,0,Capital Goods,False
+FORTIS.NS,0,0,Healthcare,False
+KPRMILL.NS,0,0,Textiles,False
+LINDEINDIA.NS,0,0,Chemicals,False
+ETERNAL.NS,2,0,Consumer Serv.,False
+NYKAA.NS,0,0,Consumer Serv.,False
+JUBLINGREA.NS,0,0,Chemicals,False
+KSB.NS,0,0,Capital Goods,False
+KIRLOSENG.NS,0,0,Capital Goods,False
+KIMS.NS,0,0,Healthcare,False
+KAJARIACER.NS,0,0,Consumer Dur.,False
+KALYANKJIL.NS,0,0,Consumer Dur.,False
+VIJAYA.NS,0,0,Healthcare,False
+INTELLECT.NS,0,0,IT,False
+HOMEFIRST.NS,0,0,Financials,False
+POWERINDIA.NS,1,0,Capital Goods,False
+IPCALAB.NS,0,0,Healthcare,False
+HONAUT.NS,0,0,Capital Goods,False
+HONASA.NS,0,0,FMCG,False
+ICICIGI.NS,1,0,Financials,False
+ITC.NS,0,0,FMCG,False
+JUBLFOOD.NS,0,0,Consumer Serv.,False
+UBL.NS,0,0,FMCG,False
+UNITDSPR.NS,0,0,FMCG,False
+VOLTAS.NS,2,0,Consumer Dur.,False
+VTL.NS,1,0,Textiles,False
+USHAMART.NS,2,0,Capital Goods,False
+INDIAMART.NS,0,0,Consumer Serv.,False
+EIHOTEL.NS,2,0,Consumer Serv.,False
+EIDPARRY.NS,2,0,FMCG,False
+PIIND.NS,0,0,Chemicals,False
+PTCIL.NS,0,0,Capital Goods,False
+EMAMILTD.NS,0,0,FMCG,False
+ENDURANCE.NS,0,0,Auto,False
+DIVISLAB.NS,1,0,Healthcare,False
+LALPATHLAB.NS,0,0,Healthcare,False
+DEVYANI.NS,0,0,Consumer Serv.,False
+DELHIVERY.NS,0,0,Services,False
+ELGIEQUIP.NS,0,0,Capital Goods,False
+EMBASSY.NS,0,0,Realty,False
+NATCOPHARM.NS,0,0,Healthcare,False
+COROMANDEL.NS,2,0,Chemicals,False
+CUPID.NS,0,0,FMCG,False
+CREDITACC.NS,0,0,Financials,False
+CYIENT.NS,0,0,IT,False
+CRAFTSMAN.NS,0,0,Auto,False
+CONCORDBIO.NS,0,0,Healthcare,False
+NH.NS,0,0,Healthcare,False
+MSUMI.NS,1,0,Auto,False
+MTARTECH.NS,2,0,Capital Goods,False
+GESHIP.NS,1,0,Services,False
+MAXHEALTH.NS,0,0,Healthcare,False
+MANKIND.NS,0,0,Healthcare,False
+FLUOROCHEM.NS,0,0,Chemicals,False
+CEMPRO.NS,0,0,Construction,False
+CARBORUNIV.NS,0,0,Capital Goods,False
+CARTRADE.NS,0,0,Consumer Serv.,False
+CASTROLIND.NS,0,0,Oil & Gas,False
+CGCL.NS,0,0,Financials,False
+CIEINDIA.NS,1,0,Auto,False
+CRISIL.NS,0,0,Financials,False
+CAPLIPOINT.NS,0,0,Healthcare,False
+BIRET.NS,0,0,Realty,False
+CCL.NS,0,0,FMCG,False
+PVRINOX.NS,1,0,Media,False
+PAGEIND.NS,0,0,Textiles,False
+PARADEEP.NS,1,0,Chemicals,False
+PIDILITIND.NS,2,0,Chemicals,False
+PPLPHARMA.NS,0,0,Healthcare,False
+POLYMED.NS,0,0,Healthcare,False
+POLICYBZR.NS,0,0,Financials,False
+PAYTM.NS,0,0,Financials,False
+NETWEB.NS,1,0,IT,False
+NEULANDLAB.NS,0,0,Healthcare,False
+PFOCUS.NS,0,0,Media,False
+SCHNEIDER.NS,0,0,Capital Goods,False
+SCHAEFFLER.NS,0,0,Auto,False
+REDINGTON.NS,0,0,Services,False
+SHRIPISTON.NS,0,0,Auto,False
+RADICO.NS,0,0,FMCG,False
+RAINBOW.NS,0,0,Healthcare,False
+COHANCE.NS,0,0,Healthcare,False
+RHIM.NS,0,0,Capital Goods,False
+PRIVISCL.NS,0,0,Chemicals,False
+CUB.NS,0,0,Financials,False
+CLEAN.NS,0,0,Chemicals,False
+BATAINDIA.NS,0,0,Consumer Dur.,False
+BERGEPAINT.NS,1,0,Consumer Dur.,False
+BALKRISIND.NS,0,0,Auto,False
+BALRAMCHIN.NS,0,0,FMCG,False
+BAJAJHLDNG.NS,1,0,Financials,False
+ASTRAL.NS,2,0,Capital Goods,False
+AVANTIFEED.NS,0,0,FMCG,False
+DMART.NS,0,0,Consumer Serv.,False
+SARDAEN.NS,0,0,Metals & Mining,False
+SUMICHEM.NS,0,0,Chemicals,False
+SUNTV.NS,0,0,Media,False
+STLTECH.NS,1,0,Telecom,False
+BLUESTARCO.NS,1,0,Consumer Dur.,False
+STARHEALTH.NS,0,0,Financials,False
+BBOX.NS,0,0,IT,False
+BHARTIARTL.NS,0,0,Telecom,False
+TATACHEM.NS,1,0,Chemicals,False
+SYRMA.NS,1,0,Capital Goods,False
+SUPREMEIND.NS,1,0,Capital Goods,False
+SYNGENE.NS,0,0,Healthcare,False
+SUNDARMFIN.NS,0,0,Financials,False
+TEGA.NS,0,0,Capital Goods,False
+TATAINVEST.NS,0,0,Financials,False
+TATACOMM.NS,0,0,Telecom,False
+WOCKPHARMA.NS,0,0,Healthcare,False
+AAVAS.NS,0,0,Financials,False
+WHIRLPOOL.NS,0,0,Consumer Dur.,False
+ZFCVINDIA.NS,0,0,Auto,False
+AIAENG.NS,0,0,Capital Goods,False
+ZEEL.NS,0,0,Media,False
+ZYDUSWELL.NS,0,0,FMCG,False
+ECLERX.NS,0,0,Services,False

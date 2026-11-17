@@ -1,0 +1,13 @@
+{
+  "downloaded_at_utc": "2026-11-16T12:29:35+00:00",
+  "yfinance_version": "1.2.0",
+  "universe": "nifty500",
+  "start": "2023-11-15",
+  "end_exclusive": "2026-11-14",
+  "interval": "1d",
+  "tickers_requested": 501,
+  "tickers_with_data": 499,
+  "rows": 740,
+  "first_date": "2023-11-15",
+  "last_date": "2026-11-13"
+}

@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# LaTeX build products
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+
+# Derived data can always be rebuilt with scripts/02_build_network.py
+data/processed/
+
+# The raw download (about 11 MB) is tracked on purpose so that the exact
+# numbers in the report can be reproduced.  Uncomment to keep it out of git.
+# data/raw/

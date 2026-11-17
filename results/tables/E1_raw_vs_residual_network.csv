@@ -1,0 +1,5 @@
+match,network,edges,threshold,isolated,gcc,max_degree,avg_clustering,transitivity,avg_path_length,intra_sector_fraction,sector_assortativity,psu_assortativity,mono_sector_triangles,louvain_communities,nmi_louvain_vs_sector,degree_gini
+star,raw,5096,0.40000,123,305,152,0.48193,0.56644,2.73279,0.26079,0.13610,0.15112,0.07537,10,0.42893,0.70547
+star,residual,5096,0.09299,0,436,76,0.34812,0.41393,2.66263,0.40228,0.33368,0.57472,0.27762,6,0.35851,0.37547
+back,raw,936,0.50000,250,134,50,0.21294,0.51731,2.72854,0.44124,0.33018,0.46648,0.21440,23,0.61601,0.82078
+back,residual,936,0.20386,148,186,23,0.31947,0.59297,4.40604,0.70406,0.66727,0.75157,0.67754,32,0.66312,0.63992

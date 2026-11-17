@@ -1,0 +1,6 @@
+statistic,observed,"ER G(n,m) mean","ER G(n,m) sd","ER G(n,m) z",degree-preserving mean,degree-preserving sd,degree-preserving z
+avg_clustering,0.481931,0.0536734,0.00115305,371.414,0.422491,0.00686494,8.65844
+transitivity,0.566435,0.0536522,0.00111624,459.385,0.446529,0.00250109,47.9415
+avg_path_length,2.73279,2.2159,0.00134764,383.55,2.15544,0.00594681,97.0848
+gcc_fraction,0.699541,1,0,,0.717844,0.000457562,-40.0006
+max_degree,152,38.605,2.02472,56.0054,152,0,

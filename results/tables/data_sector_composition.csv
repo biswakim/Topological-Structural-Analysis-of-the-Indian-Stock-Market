@@ -1,0 +1,21 @@
+sector,in_index,in_network,psu_in_network
+Financials,98,87,21
+Capital Goods,70,60,8
+Healthcare,44,39,0
+Auto,40,34,0
+FMCG,28,26,0
+Chemicals,26,26,1
+IT,25,20,0
+Metals & Mining,20,17,6
+Oil & Gas,19,16,9
+Consumer Dur.,16,15,0
+Power,19,15,5
+Consumer Serv.,23,14,1
+Realty,14,13,0
+Services,14,12,3
+Construction,13,12,5
+Cement,11,10,0
+Telecom,11,10,2
+Textiles,5,5,0
+Media,4,4,0
+Diversified,1,1,0

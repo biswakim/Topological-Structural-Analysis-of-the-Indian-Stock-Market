@@ -1,0 +1,3 @@
+threshold,edges_obs,edges_one,edges_both,recall,precision,jaccard,degree_spearman,excess_edges,excess_same_sector,explained_same_sector,excess_psu_pair,one_clustering,one_transitivity,one_gcc,one_sector_assort,one_psu_assort
+0.40000,5096,3277,2592,0.50863,0.79097,0.44837,0.83215,2504,0.35264,0.17207,0.18570,0.90238,0.66736,154,-0.01442,-0.05435
+0.50000,936,41,35,0.03739,0.85366,0.03715,0.37987,901,0.45616,0.05714,0.49279,0.81431,0.47883,18,-0.13123,-0.16636

@@ -1,0 +1,21 @@
+,degree_full_sample,boot_mean_degree,boot_sd_degree,freq_in_top10,sector,psu
+CANBK,49,54.964,24.57,0.93,Financials,True
+RECLTD,50,53.576,25.2966,0.868,Financials,True
+DLF,39,49.558,28.1262,0.686,Realty,False
+TATAPOWER,43,49.2,26.0481,0.654,Power,False
+PNB,39,46.07,22.8554,0.574,Financials,True
+CONCOR,40,46.216,30.1252,0.554,Services,True
+IRCTC,33,46.15,26.4107,0.534,Consumer Serv.,True
+BEL,45,44.3,26.9129,0.502,Capital Goods,True
+PFC,42,45.27,26.0787,0.486,Financials,True
+CENTRALBK,36,41.958,20.8577,0.416,Financials,True
+BHEL,37,42.166,24.846,0.372,Capital Goods,True
+AMBUJACEM,35,41.89,28.5895,0.368,Cement,False
+SJVN,32,40.874,18.4124,0.36,Power,True
+GAIL,37,42.34,25.4516,0.342,Oil & Gas,True
+IRCON,32,40.548,20.3385,0.34,Construction,True
+NCC,29,38.918,26.6078,0.22,Construction,False
+HUDCO,35,38.516,20.8557,0.218,Financials,True
+NBCC,29,30.948,12.9756,0.188,Construction,True
+LICHSGFIN,31,36.124,28.1793,0.164,Financials,False
+RAILTEL,22,32.044,19.0501,0.126,Telecom,True

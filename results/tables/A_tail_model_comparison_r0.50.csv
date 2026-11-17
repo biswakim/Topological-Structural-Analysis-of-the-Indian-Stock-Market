@@ -1,0 +1,5 @@
+model,parameters,loglik,aic,delta_aic,llr_powerlaw_vs_model,vuong_p
+power law,alpha=1.978,-334.166,670.331,30.3844,,
+exponential,lambda=0.075,-318.974,639.947,0,-15.1922,0.000341735
+log-normal,"mu=2.492, sigma=0.806",-321.248,646.497,6.54972,-12.9173,0.00123259
+power law + cut-off,"alpha=0.013, lambda=0.075",-318.973,641.946,1.99924,-15.1926,0.000317248

@@ -1,0 +1,48 @@
+stock_a,stock_b,sector_a,sector_b,rho
+PFC,RECLTD,Financials,Financials,0.907218
+IOB,UCOBANK,Financials,Financials,0.879177
+CENTRALBK,UCOBANK,Financials,Financials,0.863438
+CENTRALBK,IOB,Financials,Financials,0.855045
+BPCL,IOC,Oil & Gas,Oil & Gas,0.848352
+BPCL,HINDPETRO,Oil & Gas,Oil & Gas,0.845191
+ACC,AMBUJACEM,Cement,Cement,0.832441
+ADANIENT,ADANIPORTS,Metals & Mining,Services,0.816866
+HINDPETRO,IOC,Oil & Gas,Oil & Gas,0.813924
+CANBK,PNB,Financials,Financials,0.808608
+ADANIENSOL,ADANIGREEN,Power,Power,0.807918
+IRCON,RVNL,Construction,Construction,0.8033
+BANKBARODA,CANBK,Financials,Financials,0.789995
+BANKBARODA,PNB,Financials,Financials,0.784475
+IRCON,RAILTEL,Construction,Telecom,0.784472
+BAJFINANCE,BAJAJFINSV,Financials,Financials,0.773959
+MAHABANK,CENTRALBK,Financials,Financials,0.772412
+IRFC,RVNL,Financials,Construction,0.767989
+COCHINSHIP,GRSE,Capital Goods,Capital Goods,0.767103
+BEL,HAL,Capital Goods,Capital Goods,0.765446
+MAHABANK,UCOBANK,Financials,Financials,0.764527
+IRCON,IRFC,Construction,Financials,0.756131
+MAHABANK,IOB,Financials,Financials,0.751589
+BANKINDIA,UNIONBANK,Financials,Financials,0.750208
+DLF,GODREJPROP,Realty,Realty,0.747073
+INFY,TCS,IT,IT,0.746733
+JSWSTEEL,TATASTEEL,Metals & Mining,Metals & Mining,0.744155
+GRSE,MAZDOCK,Capital Goods,Capital Goods,0.742986
+CANBK,UNIONBANK,Financials,Financials,0.742458
+JINDALSTEL,TATASTEEL,Metals & Mining,Metals & Mining,0.739009
+ADANIENT,ADANIGREEN,Metals & Mining,Power,0.736974
+BANKINDIA,PNB,Financials,Financials,0.727856
+SAIL,TATASTEEL,Metals & Mining,Metals & Mining,0.722749
+BANKBARODA,SBIN,Financials,Financials,0.72243
+ADANIENSOL,ADANIENT,Power,Metals & Mining,0.722366
+PNB,UNIONBANK,Financials,Financials,0.721527
+RITES,RAILTEL,Construction,Telecom,0.71918
+BANKINDIA,CANBK,Financials,Financials,0.715921
+RVNL,RAILTEL,Construction,Telecom,0.715006
+HCLTECH,INFY,IT,IT,0.714797
+INFY,TECHM,IT,IT,0.710625
+IRCON,RITES,Construction,Construction,0.709318
+NMDC,SAIL,Metals & Mining,Metals & Mining,0.708002
+NHPC,SJVN,Power,Power,0.705903
+ABB,SIEMENS,Capital Goods,Capital Goods,0.70388
+COFORGE,PERSISTENT,IT,IT,0.701374
+COCHINSHIP,MAZDOCK,Capital Goods,Capital Goods,0.701061
